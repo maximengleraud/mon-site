@@ -1,0 +1,300 @@
+{
+ "source": "Programme présidentiel de Valérie Pécresse, candidate Les Républicains à l'élection présidentielle 2022, et propositions officielles des Républicains pour les élections législatives anticipées de juin-juillet 2024",
+ "themes": [
+  {
+   "title": "Économie",
+   "points": [
+    {
+     "title": "Réduction de la dépense publique et maîtrise de la dette",
+     "summary": "Le parti propose un plan de réduction de la dépense publique pour redresser les comptes de l'État.",
+     "details": "Le programme 2022 prévoit des économies importantes sur le fonctionnement de l'État afin de réduire le déficit et la dette publique. L'objectif affiché est de ramener le déficit public sous les 3 % du PIB au cours du quinquennat. En 2024, LR a réaffirmé la priorité donnée au redressement des finances publiques par la baisse des dépenses plutôt que par la hausse des impôts."
+    },
+    {
+     "title": "Réduction du nombre de postes dans l'administration",
+     "summary": "Le programme 2022 prévoit de réduire les effectifs administratifs de la fonction publique tout en renforçant les métiers de terrain.",
+     "details": "Valérie Pécresse proposait de supprimer environ 150 000 postes de fonctionnaires sur le quinquennat. Les suppressions devaient porter sur les fonctions administratives. Des recrutements étaient prévus en parallèle dans les secteurs jugés prioritaires, comme la santé, la sécurité et la justice. L'objectif affiché était de rendre l'État plus efficace et moins coûteux."
+    },
+    {
+     "title": "Soutien à la compétitivité et à la réindustrialisation",
+     "summary": "Le parti propose d'alléger les charges et les impôts pesant sur les entreprises pour favoriser la production en France.",
+     "details": "Le programme prévoit la poursuite de la baisse des impôts de production. Il prévoit aussi une simplification normative et administrative pour les entreprises. L'objectif affiché est de soutenir l'industrie et l'emploi sur le territoire national."
+    }
+   ]
+  },
+  {
+   "title": "Fiscalité",
+   "points": [
+    {
+     "title": "Pas de hausse d'impôts",
+     "summary": "Le parti s'engage à ne pas augmenter les prélèvements obligatoires.",
+     "details": "Les programmes 2022 et 2024 excluent toute hausse générale des impôts. Ils mettent l'accent sur la baisse de la dépense publique pour financer les mesures. LR présente la France comme l'un des pays les plus taxés d'Europe et juge nécessaire de réduire la pression fiscale."
+    },
+    {
+     "title": "Facilitation des donations et allègement des successions",
+     "summary": "Le programme 2022 prévoit de faciliter la transmission du patrimoine au sein des familles.",
+     "details": "Valérie Pécresse proposait de permettre des donations défiscalisées plus fréquentes : le délai de renouvellement de l'abattement devait passer de 15 à 6 ans. Le programme prévoyait également un allègement de la fiscalité sur les successions. L'objectif affiché était de favoriser la transmission entre générations et de soutenir les classes moyennes."
+    },
+    {
+     "title": "Défiscalisation des heures supplémentaires",
+     "summary": "Le parti propose d'alléger la fiscalité et les charges sur les heures supplémentaires.",
+     "details": "Le programme prévoit de renforcer l'exonération des heures supplémentaires afin d'augmenter le revenu des salariés qui travaillent davantage. Cette mesure s'inscrit dans la logique de valorisation du travail défendue par le parti."
+    }
+   ]
+  },
+  {
+   "title": "Travail",
+   "points": [
+    {
+     "title": "Augmentation de 10 % des salaires nets jusqu'à 2,2 SMIC",
+     "summary": "Le programme 2022 prévoit une hausse des salaires nets financée par une baisse des cotisations salariales.",
+     "details": "Valérie Pécresse proposait d'augmenter de 10 % les salaires nets des salariés rémunérés jusqu'à 2,2 SMIC d'ici la fin du quinquennat. La hausse devait être obtenue par une réduction progressive des cotisations sociales, sans coût supplémentaire pour l'employeur. L'objectif affiché était de redonner du pouvoir d'achat et de mieux récompenser le travail."
+    },
+    {
+     "title": "Assouplissement des 35 heures",
+     "summary": "Le parti propose de permettre aux entreprises et aux salariés de travailler davantage par accord.",
+     "details": "Le programme prévoit de faciliter la sortie des 35 heures par la négociation collective au niveau de l'entreprise. Il prévoit aussi la possibilité de monétiser les jours de RTT. L'objectif affiché est d'augmenter le temps de travail et les revenus."
+    },
+    {
+     "title": "Contreparties au versement du RSA",
+     "summary": "Le parti propose de conditionner le RSA à une activité.",
+     "details": "Le programme prévoit que le versement du RSA soit assorti d'heures d'activité ou de formation. L'objectif affiché est de favoriser le retour à l'emploi et d'éviter l'enfermement dans l'assistance."
+    },
+    {
+     "title": "Plafonnement des aides sociales (allocation sociale unique)",
+     "summary": "LR propose de regrouper les aides sociales et d'en plafonner le montant afin que le travail rapporte toujours plus que l'assistance.",
+     "details": "Le parti défend la création d'une allocation sociale unique fusionnant plusieurs minima sociaux et aides. Le montant cumulé des aides serait plafonné par rapport aux revenus du travail. LR a repris cette proposition dans ses positions de 2024."
+    }
+   ]
+  },
+  {
+   "title": "Retraites",
+   "points": [
+    {
+     "title": "Report progressif de l'âge légal à 65 ans",
+     "summary": "Le programme 2022 prévoit de relever progressivement l'âge légal de départ à la retraite à 65 ans.",
+     "details": "Valérie Pécresse proposait de porter l'âge légal de départ de 62 à 65 ans, de manière progressive. Des aménagements étaient prévus pour les carrières longues et les métiers pénibles. L'objectif affiché était d'assurer l'équilibre financier du système de retraite."
+    },
+    {
+     "title": "Revalorisation des petites pensions",
+     "summary": "Le parti propose de garantir un niveau minimal de pension pour les carrières complètes.",
+     "details": "Le programme prévoit une revalorisation des petites retraites, notamment pour les personnes ayant effectué une carrière complète. L'objectif affiché est de mieux récompenser le travail tout au long de la vie."
+    }
+   ]
+  },
+  {
+   "title": "Famille",
+   "points": [
+    {
+     "title": "Rétablissement de l'universalité des allocations familiales",
+     "summary": "Le programme 2022 prévoit de rendre de nouveau les allocations familiales universelles.",
+     "details": "Valérie Pécresse proposait de revenir sur la modulation des allocations familiales selon les revenus. Elle proposait aussi de verser une allocation dès le premier enfant. Le programme prévoyait en outre de renforcer le quotient familial. L'objectif affiché était de soutenir la natalité et les familles, en particulier les classes moyennes."
+    }
+   ]
+  },
+  {
+   "title": "Sécurité",
+   "points": [
+    {
+     "title": "Instauration de peines planchers",
+     "summary": "Le parti propose le rétablissement de peines minimales, notamment pour les récidivistes et les auteurs d'agressions contre les forces de l'ordre.",
+     "details": "LR défend le retour des peines planchers, supprimées en 2014, pour les récidivistes et certaines infractions graves. Cette mesure figure dans le programme 2022 comme dans les positions de 2024. L'objectif affiché est de garantir une réponse pénale plus ferme et dissuasive."
+    },
+    {
+     "title": "Reconquête des quartiers et lutte contre le trafic de drogue",
+     "summary": "Le programme 2022 prévoit une action renforcée de l'État dans les quartiers touchés par la délinquance et les trafics.",
+     "details": "Valérie Pécresse annonçait vouloir rétablir l'ordre dans les zones de non-droit, avec une présence policière accrue et une lutte intensifiée contre les trafics. Elle avait employé l'expression « ressortir le Kärcher de la cave » pour illustrer cette fermeté. Le programme prévoit également de sanctionner les consommateurs de drogue."
+    },
+    {
+     "title": "Renforcement des moyens des forces de l'ordre",
+     "summary": "Le parti propose d'augmenter les effectifs et les moyens de la police et de la gendarmerie.",
+     "details": "Le programme prévoit des recrutements dans la police et la gendarmerie, financés par la réduction des effectifs administratifs. Il prévoit aussi un allègement des tâches administratives des policiers et un renforcement du rôle des polices municipales. L'objectif affiché est d'accroître la présence sur le terrain."
+    }
+   ]
+  },
+  {
+   "title": "Justice",
+   "points": [
+    {
+     "title": "Construction de places de prison et exécution des peines",
+     "summary": "Le parti propose d'augmenter la capacité carcérale pour garantir l'exécution des peines prononcées.",
+     "details": "Le programme prévoit la construction de nouvelles places de prison. L'objectif est que les peines d'emprisonnement prononcées soient effectivement exécutées. LR présente l'inexécution des peines comme une cause de la perte de confiance dans la justice."
+    },
+    {
+     "title": "Renforcement des moyens de la justice",
+     "summary": "Le programme 2022 prévoit de recruter des magistrats et des personnels de justice pour accélérer les procédures.",
+     "details": "Valérie Pécresse proposait d'augmenter les effectifs de la justice. L'objectif affiché était de réduire les délais de jugement et de rendre la réponse pénale plus rapide."
+    },
+    {
+     "title": "Durcissement de la justice des mineurs",
+     "summary": "Le parti propose de renforcer la responsabilité pénale des mineurs délinquants.",
+     "details": "LR défend une réponse pénale plus ferme envers les mineurs auteurs d'infractions, y compris la possibilité d'appliquer des peines plus sévères aux mineurs les plus âgés. L'objectif affiché est de répondre au rajeunissement de la délinquance."
+    }
+   ]
+  },
+  {
+   "title": "Immigration",
+   "points": [
+    {
+     "title": "Référendum sur l'immigration et révision constitutionnelle",
+     "summary": "Le parti propose une révision de la Constitution par référendum pour reprendre le contrôle de la politique migratoire.",
+     "details": "Le programme 2022 prévoyait un référendum permettant de modifier la Constitution en matière d'immigration. LR a reformulé cette proposition en 2024. La révision viserait notamment à faire primer le droit national dans ce domaine et à permettre au Parlement de fixer des orientations contraignantes."
+    },
+    {
+     "title": "Quotas migratoires votés par le Parlement",
+     "summary": "Le parti propose que le Parlement fixe chaque année des plafonds d'immigration par catégorie.",
+     "details": "Le programme prévoit que le Parlement vote chaque année des quotas d'entrées sur le territoire, par type de titre de séjour. L'objectif affiché est de réduire et de maîtriser l'immigration légale."
+    },
+    {
+     "title": "Durcissement du regroupement familial",
+     "summary": "Le parti propose de restreindre les conditions du regroupement familial.",
+     "details": "Le programme prévoit de durcir les conditions de ressources, de logement et d'intégration exigées pour le regroupement familial. L'objectif affiché est de limiter l'immigration familiale."
+    },
+    {
+     "title": "Conditionnement des prestations sociales à une durée de résidence",
+     "summary": "Le parti propose de réserver certaines prestations sociales non contributives aux étrangers résidant légalement en France depuis plusieurs années.",
+     "details": "Le programme prévoit une condition de durée de résidence régulière, de l'ordre de cinq ans, pour accéder à certaines aides sociales. L'objectif affiché est de réduire l'attractivité sociale de la France pour l'immigration."
+    },
+    {
+     "title": "Suppression de l'Aide médicale d'État",
+     "summary": "Le parti propose de remplacer l'AME par une aide médicale limitée aux soins urgents.",
+     "details": "LR propose de supprimer l'Aide médicale d'État dont bénéficient les étrangers en situation irrégulière. Elle serait remplacée par un dispositif restreint aux urgences et aux maladies graves. Cette mesure figure dans le programme 2022 et dans les positions de 2024."
+    },
+    {
+     "title": "Exécution des obligations de quitter le territoire",
+     "summary": "Le parti propose d'améliorer l'exécution des expulsions des étrangers en situation irrégulière.",
+     "details": "Le programme prévoit d'augmenter les capacités de rétention administrative. Il prévoit aussi de conditionner l'aide au développement et la délivrance de visas à la coopération des pays d'origine pour les réadmissions. L'objectif affiché est que les obligations de quitter le territoire français soient effectivement exécutées."
+    },
+    {
+     "title": "Rétablissement du délit de séjour irrégulier",
+     "summary": "Le parti propose de rétablir le séjour irrégulier comme délit pénal.",
+     "details": "LR défend le rétablissement du délit de séjour irrégulier, supprimé en 2012. L'objectif affiché est de renforcer la dissuasion et les moyens d'action des autorités face à l'immigration illégale."
+    }
+   ]
+  },
+  {
+   "title": "Éducation",
+   "points": [
+    {
+     "title": "Recentrage sur les savoirs fondamentaux",
+     "summary": "Le programme 2022 prévoit de renforcer l'apprentissage du français et des mathématiques à l'école primaire.",
+     "details": "Valérie Pécresse proposait de consacrer davantage de temps à la lecture, à l'écriture et au calcul à l'école primaire. Le programme prévoyait aussi l'instauration d'un examen d'entrée en sixième pour vérifier la maîtrise des fondamentaux. Un soutien renforcé était prévu pour les élèves en difficulté."
+    },
+    {
+     "title": "Revalorisation du métier d'enseignant",
+     "summary": "Le parti propose de mieux rémunérer les enseignants, en contrepartie d'évolutions dans l'organisation de leur travail.",
+     "details": "Le programme prévoit une revalorisation salariale des enseignants. Il prévoit aussi davantage d'autonomie pour les chefs d'établissement. L'objectif affiché est de rendre le métier plus attractif et de renforcer l'efficacité du système éducatif."
+    },
+    {
+     "title": "Rétablissement de l'autorité à l'école",
+     "summary": "Le parti propose de restaurer l'autorité des enseignants et le respect de la laïcité dans les établissements.",
+     "details": "Le programme prévoit des sanctions plus fermes en cas de violences ou d'atteintes à la laïcité dans les établissements. Il prévoit aussi un soutien renforcé de l'institution aux professeurs. L'objectif affiché est de garantir un climat scolaire propice aux apprentissages."
+    },
+    {
+     "title": "Développement de l'apprentissage et de la voie professionnelle",
+     "summary": "Le parti propose de valoriser l'apprentissage et l'enseignement professionnel.",
+     "details": "Le programme prévoit de développer l'apprentissage et de rapprocher la voie professionnelle des entreprises. L'objectif affiché est de favoriser l'insertion des jeunes dans l'emploi."
+    }
+   ]
+  },
+  {
+   "title": "Santé",
+   "points": [
+    {
+     "title": "Lutte contre les déserts médicaux",
+     "summary": "Le parti propose des mesures pour améliorer l'accès aux soins dans les territoires sous-dotés.",
+     "details": "Le programme 2022 prévoit d'augmenter le nombre de médecins formés. Il prévoit aussi d'inciter les jeunes médecins à s'installer dans les zones sous-dotées, notamment pendant la fin de leur formation. L'objectif affiché est de garantir un accès aux soins sur tout le territoire."
+    },
+    {
+     "title": "Renforcement de l'hôpital",
+     "summary": "Le programme 2022 prévoit des recrutements de soignants et une réduction de la charge administrative à l'hôpital.",
+     "details": "Valérie Pécresse proposait de recruter des personnels soignants. Le programme prévoyait aussi de réduire le poids des fonctions administratives dans les hôpitaux et de redonner un rôle plus important aux médecins dans leur gouvernance. L'objectif affiché était d'améliorer les conditions de travail et la qualité des soins."
+    }
+   ]
+  },
+  {
+   "title": "Énergie",
+   "points": [
+    {
+     "title": "Relance du nucléaire",
+     "summary": "Le parti propose la construction de nouveaux réacteurs nucléaires et la prolongation des centrales existantes.",
+     "details": "Le programme prévoit de relancer la filière nucléaire par la construction de nouveaux réacteurs EPR et par la prolongation de la durée de vie du parc existant lorsque la sûreté le permet. LR présente le nucléaire comme le moyen de garantir une électricité décarbonée, abondante et peu chère, ainsi que la souveraineté énergétique."
+    },
+    {
+     "title": "Encadrement du développement de l'éolien",
+     "summary": "Le parti se montre réservé sur l'éolien terrestre et souhaite en limiter le développement.",
+     "details": "LR propose de mieux encadrer l'implantation des éoliennes terrestres, en donnant davantage de pouvoir aux élus locaux. L'objectif affiché est de tenir compte de l'impact sur les paysages et de l'acceptabilité locale."
+    }
+   ]
+  },
+  {
+   "title": "Environnement",
+   "points": [
+    {
+     "title": "Écologie de progrès fondée sur l'innovation",
+     "summary": "Le parti défend une transition écologique fondée sur l'innovation et refuse l'écologie punitive.",
+     "details": "Le programme mise sur la recherche, l'innovation technologique et le nucléaire pour réduire les émissions de gaz à effet de serre. Il rejette les mesures jugées punitives pour les ménages. L'objectif affiché est de concilier croissance économique et protection de l'environnement."
+    },
+    {
+     "title": "Mécanisme d'ajustement carbone aux frontières",
+     "summary": "Le parti soutient une taxe carbone aux frontières de l'Union européenne.",
+     "details": "Le programme défend l'instauration d'un mécanisme d'ajustement carbone aux frontières de l'Union européenne. L'objectif est de soumettre les importations aux mêmes exigences environnementales que la production européenne et de protéger l'industrie contre la concurrence jugée déloyale."
+    }
+   ]
+  },
+  {
+   "title": "Agriculture",
+   "points": [
+    {
+     "title": "Défense du revenu agricole et de la souveraineté alimentaire",
+     "summary": "Le parti propose de protéger les agriculteurs et de garantir la souveraineté alimentaire de la France.",
+     "details": "Le programme prévoit d'alléger les normes pesant sur les agriculteurs et de refuser la surtransposition des règles européennes. Il prévoit aussi de mieux protéger les producteurs contre les importations ne respectant pas les normes françaises. Ces positions ont été réaffirmées en 2024, dans le contexte de la crise agricole."
+    }
+   ]
+  },
+  {
+   "title": "Institutions",
+   "points": [
+    {
+     "title": "Recours accru au référendum",
+     "summary": "Le parti propose de recourir davantage au référendum pour les grandes réformes.",
+     "details": "Le programme prévoit l'utilisation du référendum sur des sujets majeurs, en particulier l'immigration. L'objectif affiché est de redonner la parole aux Français sur les choix structurants."
+    },
+    {
+     "title": "Décentralisation et renforcement des collectivités",
+     "summary": "Le parti propose de transférer davantage de compétences aux collectivités territoriales.",
+     "details": "Le programme 2022 prévoit une nouvelle étape de décentralisation, en confiant davantage de responsabilités aux régions, aux départements et aux communes. L'objectif affiché est de rapprocher la décision des citoyens et de simplifier l'action publique."
+    },
+    {
+     "title": "Défense de la laïcité et lutte contre l'islamisme",
+     "summary": "Le parti propose de renforcer les outils de lutte contre le séparatisme et l'islamisme.",
+     "details": "Le programme prévoit des mesures fermes contre l'islamisme politique, notamment la fermeture des lieux et associations prônant la haine et un contrôle accru des financements étrangers. Il prévoit aussi de défendre la laïcité dans les services publics et à l'école."
+    }
+   ]
+  },
+  {
+   "title": "Europe",
+   "points": [
+    {
+     "title": "Renforcement des frontières extérieures de l'Union européenne",
+     "summary": "Le parti propose de mieux protéger les frontières extérieures de l'espace Schengen.",
+     "details": "Le programme prévoit de renforcer les moyens de Frontex et de réformer l'espace Schengen. Il prévoit aussi la possibilité de rétablir des contrôles aux frontières nationales en cas de besoin. L'objectif affiché est de lutter contre l'immigration illégale."
+    },
+    {
+     "title": "Europe de la protection et de la souveraineté",
+     "summary": "Le parti défend une Europe qui protège son économie et affirme sa souveraineté.",
+     "details": "LR soutient une Europe qui défend ses intérêts commerciaux, industriels et stratégiques face aux grandes puissances. Le parti s'oppose à une extension des compétences de l'Union jugée excessive et défend le principe de subsidiarité."
+    }
+   ]
+  },
+  {
+   "title": "Défense",
+   "points": [
+    {
+     "title": "Augmentation des moyens des armées",
+     "summary": "Le parti propose de poursuivre l'effort budgétaire en faveur de la défense.",
+     "details": "Le programme prévoit d'augmenter les crédits militaires afin de renforcer les capacités des armées dans un contexte international dégradé. L'objectif affiché est de garantir l'indépendance et la sécurité de la France."
+    }
+   ]
+  }
+ ]
+}

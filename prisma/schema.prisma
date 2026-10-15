@@ -1,0 +1,363 @@
+generator client {
+    provider = "prisma-client-js"
+    binaryTargets = ["native", "linux-musl-arm64-openssl-3.0.x"]
+    output = "/home/ubuntu/plateforme_politique/nextjs_space/node_modules/.prisma/client"
+}
+
+datasource db {
+    provider = "postgresql"
+    url      = env("DATABASE_URL")
+}
+
+enum Role {
+  USER
+  MODERATOR
+  ADMIN
+}
+
+enum UserMode {
+  COMPETITION
+  TRANQUILLITE
+}
+
+enum ProposalStatus {
+  PENDING
+  PHASE1
+  PHASE2
+  ADOPTED
+  REJECTED
+  ARCHIVED
+}
+
+enum VoteChoice {
+  FOR
+  AGAINST
+}
+
+enum VotingResult {
+  PENDING
+  PASS
+  FAIL
+}
+
+enum IdeaStatus {
+  ACTIVE
+  MODERATED
+  REMOVED
+}
+
+enum IdeaVoteType {
+  LIKE
+  DISLIKE
+}
+
+enum CrossPartyIdeaStatus {
+  PENDING
+  APPROVED
+  REJECTED
+  EXPIRED
+}
+
+enum ReportStatus {
+  PENDING
+  RESOLVED
+  DISMISSED
+}
+
+model User {
+  id              String    @id @default(cuid())
+  email           String    @unique
+  hashedPassword  String
+  pseudo          String    @unique
+  role            Role      @default(USER)
+  mode            UserMode  @default(COMPETITION)
+  partyId         String?
+  party           Party?    @relation(fields: [partyId], references: [id])
+  pointsBalance   Int       @default(0)
+  showPartyChange Boolean   @default(true)
+  createdAt       DateTime  @default(now())
+  lastActiveAt    DateTime  @default(now())
+  deletedAt       DateTime?
+
+  adoptedNotes       AdoptedNote[]
+  noteProposals      NoteProposal[]
+  votes              Vote[]
+  ideas              Idea[]
+  ideaVotes          IdeaVote[]
+  pointTransactions  PointTransaction[]
+  partyChangesFrom   PartyChange[]      @relation("PartyChangeUser")
+  crossPartyIdeas    CrossPartyIdea[]
+  reportsCreated     Report[]           @relation("ReportCreator")
+  reportsResolved    Report[]           @relation("ReportResolver")
+  auditLogs          AuditLog[]
+  dailyRewardLogs    DailyRewardLog[]
+  ideaRankingRewards IdeaRankingReward[]
+
+  @@index([partyId])
+  @@index([role])
+  @@index([mode])
+  @@index([deletedAt])
+}
+
+model Party {
+  id          String  @id @default(cuid())
+  slug        String  @unique
+  acronym     String
+  name        String
+  fullName    String
+  category    String
+  colorHex    String
+  description String  @default("")
+  programSource String?
+  isActive    Boolean @default(true)
+
+  users            User[]
+  programThemes    ProgramTheme[]
+  ideas            Idea[]
+  partyChangesFrom PartyChange[] @relation("PartyChangeFrom")
+  partyChangesTo   PartyChange[] @relation("PartyChangeTo")
+  crossPartyFrom   CrossPartyIdea[] @relation("CrossPartyFrom")
+  crossPartyTo     CrossPartyIdea[] @relation("CrossPartyTo")
+}
+
+model ProgramTheme {
+  id      String @id @default(cuid())
+  partyId String
+  party   Party  @relation(fields: [partyId], references: [id])
+  title   String
+  order   Int    @default(0)
+
+  points ProgramPoint[]
+
+  @@index([partyId])
+}
+
+model ProgramPoint {
+  id         String @id @default(cuid())
+  themeId    String
+  theme      ProgramTheme @relation(fields: [themeId], references: [id])
+  content    String
+  title      String?
+  details    String?
+  order      Int    @default(0)
+  isOfficial Boolean @default(true)
+
+  adoptedNotes  AdoptedNote[]
+  noteProposals NoteProposal[]
+
+  @@index([themeId])
+}
+
+model AdoptedNote {
+  id              String    @id @default(cuid())
+  pointId         String
+  point           ProgramPoint @relation(fields: [pointId], references: [id])
+  authorId        String
+  author          User      @relation(fields: [authorId], references: [id])
+  content         String
+  adoptedAt       DateTime  @default(now())
+  isArchived      Boolean   @default(false)
+  archivedAt      DateTime?
+  replacedByNoteId String?
+
+  @@index([pointId])
+  @@index([authorId])
+}
+
+model NoteProposal {
+  id              String         @id @default(cuid())
+  pointId         String
+  point           ProgramPoint   @relation(fields: [pointId], references: [id])
+  authorId        String
+  author          User           @relation(fields: [authorId], references: [id])
+  content         String
+  status          ProposalStatus @default(PENDING)
+  replacesNoteId  String?
+  submittedAt     DateTime       @default(now())
+  phase1StartsAt  DateTime?
+  phase1EndsAt    DateTime?
+  phase2StartsAt  DateTime?
+  phase2EndsAt    DateTime?
+
+  votingSessions VotingSession[]
+
+  @@index([pointId])
+  @@index([authorId])
+  @@index([status])
+}
+
+model VotingSession {
+  id              String       @id @default(cuid())
+  proposalId      String
+  proposal        NoteProposal @relation(fields: [proposalId], references: [id])
+  phase           Int
+  eligibleUserIds String[]
+  startsAt        DateTime
+  endsAt          DateTime
+  result          VotingResult @default(PENDING)
+
+  votes Vote[]
+
+  @@index([proposalId])
+  @@index([result])
+}
+
+model Vote {
+  id        String     @id @default(cuid())
+  sessionId String
+  session   VotingSession @relation(fields: [sessionId], references: [id])
+  userId    String
+  user      User       @relation(fields: [userId], references: [id])
+  choice    VoteChoice
+  votedAt   DateTime   @default(now())
+
+  @@unique([sessionId, userId])
+  @@index([sessionId])
+  @@index([userId])
+}
+
+model Idea {
+  id            String     @id @default(cuid())
+  partyId       String
+  party         Party      @relation(fields: [partyId], references: [id])
+  authorId      String
+  author        User       @relation(fields: [authorId], references: [id])
+  title         String
+  content       String
+  status        IdeaStatus @default(ACTIVE)
+  createdAt     DateTime   @default(now())
+  likesCount    Int        @default(0)
+  dislikesCount Int        @default(0)
+
+  ideaVotes          IdeaVote[]
+  ideaRankingRewards IdeaRankingReward[]
+
+  @@index([partyId])
+  @@index([authorId])
+  @@index([status])
+}
+
+model IdeaVote {
+  id      String       @id @default(cuid())
+  ideaId  String
+  idea    Idea         @relation(fields: [ideaId], references: [id])
+  userId  String
+  user    User         @relation(fields: [userId], references: [id])
+  vote    IdeaVoteType
+  votedAt DateTime     @default(now())
+
+  @@unique([ideaId, userId])
+  @@index([ideaId])
+  @@index([userId])
+}
+
+model PointTransaction {
+  id            String   @id @default(cuid())
+  userId        String
+  user          User     @relation(fields: [userId], references: [id])
+  amount        Int
+  type          String
+  description   String
+  createdAt     DateTime @default(now())
+  referenceId   String?
+  referenceType String?
+
+  @@index([userId])
+  @@index([createdAt])
+}
+
+model PartyChange {
+  id          String   @id @default(cuid())
+  userId      String
+  user        User     @relation("PartyChangeUser", fields: [userId], references: [id])
+  fromPartyId String?
+  fromParty   Party?   @relation("PartyChangeFrom", fields: [fromPartyId], references: [id])
+  toPartyId   String
+  toParty     Party    @relation("PartyChangeTo", fields: [toPartyId], references: [id])
+  changedAt   DateTime @default(now())
+  isPublic    Boolean  @default(true)
+  expiresAt   DateTime
+
+  @@index([userId])
+  @@index([expiresAt])
+}
+
+model CrossPartyIdea {
+  id          String               @id @default(cuid())
+  fromPartyId String
+  fromParty   Party                @relation("CrossPartyFrom", fields: [fromPartyId], references: [id])
+  toPartyId   String
+  toParty     Party                @relation("CrossPartyTo", fields: [toPartyId], references: [id])
+  authorId    String
+  author      User                 @relation(fields: [authorId], references: [id])
+  title       String
+  content     String
+  status      CrossPartyIdeaStatus @default(PENDING)
+  createdAt   DateTime             @default(now())
+  approvedAt  DateTime?
+  expiresAt   DateTime?
+  pointCost   Int                  @default(1000)
+
+  @@index([fromPartyId])
+  @@index([toPartyId])
+  @@index([authorId])
+  @@index([status])
+}
+
+model Report {
+  id          String       @id @default(cuid())
+  reporterId  String
+  reporter    User         @relation("ReportCreator", fields: [reporterId], references: [id])
+  targetType  String
+  targetId    String
+  reason      String
+  status      ReportStatus @default(PENDING)
+  createdAt   DateTime     @default(now())
+  resolvedAt  DateTime?
+  resolvedById String?
+  resolvedBy  User?        @relation("ReportResolver", fields: [resolvedById], references: [id])
+
+  @@index([reporterId])
+  @@index([status])
+  @@index([targetType, targetId])
+}
+
+model AuditLog {
+  id         String   @id @default(cuid())
+  adminId    String
+  admin      User     @relation(fields: [adminId], references: [id])
+  action     String
+  targetType String
+  targetId   String
+  details    String?
+  createdAt  DateTime @default(now())
+
+  @@index([adminId])
+  @@index([createdAt])
+}
+
+model DailyRewardLog {
+  id         String   @id @default(cuid())
+  userId     String
+  user       User     @relation(fields: [userId], references: [id])
+  noteId     String
+  rewardDate DateTime
+  amount     Int
+
+  @@unique([userId, noteId, rewardDate])
+  @@index([userId])
+}
+
+model IdeaRankingReward {
+  id          String   @id @default(cuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id])
+  ideaId      String
+  idea        Idea     @relation(fields: [ideaId], references: [id])
+  rankingDate DateTime
+  rank        Int
+  amount      Int
+
+  @@unique([userId, ideaId, rankingDate])
+  @@index([userId])
+}

@@ -1,0 +1,420 @@
+{
+ "source": "Programme présidentiel de Marine Le Pen 2022 « M la France » (et livrets thématiques associés) ; programme du Rassemblement national pour les élections législatives anticipées de 2024 porté par Jordan Bardella (« Bardella Premier ministre »)",
+ "themes": [
+  {
+   "title": "Immigration",
+   "points": [
+    {
+     "title": "Référendum sur l'immigration",
+     "summary": "Soumettre au référendum un projet de loi sur la maîtrise de l'immigration et l'identité nationale.",
+     "details": "Le programme 2022 prévoit un projet de loi référendaire modifiant la Constitution pour y inscrire la maîtrise de l'immigration. Ce texte doit regrouper les principales mesures migratoires du parti : conditions d'entrée, de séjour, de naturalisation et d'accès aux prestations. Le parti présente le référendum comme le moyen de contourner les obstacles juridiques, notamment constitutionnels et européens, à sa politique migratoire."
+    },
+    {
+     "title": "Instauration de la priorité nationale",
+     "summary": "Accorder aux citoyens français une priorité d'accès au logement social, à l'emploi et à certaines aides sociales.",
+     "details": "La priorité nationale serait inscrite dans la Constitution par la voie référendaire. Elle s'appliquerait à l'attribution des logements sociaux et à l'accès à l'emploi. Certaines prestations sociales seraient réservées aux Français ou conditionnées à une durée de travail en France pour les étrangers. Le parti y voit une mesure de justice sociale envers les nationaux."
+    },
+    {
+     "title": "Suppression du droit du sol",
+     "summary": "Mettre fin à l'acquisition de la nationalité française par la naissance et la résidence sur le territoire.",
+     "details": "La mesure figure dans le programme 2022 et dans le programme législatif 2024. La nationalité ne s'obtiendrait plus que par la filiation ou par une naturalisation aux conditions durcies, fondée sur des critères de mérite et d'assimilation. Le parti estime que la nationalité doit « s'hériter ou se mériter »."
+    },
+    {
+     "title": "Suppression du regroupement familial",
+     "summary": "Mettre fin à l'immigration par regroupement familial.",
+     "details": "Le programme prévoit de supprimer cette voie d'immigration légale. L'objectif affiché est de réduire fortement les flux migratoires vers la France."
+    },
+    {
+     "title": "Demandes d'asile déposées à l'étranger",
+     "summary": "Faire déposer les demandes d'asile depuis l'étranger, dans les ambassades et consulats français.",
+     "details": "Les demandes d'asile ne pourraient plus être déposées sur le territoire national mais auprès des représentations françaises à l'étranger. Le parti affirme vouloir ainsi mettre fin aux entrées irrégulières motivées par une demande d'asile et au maintien sur le territoire des déboutés."
+    },
+    {
+     "title": "Expulsion des étrangers en situation irrégulière et délinquants",
+     "summary": "Faciliter l'expulsion des étrangers en situation irrégulière, des délinquants et criminels étrangers.",
+     "details": "Le programme prévoit l'expulsion systématique des clandestins ainsi que des étrangers condamnés pour crimes ou délits. Il envisage la perte de titre de séjour pour les étrangers sans emploi depuis une certaine durée. La politique de délivrance des visas pourrait être utilisée comme levier envers les pays refusant de reprendre leurs ressortissants."
+    },
+    {
+     "title": "Remplacement de l'aide médicale d'État",
+     "summary": "Supprimer l'AME et la remplacer par une prise en charge limitée aux soins d'urgence.",
+     "details": "Le programme 2022 comme le programme 2024 prévoient la suppression de l'aide médicale d'État dont bénéficient les étrangers en situation irrégulière. Elle serait remplacée par un dispositif restreint aux urgences vitales. Le parti présente cette mesure comme une source d'économies et un moyen de réduire l'attractivité de la France pour l'immigration irrégulière."
+    },
+    {
+     "title": "Emplois stratégiques réservés aux Français",
+     "summary": "Réserver certains emplois sensibles de l'État aux seuls détenteurs exclusifs de la nationalité française.",
+     "details": "Le programme législatif de 2024 prévoit de réserver un nombre limité d'emplois stratégiques, notamment dans la défense et la sécurité, aux personnes n'ayant que la nationalité française. Le parti justifie cette mesure par des impératifs de sécurité nationale et de prévention des ingérences étrangères."
+    },
+    {
+     "title": "Opposition au Pacte européen sur la migration et l'asile",
+     "summary": "Refuser l'application en France du Pacte européen sur la migration et l'asile.",
+     "details": "Lors de la campagne de 2024, le parti s'est engagé à s'opposer à ce pacte. Il le considère comme contraire à la souveraineté nationale en matière migratoire et comme susceptible d'organiser la répartition de migrants entre États membres."
+    }
+   ]
+  },
+  {
+   "title": "Sécurité",
+   "points": [
+    {
+     "title": "Présomption de légitime défense pour les forces de l'ordre",
+     "summary": "Instaurer une présomption de légitime défense au bénéfice des policiers et gendarmes.",
+     "details": "La mesure figure dans les programmes 2022 et 2024. Elle vise à renforcer la protection juridique des forces de l'ordre lorsqu'elles font usage de leur arme. Le parti affirme vouloir réarmer moralement et juridiquement la police et la gendarmerie."
+    },
+    {
+     "title": "Rétablissement des peines planchers",
+     "summary": "Rétablir des peines minimales obligatoires, notamment pour les récidivistes et les agressions contre les dépositaires de l'autorité.",
+     "details": "Le programme prévoit le retour de peines planchers pour certains crimes et délits. Il insiste particulièrement sur les violences envers les forces de l'ordre et les élus. L'objectif affiché est de garantir la fermeté et la prévisibilité des sanctions."
+    },
+    {
+     "title": "Fin de l'excuse de minorité pour les mineurs récidivistes",
+     "summary": "Durcir la réponse pénale à l'égard des mineurs délinquants, notamment les plus âgés et récidivistes.",
+     "details": "Le programme législatif de 2024 prévoit la suppression de l'excuse de minorité pour les mineurs de plus de 16 ans récidivistes, ainsi que des procédures de jugement plus rapides. Le parti entend ainsi répondre à la hausse de la délinquance des mineurs qu'il dénonce."
+    },
+    {
+     "title": "Suppression des allocations familiales aux parents de mineurs récidivistes",
+     "summary": "Supprimer les allocations familiales aux parents de mineurs délinquants récidivistes.",
+     "details": "Cette mesure vise à responsabiliser les parents de mineurs multirécidivistes. Elle figure dans les propositions du parti en matière de sécurité et de délinquance des mineurs."
+    },
+    {
+     "title": "Construction de places de prison",
+     "summary": "Engager un programme de construction de nouvelles places de prison.",
+     "details": "Le parti estime que le manque de places conduit à la non-exécution des peines. Il propose un plan de construction pénitentiaire pour garantir l'exécution effective des condamnations, y compris les courtes peines."
+    },
+    {
+     "title": "Lutte contre l'islamisme",
+     "summary": "Combattre les idéologies islamistes par une loi spécifique, incluant l'interdiction du voile dans l'espace public.",
+     "details": "Le programme 2022 prévoit une loi contre les « idéologies islamistes », visant à interdire leur diffusion et à fermer les lieux et structures qui les promeuvent. Il prévoit l'interdiction du port du voile islamique dans l'espace public. L'expulsion des étrangers fichés pour radicalisation est également envisagée."
+    }
+   ]
+  },
+  {
+   "title": "Économie",
+   "points": [
+    {
+     "title": "Baisse de la TVA sur l'énergie à 5,5 %",
+     "summary": "Abaisser la TVA de 20 % à 5,5 % sur les carburants, l'électricité, le gaz et le fioul.",
+     "details": "Cette mesure figure dans le programme 2022 et constituait l'une des premières mesures annoncées dans le programme législatif 2024. Elle concerne les principales sources d'énergie des ménages. Le parti la présente comme une réponse immédiate à la baisse du pouvoir d'achat."
+    },
+    {
+     "title": "TVA à 0 % sur un panier de produits de première nécessité",
+     "summary": "Supprimer la TVA sur un panier de 100 produits de première nécessité.",
+     "details": "Le programme 2022 prévoit l'exonération de TVA sur un panier d'une centaine de produits de consommation courante. L'objectif affiché est d'alléger les dépenses contraintes des ménages modestes face à l'inflation."
+    },
+    {
+     "title": "Nationalisation des autoroutes",
+     "summary": "Renationaliser les sociétés concessionnaires d'autoroutes afin de baisser les péages.",
+     "details": "Le programme 2022 prévoit le retour des autoroutes sous contrôle public. Les recettes devaient permettre de réduire le prix des péages pour les usagers. Le parti considère que les concessions accordées au privé ont été défavorables à l'État et aux automobilistes."
+    },
+    {
+     "title": "Patriotisme économique et commande publique",
+     "summary": "Favoriser les entreprises françaises dans la commande publique et protéger les secteurs stratégiques.",
+     "details": "Le parti propose de privilégier les entreprises et productions françaises dans les marchés publics, ce qui suppose une renégociation des règles européennes. Il souhaite protéger les entreprises stratégiques contre les rachats étrangers. L'objectif affiché est la réindustrialisation du pays."
+    },
+    {
+     "title": "Lutte contre la fraude sociale et fiscale",
+     "summary": "Renforcer la lutte contre la fraude sociale et fiscale pour financer le programme.",
+     "details": "Le parti présente la lutte contre les fraudes comme une source majeure d'économies. Il cite notamment la fraude aux prestations sociales et la fraude fiscale. Ces économies, avec la réduction de la contribution française au budget européen et la maîtrise de l'immigration, constituent les principales sources de financement avancées par le parti."
+    }
+   ]
+  },
+  {
+   "title": "Fiscalité",
+   "points": [
+    {
+     "title": "Exonération d'impôt sur le revenu pour les moins de 30 ans",
+     "summary": "Exonérer d'impôt sur le revenu les actifs de moins de 30 ans.",
+     "details": "Le programme 2022 prévoit cette exonération pour les jeunes travailleurs, et la mesure a été reprise en 2024. L'objectif affiché est d'inciter les jeunes à rester et à travailler en France, et de les aider à démarrer dans la vie active."
+    },
+    {
+     "title": "Impôt sur la fortune financière",
+     "summary": "Remplacer l'impôt sur la fortune immobilière par un impôt sur la fortune financière.",
+     "details": "Le programme 2022 prévoit de supprimer l'IFI et de créer un impôt portant sur le patrimoine financier. La résidence principale en serait exonérée. Le parti entend ainsi cibler la spéculation financière plutôt que la propriété immobilière."
+    },
+    {
+     "title": "Exonération des donations familiales",
+     "summary": "Permettre aux parents de transmettre en franchise d'impôt jusqu'à 100 000 euros par enfant tous les dix ans.",
+     "details": "Le programme 2022 prévoit d'alléger la fiscalité des transmissions intrafamiliales. Les donations des parents à leurs enfants seraient exonérées dans cette limite, renouvelable tous les dix ans. L'objectif affiché est de faciliter la transmission entre générations et l'installation des jeunes."
+    },
+    {
+     "title": "Exonération de cotisations pour les hausses de salaires",
+     "summary": "Exonérer de cotisations patronales les entreprises qui augmentent les salaires de 10 %.",
+     "details": "Le programme 2022, repris en 2024, prévoit qu'une augmentation de 10 % des salaires jusqu'à trois fois le SMIC soit exonérée de cotisations patronales. Le dispositif est facultatif pour les entreprises. Il vise à augmenter le salaire net sans alourdir le coût du travail."
+    },
+    {
+     "title": "Part fiscale complète dès le deuxième enfant",
+     "summary": "Accorder une part fiscale entière pour le deuxième enfant dans le calcul du quotient familial.",
+     "details": "Cette mesure de politique familiale figure dans le programme 2022. Elle vise à alléger l'impôt des familles et à soutenir la natalité."
+    }
+   ]
+  },
+  {
+   "title": "Retraites",
+   "points": [
+    {
+     "title": "Départ à 60 ans pour les carrières longues",
+     "summary": "Permettre un départ à 60 ans avec 40 annuités pour ceux ayant commencé à travailler avant 20 ans.",
+     "details": "Le programme 2022 prévoit ce dispositif pour les personnes entrées tôt dans la vie active. Pour les autres, l'âge de départ serait progressif jusqu'à 62 ans avec 42 annuités. Lors des législatives de 2024, le parti a défendu l'abrogation de la réforme des retraites de 2023 et le retour de ce principe, en indiquant que sa mise en œuvre interviendrait dans un second temps."
+    },
+    {
+     "title": "Revalorisation des petites pensions",
+     "summary": "Revaloriser le minimum vieillesse et les petites retraites.",
+     "details": "Le parti propose d'augmenter le niveau des pensions les plus faibles et du minimum vieillesse. Il s'engage également à maintenir l'indexation des pensions sur l'inflation. L'objectif affiché est de lutter contre la pauvreté des retraités."
+    }
+   ]
+  },
+  {
+   "title": "Famille et solidarité",
+   "points": [
+    {
+     "title": "Prêt à taux zéro pour les jeunes couples",
+     "summary": "Créer un prêt à taux zéro pour les jeunes couples, partiellement annulé à la naissance d'enfants.",
+     "details": "Le programme 2022 prévoit un prêt sans intérêt destiné aux jeunes couples pour l'achat d'un logement ou l'installation. Le reliquat serait transformé en don à la naissance du troisième enfant. Le parti présente cette mesure comme un soutien à la natalité et à l'accession à la propriété."
+    },
+    {
+     "title": "Déconjugalisation de l'allocation adulte handicapé",
+     "summary": "Calculer l'AAH sans tenir compte des revenus du conjoint.",
+     "details": "Le programme 2022 prévoit que l'allocation aux adultes handicapés ne dépende plus des ressources du conjoint. L'objectif affiché est de garantir l'autonomie financière des personnes handicapées vivant en couple."
+    },
+    {
+     "title": "Prestations familiales réservées aux familles françaises",
+     "summary": "Réserver les allocations familiales aux familles dont au moins un parent est français.",
+     "details": "Cette mesure découle du principe de priorité nationale défendu par le parti. Elle doit être mise en œuvre par la révision constitutionnelle soumise à référendum."
+    }
+   ]
+  },
+  {
+   "title": "Éducation",
+   "points": [
+    {
+     "title": "Priorité aux savoirs fondamentaux",
+     "summary": "Recentrer l'école primaire sur le français, les mathématiques et l'histoire.",
+     "details": "Le programme prévoit de consacrer une part majoritaire du temps scolaire en primaire aux savoirs fondamentaux. Le parti estime que la maîtrise de la lecture, de l'écriture et du calcul est la condition de la réussite scolaire. L'enseignement de l'histoire est présenté comme essentiel à la transmission de l'identité nationale."
+    },
+    {
+     "title": "Tenue uniforme à l'école",
+     "summary": "Instaurer le port d'une tenue uniforme dans les établissements scolaires.",
+     "details": "Le programme 2022 prévoit cette mesure pour le primaire et le collège. Le parti la présente comme un moyen de restaurer l'égalité entre élèves, de lutter contre les pressions communautaires et de renforcer le sentiment d'appartenance."
+    },
+    {
+     "title": "Interdiction du téléphone portable",
+     "summary": "Interdire l'usage du téléphone portable dans les établissements scolaires.",
+     "details": "Le programme législatif de 2024 prévoit d'étendre l'interdiction du téléphone portable. L'objectif affiché est d'améliorer la concentration des élèves et de lutter contre le harcèlement."
+    },
+    {
+     "title": "Restauration de l'autorité des enseignants",
+     "summary": "Renforcer l'autorité des professeurs et la discipline dans les établissements.",
+     "details": "Le parti propose des sanctions plus fermes contre les atteintes aux enseignants et aux règles scolaires. Il défend la notion de mérite et le respect des maîtres. Les programmes prévoient aussi une revalorisation de la rémunération des enseignants."
+    },
+    {
+     "title": "Revalorisation de l'enseignement professionnel",
+     "summary": "Développer les filières professionnelles et l'apprentissage.",
+     "details": "Le parti souhaite revaloriser la voie professionnelle et l'apprentissage, en lien avec les entreprises et les besoins des territoires. Il entend ainsi favoriser l'insertion des jeunes et répondre aux besoins de main-d'œuvre qualifiée."
+    }
+   ]
+  },
+  {
+   "title": "Santé",
+   "points": [
+    {
+     "title": "Plan d'urgence pour l'hôpital",
+     "summary": "Lancer un plan d'investissement massif en faveur de l'hôpital public.",
+     "details": "Le programme 2022 prévoit un plan pluriannuel d'investissement dans l'hôpital public, des recrutements de soignants et une revalorisation de leurs rémunérations. Le parti propose de réduire la part des personnels administratifs au profit des soignants. Il prévoit aussi un moratoire sur les fermetures de lits et d'établissements."
+    },
+    {
+     "title": "Suppression des agences régionales de santé",
+     "summary": "Supprimer les ARS et réorganiser le pilotage de la politique de santé.",
+     "details": "Le parti reproche aux agences régionales de santé une gestion jugée bureaucratique et éloignée du terrain. Il propose de les supprimer et de rendre une part du pilotage aux préfets et aux élus locaux."
+    },
+    {
+     "title": "Lutte contre les déserts médicaux",
+     "summary": "Mettre en place des incitations à l'installation des médecins dans les zones sous-dotées.",
+     "details": "Le programme prévoit des mesures incitatives, notamment financières, pour l'installation des professionnels de santé en zones rurales et périurbaines. Il prévoit aussi d'augmenter le nombre de médecins formés. L'objectif affiché est de garantir l'accès aux soins sur tout le territoire."
+    },
+    {
+     "title": "Réintégration des soignants non vaccinés",
+     "summary": "Réintégrer les soignants suspendus pour défaut de vaccination contre le Covid-19.",
+     "details": "Le programme 2022 prévoit la réintégration de ces personnels. Le parti invoque la pénurie de soignants dans les établissements."
+    }
+   ]
+  },
+  {
+   "title": "Énergie",
+   "points": [
+    {
+     "title": "Relance du nucléaire",
+     "summary": "Relancer massivement la filière nucléaire avec la construction de nouveaux réacteurs.",
+     "details": "Le parti propose la construction de nouveaux réacteurs EPR et la prolongation des centrales existantes. Il souhaite aussi développer l'hydroélectricité et l'hydrogène. L'objectif affiché est l'indépendance énergétique et une électricité abordable."
+    },
+    {
+     "title": "Moratoire sur l'éolien et le solaire",
+     "summary": "Instaurer un moratoire sur les nouveaux projets éoliens et solaires et démanteler progressivement les éoliennes.",
+     "details": "Le programme 2022 prévoit l'arrêt des nouveaux projets éoliens et la fin des subventions qui leur sont accordées, ainsi qu'un démantèlement progressif des parcs existants. Le parti critique le coût, l'intermittence et l'impact paysager de ces installations."
+    },
+    {
+     "title": "Sortie du marché européen de l'électricité",
+     "summary": "Sortir des règles du marché européen de l'électricité pour fixer les prix sur la base des coûts de production français.",
+     "details": "Le parti estime que le mécanisme européen de fixation des prix pénalise la France, dont la production est majoritairement nucléaire. Il propose de revenir à des tarifs reflétant les coûts réels de production nationale. En 2024, ce point a été présenté comme devant faire l'objet d'une négociation avec les partenaires européens."
+    }
+   ]
+  },
+  {
+   "title": "Environnement",
+   "points": [
+    {
+     "title": "Écologie de proximité et localisme",
+     "summary": "Privilégier la production et la consommation locales pour réduire l'impact environnemental.",
+     "details": "Le parti défend une écologie fondée sur la proximité, les circuits courts et la relocalisation de la production. Il s'oppose aux accords de libre-échange en invoquant notamment leur impact environnemental. Il rejette une écologie qu'il qualifie de « punitive »."
+    },
+    {
+     "title": "Opposition aux mesures jugées punitives",
+     "summary": "S'opposer aux zones à faibles émissions et aux contraintes pesant sur les automobilistes.",
+     "details": "Le parti s'oppose aux zones à faibles émissions (ZFE), qu'il juge pénalisantes pour les ménages modestes et ruraux. Il défend l'usage de la voiture, considérée comme indispensable hors des grandes villes."
+    }
+   ]
+  },
+  {
+   "title": "Agriculture",
+   "points": [
+    {
+     "title": "Refus des accords de libre-échange",
+     "summary": "S'opposer aux accords de libre-échange, notamment avec le Mercosur.",
+     "details": "Le parti rejette les accords commerciaux qui, selon lui, exposent les agriculteurs français à une concurrence déloyale. Il s'oppose en particulier à l'accord UE-Mercosur. Il demande que soit appliqué le principe selon lequel les produits importés respectent les normes imposées aux producteurs français."
+    },
+    {
+     "title": "Produits français dans la restauration collective",
+     "summary": "Favoriser les produits agricoles français et locaux dans les cantines publiques.",
+     "details": "Le parti propose d'augmenter la part des produits français dans la restauration collective publique. L'objectif affiché est de soutenir les agriculteurs et les filières nationales."
+    },
+    {
+     "title": "Protection du revenu agricole",
+     "summary": "Garantir des prix rémunérateurs aux agriculteurs et réduire les normes.",
+     "details": "Le parti propose de mieux protéger le revenu des agriculteurs face à la grande distribution et à l'industrie agroalimentaire. Il souhaite alléger les normes administratives et environnementales jugées excessives."
+    }
+   ]
+  },
+  {
+   "title": "Institutions",
+   "points": [
+    {
+     "title": "Référendum d'initiative citoyenne",
+     "summary": "Créer un référendum d'initiative citoyenne déclenché par 500 000 signatures.",
+     "details": "Le programme 2022 prévoit d'instaurer un RIC permettant aux citoyens de provoquer un référendum. Le seuil retenu est de 500 000 signatures d'électeurs. L'objectif affiché est de rendre la parole au peuple."
+    },
+    {
+     "title": "Septennat non renouvelable",
+     "summary": "Instaurer un mandat présidentiel unique de sept ans.",
+     "details": "Le programme 2022 prévoit de remplacer le quinquennat par un septennat non renouvelable. Le parti estime que cette réforme permettrait au président de se consacrer à l'action plutôt qu'à sa réélection."
+    },
+    {
+     "title": "Scrutin proportionnel",
+     "summary": "Instaurer la proportionnelle pour les élections législatives avec une prime majoritaire.",
+     "details": "Le parti propose d'introduire la proportionnelle aux élections législatives, assortie d'une prime majoritaire pour la liste arrivée en tête afin de garantir une majorité stable. Il entend ainsi améliorer la représentativité de l'Assemblée nationale."
+    },
+    {
+     "title": "Primauté du droit national",
+     "summary": "Inscrire dans la Constitution la supériorité du droit national sur le droit européen et international.",
+     "details": "Le parti propose une révision constitutionnelle affirmant la primauté de la Constitution française sur les normes européennes et internationales. Il souhaite ainsi lever les obstacles juridiques à sa politique, notamment en matière migratoire."
+    }
+   ]
+  },
+  {
+   "title": "Europe",
+   "points": [
+    {
+     "title": "Alliance européenne des nations",
+     "summary": "Transformer l'Union européenne en une alliance de nations souveraines.",
+     "details": "Le programme 2022 ne prévoit plus de sortie de l'Union européenne ni de l'euro. Il propose une réforme de l'intérieur vers une « Europe des nations » respectant la souveraineté des États. Le parti s'oppose à toute évolution fédéraliste."
+    },
+    {
+     "title": "Réduction de la contribution au budget européen",
+     "summary": "Diminuer la contribution nette de la France au budget de l'Union européenne.",
+     "details": "Le parti estime que la France, contributrice nette, verse plus qu'elle ne reçoit. Il propose de réduire cette contribution, ce qui constitue l'une des sources de financement avancées pour son programme."
+    },
+    {
+     "title": "Rétablissement des contrôles aux frontières nationales",
+     "summary": "Rétablir des contrôles permanents aux frontières françaises.",
+     "details": "Le parti propose de réformer l'espace Schengen pour permettre des contrôles aux frontières nationales. Il distingue la libre circulation des Européens de celle des ressortissants extra-européens."
+    }
+   ]
+  },
+  {
+   "title": "Politique étrangère",
+   "points": [
+    {
+     "title": "Sortie du commandement intégré de l'OTAN",
+     "summary": "Retirer la France du commandement militaire intégré de l'OTAN.",
+     "details": "Le programme 2022 prévoit ce retrait, tout en restant membre de l'Alliance atlantique. Il était annoncé pour après la fin de la guerre en Ukraine. Le parti invoque l'indépendance stratégique de la France."
+    },
+    {
+     "title": "Diplomatie souveraine et indépendante",
+     "summary": "Mener une politique étrangère fondée sur l'indépendance nationale et l'équilibre entre puissances.",
+     "details": "Le parti revendique une diplomatie d'inspiration gaullienne, ne s'alignant sur aucune puissance. Il souhaite renforcer la francophonie et les relations avec l'Afrique sur de nouvelles bases."
+    },
+    {
+     "title": "Position sur la guerre en Ukraine",
+     "summary": "Soutenir l'Ukraine tout en refusant l'envoi de troupes françaises et de missiles à longue portée frappant le territoire russe.",
+     "details": "Lors de la campagne de 2024, Jordan Bardella a affirmé son soutien à l'Ukraine dans sa défense. Il a exclu l'envoi de troupes françaises au sol ainsi que la livraison de missiles à longue portée pouvant frapper le territoire russe, invoquant un risque d'escalade."
+    }
+   ]
+  },
+  {
+   "title": "Défense",
+   "points": [
+    {
+     "title": "Hausse du budget des armées",
+     "summary": "Augmenter significativement les moyens des armées.",
+     "details": "Le parti propose une loi de programmation militaire renforcée. Il prévoit le renforcement des effectifs et des équipements, ainsi que la construction d'un second porte-avions. L'objectif affiché est d'assurer l'autonomie stratégique de la France."
+    },
+    {
+     "title": "Protection de l'industrie de défense",
+     "summary": "Préserver la souveraineté de l'industrie de défense française.",
+     "details": "Le parti souhaite protéger les entreprises stratégiques de la défense contre les rachats étrangers. Il privilégie les coopérations bilatérales plutôt qu'une défense européenne intégrée."
+    }
+   ]
+  },
+  {
+   "title": "Logement",
+   "points": [
+    {
+     "title": "Priorité nationale dans le logement social",
+     "summary": "Attribuer en priorité les logements sociaux aux ménages français.",
+     "details": "Cette mesure découle du principe de priorité nationale à inscrire dans la Constitution. Le parti estime qu'elle permettrait de répondre plus rapidement aux demandes des Français en attente d'un logement social."
+    },
+    {
+     "title": "Soutien à l'accession à la propriété",
+     "summary": "Faciliter l'accession à la propriété, notamment pour les jeunes et les familles.",
+     "details": "Le parti propose le prêt à taux zéro pour les jeunes couples et l'allègement de la fiscalité des donations familiales. Il souhaite faciliter l'installation des jeunes ménages."
+    }
+   ]
+  },
+  {
+   "title": "Travail",
+   "points": [
+    {
+     "title": "Priorité nationale à l'emploi",
+     "summary": "Donner la priorité aux Français à compétences égales dans l'accès à l'emploi.",
+     "details": "Le principe de priorité nationale s'appliquerait au marché du travail. Le parti estime qu'il permettrait de réduire le chômage des nationaux."
+    },
+    {
+     "title": "Hausse des salaires",
+     "summary": "Inciter les entreprises à augmenter les salaires via des exonérations de cotisations.",
+     "details": "Le dispositif d'exonération de cotisations patronales pour une hausse de 10 % des salaires jusqu'à trois fois le SMIC vise à améliorer le revenu des travailleurs. Le parti met en avant la valeur travail et le pouvoir d'achat des actifs."
+    }
+   ]
+  },
+  {
+   "title": "Culture",
+   "points": [
+    {
+     "title": "Privatisation de l'audiovisuel public",
+     "summary": "Privatiser l'audiovisuel public et supprimer la redevance.",
+     "details": "Le programme 2022 prévoit la privatisation des chaînes et radios publiques et la suppression de la contribution à l'audiovisuel public, la mesure ayant été réaffirmée en 2024. Le parti la présente comme une mesure de pouvoir d'achat et d'économies budgétaires."
+    },
+    {
+     "title": "Protection du patrimoine",
+     "summary": "Renforcer la protection et la valorisation du patrimoine français.",
+     "details": "Le parti propose de soutenir la restauration du patrimoine historique, notamment religieux et rural. Il présente le patrimoine comme un élément central de l'identité nationale."
+    }
+   ]
+  }
+ ]
+}

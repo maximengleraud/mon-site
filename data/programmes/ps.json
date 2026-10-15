@@ -1,0 +1,355 @@
+{
+ "source": "Programme présidentiel d'Anne Hidalgo (Parti socialiste), élection présidentielle 2022 ; Contrat de législature du Nouveau Front populaire (programme commun soutenu par le Parti socialiste, LFI, EELV et le PCF), élections législatives 2024",
+ "themes": [
+  {
+   "title": "Économie",
+   "points": [
+    {
+     "title": "Blocage des prix des produits de première nécessité (NFP 2024)",
+     "summary": "Le programme du NFP prévoit de bloquer les prix des biens essentiels.",
+     "details": "Le contrat de législature prévoit de bloquer par décret les prix des produits de première nécessité, notamment dans l'alimentation, l'énergie et les carburants. Cette mesure figure parmi celles annoncées pour les premiers jours de gouvernement. L'objectif affiché est de protéger le pouvoir d'achat face à l'inflation."
+    },
+    {
+     "title": "Taxation des superprofits (NFP 2024)",
+     "summary": "Le NFP propose de taxer les profits exceptionnels des grandes entreprises.",
+     "details": "Le programme prévoit l'instauration d'une taxe sur les superprofits réalisés par les grandes entreprises. Les secteurs ayant bénéficié de la hausse des prix, notamment l'énergie, sont visés. L'objectif affiché est de financer les mesures sociales et de faire contribuer les entreprises ayant tiré profit des crises."
+    },
+    {
+     "title": "Planification écologique et investissement public (Hidalgo 2022 et NFP 2024)",
+     "summary": "Les deux programmes prévoient un effort massif d'investissement public dans la transition écologique.",
+     "details": "Le programme d'Anne Hidalgo place la transition écologique au cœur de la politique économique, avec des investissements publics dans la rénovation, les transports et l'industrie. Le NFP prévoit une planification écologique pilotée par l'État. L'objectif affiché est de concilier transformation écologique, réindustrialisation et création d'emplois."
+    },
+    {
+     "title": "Conditionnement des aides publiques aux entreprises (NFP 2024)",
+     "summary": "Le NFP propose de conditionner les aides publiques à des critères sociaux et environnementaux.",
+     "details": "Le programme prévoit de soumettre les aides publiques aux entreprises à des engagements sociaux, environnementaux et de maintien de l'emploi. Les aides pourraient être réexaminées en cas de non-respect de ces engagements. L'objectif affiché est d'orienter l'argent public vers l'intérêt général."
+    }
+   ]
+  },
+  {
+   "title": "Fiscalité",
+   "points": [
+    {
+     "title": "Rétablissement d'un ISF à composante climatique",
+     "summary": "Les deux programmes prévoient le retour d'un impôt sur la fortune intégrant un volet climatique.",
+     "details": "Anne Hidalgo proposait en 2022 de rétablir un impôt sur la fortune dit « climatique », tenant compte de l'empreinte carbone des patrimoines. Le NFP prévoit également le rétablissement d'un ISF renforcé avec un volet climatique. L'objectif affiché est de faire contribuer les plus hauts patrimoines et de pénaliser les placements polluants."
+    },
+    {
+     "title": "Impôt sur le revenu plus progressif (NFP 2024)",
+     "summary": "Le NFP propose de porter le barème de l'impôt sur le revenu à 14 tranches.",
+     "details": "Le programme prévoit de rendre l'impôt sur le revenu plus progressif en le portant à 14 tranches. Il prévoit aussi de rendre la CSG progressive. L'objectif affiché est que la contribution de chacun soit davantage proportionnée à ses revenus."
+    },
+    {
+     "title": "Réforme de la fiscalité des successions",
+     "summary": "Les deux programmes prévoient de réformer les droits de succession dans un sens plus redistributif.",
+     "details": "Le programme d'Anne Hidalgo proposait une réforme des droits de succession allégeant la charge sur les petites et moyennes transmissions et l'alourdissant sur les plus gros héritages. Le NFP prévoit également de rendre l'impôt sur l'héritage plus progressif et de cibler les plus hauts patrimoines. L'objectif affiché est de réduire la reproduction des inégalités de patrimoine."
+    },
+    {
+     "title": "Suppression de niches fiscales et lutte contre l'évasion fiscale (NFP 2024)",
+     "summary": "Le NFP propose de supprimer des niches fiscales jugées inefficaces et de renforcer la lutte contre la fraude.",
+     "details": "Le programme prévoit de supprimer les niches fiscales jugées inefficaces, injustes ou polluantes. Il prévoit aussi de renforcer la lutte contre la fraude et l'évasion fiscales, notamment par le renforcement de l'« exit tax ». L'objectif affiché est d'accroître les recettes publiques et l'équité fiscale."
+    }
+   ]
+  },
+  {
+   "title": "Travail",
+   "points": [
+    {
+     "title": "Hausse du SMIC",
+     "summary": "Les deux programmes prévoient une revalorisation importante du salaire minimum.",
+     "details": "Anne Hidalgo proposait en 2022 une augmentation du SMIC de 15 %. Le NFP prévoit de porter le SMIC à 1 600 euros net mensuels. L'objectif affiché est d'améliorer le pouvoir d'achat des salariés modestes."
+    },
+    {
+     "title": "Conférence sur les salaires et indexation sur l'inflation",
+     "summary": "Les programmes prévoient une négociation salariale générale et, pour le NFP, l'indexation des salaires sur l'inflation.",
+     "details": "Le programme d'Anne Hidalgo prévoyait une conférence sur les salaires réunissant partenaires sociaux et État pour revaloriser les rémunérations. Le NFP prévoit une conférence sociale sur les salaires et l'indexation des salaires sur l'inflation. L'objectif affiché est que les rémunérations suivent l'évolution du coût de la vie."
+    },
+    {
+     "title": "Revalorisation du point d'indice des fonctionnaires (NFP 2024)",
+     "summary": "Le NFP prévoit d'augmenter de 10 % le point d'indice de la fonction publique.",
+     "details": "Le programme prévoit une revalorisation de 10 % du point d'indice servant au calcul des traitements des agents publics. Cette mesure concerne l'ensemble de la fonction publique. L'objectif affiché est de rattraper les pertes de pouvoir d'achat et de renforcer l'attractivité des métiers publics."
+    },
+    {
+     "title": "Abrogation de la réforme de l'assurance chômage (NFP 2024)",
+     "summary": "Le NFP prévoit d'abroger les réformes récentes de l'assurance chômage.",
+     "details": "Le programme prévoit d'abroger la réforme de l'assurance chômage engagée par le gouvernement. Il s'oppose au durcissement des conditions d'indemnisation des demandeurs d'emploi. L'objectif affiché est de protéger les droits des personnes privées d'emploi."
+    },
+    {
+     "title": "Égalité salariale entre femmes et hommes",
+     "summary": "Les deux programmes prévoient de renforcer les obligations en matière d'égalité salariale.",
+     "details": "Le programme d'Anne Hidalgo comme celui du NFP prévoient de renforcer les dispositifs contraignant les entreprises à respecter l'égalité salariale entre les femmes et les hommes. Des sanctions sont prévues en cas de non-respect. L'objectif affiché est de résorber les écarts de rémunération."
+    }
+   ]
+  },
+  {
+   "title": "Retraites",
+   "points": [
+    {
+     "title": "Maintien ou retour de l'âge de départ à 62 ans",
+     "summary": "Anne Hidalgo s'opposait au recul de l'âge de départ et le NFP prévoit d'abroger la réforme de 2023.",
+     "details": "En 2022, Anne Hidalgo s'opposait au relèvement de l'âge légal de départ à la retraite et proposait de le maintenir à 62 ans. Le NFP prévoit d'abroger immédiatement la réforme de 2023 qui a porté l'âge légal à 64 ans. L'objectif affiché est de revenir sur un recul jugé injuste pour les salariés."
+    },
+    {
+     "title": "Objectif de retour à la retraite à 60 ans (NFP 2024)",
+     "summary": "Le NFP fixe un objectif commun de droit à la retraite à 60 ans.",
+     "details": "Au-delà de l'abrogation de la réforme de 2023, le contrat de législature affirme l'objectif commun d'un droit à la retraite à 60 ans. Les modalités relèvent de la législature. L'objectif affiché est de garantir un temps de retraite en bonne santé."
+    },
+    {
+     "title": "Prise en compte de la pénibilité et des carrières longues",
+     "summary": "Les programmes prévoient de mieux prendre en compte la pénibilité du travail dans les droits à la retraite.",
+     "details": "Le programme d'Anne Hidalgo prévoyait des départs anticipés pour les métiers pénibles et les carrières longues. Le NFP prévoit également une meilleure prise en compte de la pénibilité. L'objectif affiché est de tenir compte des inégalités d'espérance de vie selon les métiers."
+    }
+   ]
+  },
+  {
+   "title": "Éducation",
+   "points": [
+    {
+     "title": "Revalorisation des salaires des enseignants",
+     "summary": "Les deux programmes prévoient d'augmenter la rémunération des enseignants.",
+     "details": "Anne Hidalgo a fait de la revalorisation salariale des enseignants une mesure phare de sa campagne de 2022. Le NFP prévoit également la revalorisation des métiers de l'éducation, notamment via le point d'indice. L'objectif affiché est de renforcer l'attractivité d'un métier confronté à une crise de recrutement."
+    },
+    {
+     "title": "Gratuité intégrale de l'école publique (NFP 2024)",
+     "summary": "Le NFP prévoit la gratuité de la cantine, des fournitures, des transports et des activités périscolaires.",
+     "details": "Le programme prévoit une gratuité intégrale de l'école publique, couvrant la restauration scolaire, les fournitures, les transports scolaires et les activités périscolaires. Cette mesure vise les familles des élèves scolarisés dans le public. L'objectif affiché est de garantir l'égalité d'accès à l'éducation."
+    },
+    {
+     "title": "Abandon du « choc des savoirs » et réduction des effectifs (NFP 2024)",
+     "summary": "Le NFP prévoit de renoncer aux groupes de niveau et de réduire le nombre d'élèves par classe.",
+     "details": "Le programme prévoit d'abandonner la réforme dite du « choc des savoirs », notamment les groupes de niveau au collège. Il prévoit de réduire le nombre d'élèves par classe. L'objectif affiché est de lutter contre le tri scolaire et d'améliorer les conditions d'apprentissage."
+    },
+    {
+     "title": "Suppression de Parcoursup (NFP 2024)",
+     "summary": "Le NFP prévoit de supprimer la plateforme Parcoursup.",
+     "details": "Le programme prévoit la suppression de Parcoursup, la plateforme d'affectation dans l'enseignement supérieur. Il prévoit de garantir à chaque bachelier une place dans la filière de son choix. L'objectif affiché est de mettre fin à la sélection jugée inégalitaire à l'entrée de l'université."
+    },
+    {
+     "title": "Investissement dans l'enseignement supérieur et la recherche",
+     "summary": "Les deux programmes prévoient d'augmenter les moyens de l'université et de la recherche publique.",
+     "details": "Le programme d'Anne Hidalgo et celui du NFP prévoient de renforcer les moyens de l'enseignement supérieur et de la recherche publique. Ils visent l'amélioration de l'encadrement et des conditions d'étude. L'objectif affiché est de renforcer la démocratisation et la qualité de l'enseignement supérieur."
+    }
+   ]
+  },
+  {
+   "title": "Jeunesse",
+   "points": [
+    {
+     "title": "Minimum jeunesse dès 18 ans (Hidalgo 2022)",
+     "summary": "Anne Hidalgo proposait un revenu minimum ouvert aux jeunes dès 18 ans.",
+     "details": "Le programme d'Anne Hidalgo prévoyait l'ouverture d'un minimum social aux jeunes à partir de 18 ans. Les jeunes de 18 à 25 ans sont aujourd'hui largement exclus du RSA. L'objectif affiché est de lutter contre la précarité et la pauvreté des jeunes."
+    },
+    {
+     "title": "Allocation d'autonomie pour les jeunes (NFP 2024)",
+     "summary": "Le NFP prévoit la création d'une allocation d'autonomie pour la jeunesse.",
+     "details": "Le programme prévoit la création d'une allocation d'autonomie destinée aux jeunes, notamment aux étudiants. Elle vise à leur permettre de se consacrer à leurs études sans dépendre d'un emploi précaire. L'objectif affiché est de lutter contre la précarité étudiante."
+    }
+   ]
+  },
+  {
+   "title": "Santé",
+   "points": [
+    {
+     "title": "Lutte contre les déserts médicaux",
+     "summary": "Les deux programmes prévoient des mesures pour améliorer l'accès aux soins sur tout le territoire.",
+     "details": "Le programme d'Anne Hidalgo et celui du NFP prévoient de lutter contre les déserts médicaux, notamment par le développement de centres de santé. Le NFP prévoit une régulation de l'installation des médecins. L'objectif affiché est de garantir à chacun un accès aux soins de proximité."
+    },
+    {
+     "title": "Renforcement de l'hôpital public",
+     "summary": "Les deux programmes prévoient d'augmenter les moyens et les effectifs de l'hôpital public.",
+     "details": "Les programmes prévoient de recruter des soignants et de revaloriser leurs métiers. Le NFP prévoit un plan d'urgence pour l'hôpital public et les urgences. L'objectif affiché est de remédier à la crise de l'hôpital et d'améliorer les conditions de travail des soignants."
+    },
+    {
+     "title": "Prise en charge de la perte d'autonomie",
+     "summary": "Les programmes prévoient de renforcer l'accompagnement des personnes âgées dépendantes.",
+     "details": "Le programme d'Anne Hidalgo et celui du NFP prévoient de renforcer les moyens consacrés au grand âge, en établissement comme à domicile. Ils prévoient le recrutement de personnels et un meilleur encadrement des EHPAD. L'objectif affiché est d'améliorer la qualité de l'accompagnement des personnes âgées."
+    }
+   ]
+  },
+  {
+   "title": "Logement",
+   "points": [
+    {
+     "title": "Construction de logements publics",
+     "summary": "Les deux programmes prévoient un effort important de construction de logements sociaux.",
+     "details": "Le programme d'Anne Hidalgo prévoyait une relance de la construction de logements sociaux. Le NFP prévoit la construction de 200 000 logements publics par an. L'objectif affiché est de répondre à la crise du logement et de faire baisser le coût du logement."
+    },
+    {
+     "title": "Encadrement des loyers",
+     "summary": "Les programmes prévoient de renforcer et d'étendre l'encadrement des loyers.",
+     "details": "Anne Hidalgo défendait l'encadrement des loyers, mis en œuvre à Paris. Le NFP prévoit de généraliser l'encadrement à la baisse des loyers dans les grandes villes. L'objectif affiché est de limiter la part du logement dans le budget des ménages."
+    },
+    {
+     "title": "Rénovation thermique des logements",
+     "summary": "Les deux programmes prévoient un plan massif de rénovation énergétique des bâtiments.",
+     "details": "Le programme d'Anne Hidalgo et celui du NFP prévoient d'accélérer la rénovation thermique des logements, avec une prise en charge renforcée pour les ménages modestes. Le NFP met l'accent sur la rénovation globale. L'objectif affiché est de réduire les émissions et les factures énergétiques et d'éradiquer les passoires thermiques."
+    },
+    {
+     "title": "Réquisition des logements vacants (NFP 2024)",
+     "summary": "Le NFP prévoit d'appliquer la réquisition des logements vacants.",
+     "details": "Le programme prévoit d'utiliser la réquisition des logements vacants pour loger les personnes sans abri ou mal logées. Il prévoit aussi le renforcement des mesures contre la spéculation immobilière. L'objectif affiché est de mobiliser le parc existant face à l'urgence sociale."
+    }
+   ]
+  },
+  {
+   "title": "Environnement",
+   "points": [
+    {
+     "title": "Transition écologique au cœur de l'action publique",
+     "summary": "Les deux programmes font de la lutte contre le changement climatique une priorité.",
+     "details": "Le programme d'Anne Hidalgo plaçait la transition écologique au centre de son projet, en articulation avec la justice sociale. Le NFP prévoit une planification écologique et le respect des engagements climatiques de la France. L'objectif affiché est la neutralité carbone et la protection de la biodiversité."
+    },
+    {
+     "title": "Développement des transports collectifs",
+     "summary": "Les programmes prévoient d'investir dans le ferroviaire et les transports publics.",
+     "details": "Les deux programmes prévoient de développer le train, notamment les lignes du quotidien et le fret ferroviaire, ainsi que les transports en commun. Le NFP prévoit de favoriser des tarifs accessibles. L'objectif affiché est de réduire les émissions liées aux transports."
+    },
+    {
+     "title": "Protection de la biodiversité et de l'eau (NFP 2024)",
+     "summary": "Le NFP prévoit des mesures de protection de la biodiversité et des ressources en eau.",
+     "details": "Le programme prévoit des mesures de protection de la biodiversité et une gestion de l'eau considérée comme un bien commun. Il prévoit un moratoire sur les méga-bassines. L'objectif affiché est de préserver les ressources naturelles face au changement climatique."
+    }
+   ]
+  },
+  {
+   "title": "Énergie",
+   "points": [
+    {
+     "title": "Développement des énergies renouvelables",
+     "summary": "Les deux programmes prévoient d'accélérer le déploiement des énergies renouvelables.",
+     "details": "Le programme d'Anne Hidalgo et celui du NFP prévoient un fort développement des énergies renouvelables, notamment solaire et éolien. Le NFP prévoit une planification publique de la production énergétique. L'objectif affiché est de réduire la dépendance aux énergies fossiles."
+    },
+    {
+     "title": "Sortie des règles du marché européen de l'électricité (NFP 2024)",
+     "summary": "Le NFP prévoit de sortir des mécanismes de fixation des prix du marché européen de l'électricité.",
+     "details": "Le programme prévoit de sortir des règles du marché européen de l'électricité pour fixer des prix reflétant les coûts de production. Il prévoit aussi le blocage des prix de l'énergie. L'objectif affiché est de protéger ménages et entreprises de la volatilité des prix."
+    },
+    {
+     "title": "Lutte contre la précarité énergétique",
+     "summary": "Les programmes prévoient de protéger les ménages modestes face au coût de l'énergie.",
+     "details": "Les deux programmes prévoient des mesures contre la précarité énergétique. Le NFP prévoit la gratuité des premiers kilowattheures nécessaires à la consommation essentielle. L'objectif affiché est de garantir l'accès de tous à l'énergie."
+    }
+   ]
+  },
+  {
+   "title": "Agriculture",
+   "points": [
+    {
+     "title": "Prix planchers et revenu des agriculteurs (NFP 2024)",
+     "summary": "Le NFP prévoit d'instaurer des prix planchers pour les produits agricoles.",
+     "details": "Le programme prévoit des prix planchers garantissant aux agriculteurs une rémunération couvrant leurs coûts de production. Il prévoit d'encadrer les marges de la grande distribution et de l'agro-industrie. L'objectif affiché est d'assurer un revenu digne aux agriculteurs."
+    },
+    {
+     "title": "Soutien à la transition agroécologique",
+     "summary": "Les deux programmes prévoient d'accompagner l'agriculture vers des pratiques plus durables.",
+     "details": "Le programme d'Anne Hidalgo et celui du NFP prévoient d'accompagner les agriculteurs vers l'agroécologie et l'agriculture biologique. Ils prévoient de favoriser les circuits courts et l'alimentation de qualité dans la restauration collective. L'objectif affiché est de concilier revenu agricole, santé et environnement."
+    }
+   ]
+  },
+  {
+   "title": "Immigration",
+   "points": [
+    {
+     "title": "Abrogation de la loi immigration de 2024 (NFP 2024)",
+     "summary": "Le NFP prévoit d'abroger la loi « pour contrôler l'immigration, améliorer l'intégration ».",
+     "details": "Le programme prévoit l'abrogation de la loi immigration adoptée fin 2023 et promulguée en janvier 2024. Cette loi était combattue par les partis de gauche. L'objectif affiché est de revenir sur des dispositions jugées contraires aux droits des étrangers."
+    },
+    {
+     "title": "Régularisation de certaines catégories d'étrangers (NFP 2024)",
+     "summary": "Le NFP prévoit de faciliter la régularisation des travailleurs, étudiants et parents d'enfants scolarisés.",
+     "details": "Le programme prévoit de faciliter la régularisation des travailleurs sans papiers, des étudiants et des parents d'enfants scolarisés. Il prévoit d'améliorer les conditions d'accueil et d'instruction des demandes d'asile. L'objectif affiché est de sortir ces personnes de la précarité administrative."
+    },
+    {
+     "title": "Sauvetage en mer et accueil des exilés (NFP 2024)",
+     "summary": "Le NFP prévoit la création d'une agence de sauvetage en mer.",
+     "details": "Le programme prévoit la création d'une agence de sauvetage en mer et terrestre. Il prévoit aussi la création d'un statut de déplacé climatique. L'objectif affiché est de prévenir les morts en Méditerranée et d'accueillir dignement les exilés."
+    }
+   ]
+  },
+  {
+   "title": "Sécurité",
+   "points": [
+    {
+     "title": "Rétablissement d'une police de proximité",
+     "summary": "Les deux programmes prévoient le retour d'une police de proximité.",
+     "details": "Le programme d'Anne Hidalgo et celui du NFP prévoient de restaurer une police de proximité présente dans les quartiers. Ils prévoient des recrutements et une meilleure formation des forces de l'ordre. L'objectif affiché est de renforcer la sécurité au quotidien et la confiance entre police et population."
+    },
+    {
+     "title": "Réforme du contrôle de la police (NFP 2024)",
+     "summary": "Le NFP prévoit de réformer l'IGPN et de dissoudre la BRAV-M.",
+     "details": "Le programme prévoit de remplacer l'IGPN par un organe de contrôle indépendant. Il prévoit la dissolution de la BRAV-M et une révision de la doctrine de maintien de l'ordre. L'objectif affiché est de prévenir les violences policières et de restaurer la confiance."
+    },
+    {
+     "title": "Lutte contre les violences faites aux femmes",
+     "summary": "Les deux programmes prévoient de renforcer les moyens contre les violences sexistes et sexuelles.",
+     "details": "Le programme d'Anne Hidalgo et celui du NFP prévoient de renforcer la lutte contre les violences faites aux femmes. Le NFP prévoit une loi-cadre intégrale contre les violences sexistes et sexuelles. L'objectif affiché est de mieux protéger et accompagner les victimes."
+    }
+   ]
+  },
+  {
+   "title": "Institutions",
+   "points": [
+    {
+     "title": "Introduction de la proportionnelle",
+     "summary": "Les deux programmes prévoient l'introduction de la proportionnelle aux élections législatives.",
+     "details": "Le programme d'Anne Hidalgo prévoyait l'introduction d'une part de proportionnelle aux élections législatives. Le NFP prévoit également l'instauration de la proportionnelle. L'objectif affiché est une meilleure représentation de la diversité politique à l'Assemblée."
+    },
+    {
+     "title": "Vers une VIe République (NFP 2024)",
+     "summary": "Le NFP prévoit d'engager un processus vers une VIe République.",
+     "details": "Le programme prévoit d'engager une refonte des institutions pour rééquilibrer les pouvoirs au profit du Parlement et des citoyens. Il prévoit l'abrogation de l'article 49.3. L'objectif affiché est de mettre fin à la présidentialisation du régime."
+    },
+    {
+     "title": "Référendum d'initiative citoyenne (NFP 2024)",
+     "summary": "Le NFP prévoit l'instauration d'un référendum d'initiative citoyenne.",
+     "details": "Le programme prévoit la création d'un référendum d'initiative citoyenne. Il permettrait aux citoyens de déclencher une consultation. L'objectif affiché est de renforcer la démocratie directe."
+    }
+   ]
+  },
+  {
+   "title": "Politique étrangère",
+   "points": [
+    {
+     "title": "Reconnaissance de l'État de Palestine (NFP 2024)",
+     "summary": "Le NFP prévoit la reconnaissance immédiate de l'État de Palestine.",
+     "details": "Le programme prévoit de reconnaître immédiatement l'État de Palestine, aux côtés d'Israël, sur la base des résolutions de l'ONU. Il prévoit d'agir pour un cessez-le-feu immédiat à Gaza et la libération des otages détenus par le Hamas, dont les massacres sont qualifiés de terroristes. Il prévoit un embargo sur les livraisons d'armes à Israël et le soutien à la Cour pénale internationale."
+    },
+    {
+     "title": "Soutien à l'Ukraine (Hidalgo 2022 et NFP 2024)",
+     "summary": "Les deux programmes affirment un soutien à l'Ukraine face à l'agression russe.",
+     "details": "Anne Hidalgo défendait en 2022 un soutien ferme à l'Ukraine et des sanctions contre la Russie. Le NFP prévoit de défendre la souveraineté de l'Ukraine, notamment par la livraison des armes nécessaires, l'annulation de sa dette extérieure et la saisie des avoirs des oligarques russes. L'objectif affiché est de faire échec à la guerre d'agression de Vladimir Poutine."
+    }
+   ]
+  },
+  {
+   "title": "Europe",
+   "points": [
+    {
+     "title": "Engagement européen et réforme des règles budgétaires",
+     "summary": "Les programmes prévoient de réorienter les règles européennes vers l'investissement et la transition écologique.",
+     "details": "Le programme d'Anne Hidalgo affirmait un engagement pro-européen et défendait un investissement européen commun dans la transition écologique. Le NFP prévoit de refuser le pacte budgétaire et de réviser les règles européennes jugées contraires aux objectifs sociaux et écologiques. L'objectif affiché est une Europe plus sociale et écologique."
+    },
+    {
+     "title": "Protectionnisme écologique et refus des accords de libre-échange (NFP 2024)",
+     "summary": "Le NFP prévoit de s'opposer aux accords de libre-échange et de renforcer la protection aux frontières de l'UE.",
+     "details": "Le programme prévoit de refuser les accords de libre-échange comme le Mercosur et d'instaurer un protectionnisme écologique et social. Le mécanisme d'ajustement carbone aux frontières est mis en avant. L'objectif affiché est de protéger l'agriculture et l'industrie européennes et de lutter contre le dumping."
+    }
+   ]
+  },
+  {
+   "title": "Outre-mer",
+   "points": [
+    {
+     "title": "Abandon de la réforme électorale en Nouvelle-Calédonie (NFP 2024)",
+     "summary": "Le NFP prévoit de renoncer à la réforme du corps électoral calédonien.",
+     "details": "Le programme prévoit d'abandonner la réforme du corps électoral en Nouvelle-Calédonie. Il prévoit de renouer le dialogue pour rechercher un consensus. L'objectif affiché est de rétablir la paix civile."
+    },
+    {
+     "title": "Lutte contre la vie chère en outre-mer (NFP 2024)",
+     "summary": "Le NFP prévoit des mesures contre la cherté de la vie dans les territoires ultramarins.",
+     "details": "Le programme prévoit d'étendre le blocage des prix et de lutter contre les monopoles dans les outre-mer. Il prévoit un rattrapage dans l'accès aux services publics, notamment l'eau. L'objectif affiché est de réduire les écarts de niveau de vie avec l'Hexagone."
+    }
+   ]
+  }
+ ]
+}

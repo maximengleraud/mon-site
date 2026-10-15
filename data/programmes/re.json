@@ -1,0 +1,455 @@
+{
+ "source": "Programme d'Emmanuel Macron pour l'élection présidentielle 2022 « Avec vous » et programme d'Ensemble pour la République pour les élections législatives anticipées de 2024",
+ "themes": [
+  {
+   "title": "Économie",
+   "points": [
+    {
+     "title": "Objectif de plein emploi",
+     "summary": "Le programme fixe comme objectif central d'atteindre le plein emploi au cours du quinquennat.",
+     "details": "Le programme présente le plein emploi comme la condition du financement du modèle social et de la hausse du pouvoir d'achat. Il le fonde sur la poursuite des réformes du marché du travail, sur la formation et sur l'accompagnement des demandeurs d'emploi. Il rattache à cet objectif la réforme du service public de l'emploi et celle du RSA."
+    },
+    {
+     "title": "Réindustrialisation et plan France 2030",
+     "summary": "Le parti veut poursuivre la réindustrialisation du pays par un plan d'investissement dans les technologies d'avenir.",
+     "details": "Le plan France 2030 finance des secteurs jugés stratégiques : nucléaire, hydrogène, véhicules électriques, batteries, santé, numérique et spatial. L'objectif affiché est de renforcer la souveraineté industrielle et technologique de la France. Il s'agit aussi de créer des emplois industriels sur l'ensemble du territoire."
+    },
+    {
+     "title": "Soutien aux entreprises et à la compétitivité",
+     "summary": "Le programme prévoit de poursuivre la baisse des impôts de production pour améliorer la compétitivité des entreprises.",
+     "details": "Le programme considère que les impôts de production pèsent sur l'implantation industrielle en France. Il propose de poursuivre leur réduction, notamment par la suppression de la CVAE. L'objectif affiché est de favoriser l'investissement et l'emploi sur le territoire."
+    },
+    {
+     "title": "Maîtrise des finances publiques",
+     "summary": "Le parti s'engage à réduire le déficit public sans augmenter les impôts.",
+     "details": "Le programme associe le redressement des comptes publics à la croissance, au plein emploi et aux réformes structurelles, dont celle des retraites. En 2024, Ensemble réaffirme son refus de toute hausse d'impôts. Le parti présente cette position comme une alternative aux programmes de ses concurrents, qu'il juge coûteux."
+    }
+   ]
+  },
+  {
+   "title": "Pouvoir d'achat",
+   "points": [
+    {
+     "title": "Prime de partage de la valeur exonérée",
+     "summary": "La prime exceptionnelle versée par les entreprises est renforcée, sans charges ni impôts dans la limite d'un plafond.",
+     "details": "En 2022, le programme propose de tripler le plafond de la « prime Macron », qui passe à 6 000 euros, exonérés de cotisations et d'impôt. Cette prime facultative est versée par l'employeur. L'objectif affiché est d'augmenter la rémunération des salariés sans alourdir le coût du travail."
+    },
+    {
+     "title": "Dividende salarié",
+     "summary": "Les entreprises qui versent des dividendes à leurs actionnaires devraient associer leurs salariés au partage des profits.",
+     "details": "Le programme prévoit d'obliger les entreprises qui distribuent des dividendes à mettre en place un mécanisme de partage de la valeur avec leurs salariés. Cette mesure s'inscrit dans le développement de l'intéressement et de la participation. L'objectif affiché est un partage plus équitable des fruits de la croissance."
+    },
+    {
+     "title": "Indexation des retraites sur l'inflation",
+     "summary": "Les pensions de retraite doivent être revalorisées en fonction de l'inflation.",
+     "details": "En 2022, le programme prévoit d'indexer les retraites sur l'inflation dès l'été pour protéger le pouvoir d'achat des retraités. Le programme Ensemble de 2024 réaffirme cet engagement d'indexation des pensions. Il s'agit de préserver le niveau de vie des retraités face à la hausse des prix."
+    },
+    {
+     "title": "Solidarité à la source",
+     "summary": "Les aides sociales seraient versées automatiquement aux bénéficiaires éligibles.",
+     "details": "Le programme prévoit un mécanisme de versement automatique des prestations sociales, sur le modèle du prélèvement à la source. L'objectif est de lutter contre le non-recours aux droits. Il vise aussi à réduire la fraude et à simplifier les démarches."
+    },
+    {
+     "title": "Bouclier tarifaire et baisse des factures d'énergie",
+     "summary": "Le parti s'engage à protéger les ménages contre la hausse des prix de l'énergie.",
+     "details": "En 2022, le programme prévoit le maintien de mesures de protection, comme le bouclier tarifaire sur le gaz et l'électricité. En 2024, Ensemble annonce une baisse des factures d'électricité des ménages à partir de l'hiver suivant. Ces mesures doivent limiter l'effet de la hausse des coûts énergétiques sur le budget des ménages."
+    },
+    {
+     "title": "Soutien aux familles monoparentales",
+     "summary": "Le programme prévoit d'augmenter l'allocation de soutien familial versée aux parents isolés.",
+     "details": "Le programme de 2022 propose de revaloriser de 50 % l'allocation de soutien familial. Cette aide est destinée aux parents qui élèvent seuls leurs enfants. Le programme entend également améliorer le recouvrement des pensions alimentaires via un service public dédié."
+    },
+    {
+     "title": "Déconjugalisation de l'allocation aux adultes handicapés",
+     "summary": "Le calcul de l'AAH ne tiendrait plus compte des revenus du conjoint.",
+     "details": "Le candidat s'est engagé pendant la campagne de 2022 à déconjugaliser l'allocation aux adultes handicapés. Le montant de l'allocation ne dépendrait ainsi plus des ressources du conjoint. L'objectif affiché est de garantir l'autonomie financière des personnes en situation de handicap."
+    }
+   ]
+  },
+  {
+   "title": "Fiscalité",
+   "points": [
+    {
+     "title": "Aucune hausse d'impôts",
+     "summary": "Le parti s'engage à ne pas augmenter les impôts des ménages et des entreprises.",
+     "details": "Le programme de 2022 comme celui de 2024 excluent toute hausse générale de la fiscalité. Le parti présente la stabilité fiscale comme un facteur de confiance pour les ménages. Il la juge aussi favorable à l'investissement des entreprises."
+    },
+    {
+     "title": "Suppression de la redevance audiovisuelle",
+     "summary": "La contribution à l'audiovisuel public serait supprimée pour les ménages.",
+     "details": "Le programme de 2022 prévoit de supprimer la redevance télévisuelle payée par les foyers. Cette mesure est présentée comme un gain de pouvoir d'achat. Le financement de l'audiovisuel public serait assuré par d'autres moyens."
+    },
+    {
+     "title": "Suppression de la CVAE",
+     "summary": "La cotisation sur la valeur ajoutée des entreprises, impôt de production, serait supprimée.",
+     "details": "Le programme prévoit la suppression de la CVAE dans le cadre de la baisse des impôts de production. L'objectif affiché est de renforcer la compétitivité des entreprises, en particulier industrielles. Il s'agit aussi de favoriser leur implantation en France."
+    },
+    {
+     "title": "Allègement des droits de succession",
+     "summary": "Le programme prévoit de réduire la fiscalité sur les successions et transmissions familiales.",
+     "details": "Le programme de 2022 propose de relever l'abattement applicable aux successions en ligne directe. Il prévoit aussi d'alléger l'imposition des transmissions à des héritiers plus éloignés, comme les neveux et nièces. L'objectif affiché est de faciliter la transmission d'un patrimoine constitué par le travail."
+    },
+    {
+     "title": "Aide à l'accession à la propriété",
+     "summary": "En 2024, Ensemble propose d'alléger les frais d'acquisition pour les primo-accédants.",
+     "details": "Le programme législatif de 2024 prévoit de supprimer les frais de notaire pour les primo-accédants, dans une certaine limite de prix d'achat de la résidence principale. L'objectif affiché est de faciliter l'accès à la propriété, en particulier pour les jeunes ménages et les classes moyennes."
+    }
+   ]
+  },
+  {
+   "title": "Travail",
+   "points": [
+    {
+     "title": "Création de France Travail",
+     "summary": "Pôle emploi serait transformé en un guichet unique de l'emploi, France Travail.",
+     "details": "Le programme prévoit de réunir les acteurs de l'emploi et de l'insertion au sein d'un réseau unique, France Travail. Ce réseau associerait Pôle emploi, les missions locales et les collectivités. L'objectif est de simplifier les démarches et de mieux accompagner les demandeurs d'emploi vers le retour à l'activité."
+    },
+    {
+     "title": "RSA conditionné à une activité",
+     "summary": "Le versement du RSA serait assorti d'heures d'activité hebdomadaires visant l'insertion.",
+     "details": "Le programme de 2022 prévoit de conditionner le RSA à 15 à 20 heures d'activité par semaine. Ces heures prendraient la forme de formation, d'accompagnement ou d'activité d'insertion. L'objectif affiché est de favoriser le retour à l'emploi des bénéficiaires et de lutter contre l'exclusion durable."
+    },
+    {
+     "title": "Développement de l'apprentissage",
+     "summary": "Le parti veut poursuivre le développement de l'apprentissage et de la formation professionnelle.",
+     "details": "Le programme prolonge la politique de soutien à l'apprentissage engagée lors du premier quinquennat. Il prévoit de maintenir les aides à l'embauche d'apprentis et de rapprocher les formations des besoins des entreprises. L'objectif est de faciliter l'insertion professionnelle des jeunes."
+    },
+    {
+     "title": "Réforme de l'assurance chômage",
+     "summary": "Le programme défend des règles d'indemnisation adaptées à la situation du marché du travail.",
+     "details": "Le parti soutient une modulation des règles de l'assurance chômage selon la conjoncture économique. Les règles seraient plus protectrices lorsque le chômage est élevé et plus incitatives à la reprise d'emploi lorsque les offres sont nombreuses. Cette orientation s'inscrit dans l'objectif de plein emploi."
+    }
+   ]
+  },
+  {
+   "title": "Retraites",
+   "points": [
+    {
+     "title": "Report progressif de l'âge légal de départ",
+     "summary": "L'âge légal de départ à la retraite serait progressivement relevé.",
+     "details": "Le programme de 2022 propose de porter progressivement l'âge légal de départ de 62 à 65 ans. Des dispositifs sont prévus pour les carrières longues et pour les métiers pénibles. L'objectif affiché est d'assurer l'équilibre financier du système de retraite et de financer d'autres priorités."
+    },
+    {
+     "title": "Minimum de pension pour une carrière complète",
+     "summary": "Le programme prévoit une pension minimale d'environ 1 100 euros pour une carrière complète.",
+     "details": "Le programme de 2022 propose de garantir une pension d'environ 1 100 euros par mois aux personnes ayant effectué une carrière complète. Cette mesure vise d'abord les petites retraites, notamment celles des agriculteurs, des commerçants et des artisans. L'objectif affiché est de mieux valoriser le travail."
+    },
+    {
+     "title": "Fin des principaux régimes spéciaux",
+     "summary": "Les nouveaux entrants ne relèveraient plus des principaux régimes spéciaux de retraite.",
+     "details": "Le programme prévoit la fermeture progressive des principaux régimes spéciaux pour les nouveaux embauchés. L'objectif affiché est de rapprocher les règles applicables à l'ensemble des actifs. Il s'agit de rendre le système plus équitable."
+    }
+   ]
+  },
+  {
+   "title": "Éducation",
+   "points": [
+    {
+     "title": "Revalorisation des enseignants",
+     "summary": "La rémunération des enseignants serait augmentée, en partie en contrepartie de nouvelles missions.",
+     "details": "Le programme prévoit une hausse générale de la rémunération des enseignants. Il y ajoute une revalorisation supplémentaire liée à de nouvelles missions, comme le remplacement, le soutien scolaire ou l'accompagnement des élèves. L'objectif affiché est de renforcer l'attractivité du métier."
+    },
+    {
+     "title": "Renforcement des savoirs fondamentaux",
+     "summary": "L'école doit concentrer ses efforts sur la lecture, l'écriture et les mathématiques.",
+     "details": "Le programme fait de la maîtrise des fondamentaux une priorité, notamment à l'école primaire et au collège. En 2024, Ensemble défend les mesures du « choc des savoirs », dont les groupes de niveau au collège. Il soutient aussi le renforcement du rôle du brevet. L'objectif est d'améliorer le niveau des élèves et de réduire les inégalités scolaires."
+    },
+    {
+     "title": "Réforme du lycée professionnel",
+     "summary": "Le lycée professionnel serait réformé sur le modèle de l'apprentissage, avec davantage de temps en entreprise.",
+     "details": "Le programme prévoit d'augmenter fortement la durée des stages en entreprise au lycée professionnel. Il propose aussi de rapprocher les formations des besoins économiques locaux et de mieux rémunérer les périodes de stage. L'objectif est d'améliorer l'insertion professionnelle des élèves."
+    },
+    {
+     "title": "Activité physique quotidienne à l'école",
+     "summary": "Les élèves de primaire bénéficieraient de 30 minutes d'activité physique par jour.",
+     "details": "Le programme de 2022 prévoit de généraliser 30 minutes d'activité physique quotidienne à l'école primaire. Cette mesure s'inscrit dans la perspective des Jeux olympiques de Paris 2024. Elle vise aussi la promotion de la santé des enfants."
+    },
+    {
+     "title": "Plus d'autonomie pour les établissements",
+     "summary": "Les établissements scolaires disposeraient de davantage de liberté pour adapter leur projet pédagogique.",
+     "details": "Le programme propose de donner plus d'autonomie aux équipes éducatives, en particulier aux chefs d'établissement. Cette autonomie s'accompagnerait d'une évaluation régulière des écoles et des établissements. L'objectif est d'adapter l'enseignement aux besoins des élèves."
+    },
+    {
+     "title": "Autorité et climat scolaire",
+     "summary": "En 2024, Ensemble met l'accent sur le respect de l'autorité et la sécurité à l'école.",
+     "details": "Le programme législatif de 2024 insiste sur le respect de l'autorité des enseignants et sur la lutte contre le harcèlement scolaire. Il soutient l'expérimentation de la tenue unique dans les établissements volontaires. L'objectif affiché est de restaurer un climat propice aux apprentissages."
+    }
+   ]
+  },
+  {
+   "title": "Santé",
+   "points": [
+    {
+     "title": "Rendez-vous de prévention aux âges clés",
+     "summary": "Des bilans de prévention seraient proposés gratuitement à plusieurs âges de la vie.",
+     "details": "Le programme prévoit des rendez-vous de prévention à des âges charnières de la vie adulte. Ces bilans permettraient de détecter précocement les maladies et d'adapter les comportements de santé. L'objectif affiché est de faire de la prévention un pilier du système de santé."
+    },
+    {
+     "title": "Lutte contre les déserts médicaux",
+     "summary": "Le programme veut améliorer l'accès aux soins dans les territoires sous-dotés.",
+     "details": "Le programme propose de mobiliser les médecins en formation dans les zones manquant de praticiens. Il prévoit de développer l'exercice coordonné, les maisons de santé et la délégation de tâches entre professionnels de santé. L'objectif est de garantir à chacun un accès à un médecin."
+    },
+    {
+     "title": "Renforcement de l'hôpital et des soignants",
+     "summary": "Le parti s'engage à poursuivre l'investissement dans l'hôpital et à soutenir les personnels soignants.",
+     "details": "Le programme prolonge les revalorisations engagées dans le cadre du Ségur de la santé. Il prévoit de simplifier l'organisation hospitalière et de donner plus de marges de décision aux soignants dans les services. L'objectif est d'améliorer les conditions de travail et la qualité des soins."
+    },
+    {
+     "title": "Convention citoyenne sur la fin de vie",
+     "summary": "Le programme prévoit une consultation citoyenne sur la question de la fin de vie.",
+     "details": "Le programme de 2022 propose de réunir une convention citoyenne sur la fin de vie. Ses travaux devaient éclairer une éventuelle évolution de la législation. Cette convention a été organisée en 2022-2023."
+    },
+    {
+     "title": "Grand âge et maintien à domicile",
+     "summary": "Le programme entend favoriser le maintien à domicile des personnes âgées et renforcer le contrôle des EHPAD.",
+     "details": "Le programme prévoit de développer l'aide à domicile et d'aider à l'adaptation des logements des personnes âgées. Il propose aussi de renforcer les contrôles dans les établissements d'hébergement pour personnes âgées dépendantes. L'objectif affiché est de permettre à chacun de vieillir dans la dignité."
+    }
+   ]
+  },
+  {
+   "title": "Sécurité",
+   "points": [
+    {
+     "title": "Doublement de la présence des forces de l'ordre sur le terrain",
+     "summary": "Le programme vise à doubler la présence des policiers et gendarmes sur la voie publique.",
+     "details": "Le programme de 2022 fixe l'objectif de doubler, d'ici 2030, la présence des forces de l'ordre sur le terrain. Ce doublement passe par des recrutements, par la réduction des tâches administratives et par des moyens accrus. L'objectif est de renforcer la sécurité au quotidien."
+    },
+    {
+     "title": "Création de nouvelles brigades de gendarmerie",
+     "summary": "De nouvelles brigades de gendarmerie seraient créées, notamment en zone rurale.",
+     "details": "Le programme prévoit la création d'environ 200 nouvelles brigades de gendarmerie. L'objectif affiché est de renforcer la présence de l'État dans les territoires ruraux et périurbains. Il s'agit aussi d'améliorer la proximité avec la population."
+    },
+    {
+     "title": "Loi de programmation pour la sécurité intérieure",
+     "summary": "Le budget du ministère de l'Intérieur serait augmenté dans le cadre d'une loi de programmation.",
+     "details": "Le programme prévoit une hausse des moyens de la sécurité intérieure sur plusieurs années. Ces moyens concernent l'équipement, le numérique, la lutte contre la cybercriminalité et la formation des forces de l'ordre. Cette orientation a donné lieu à la loi d'orientation et de programmation du ministère de l'Intérieur."
+    },
+    {
+     "title": "Réponse pénale plus rapide",
+     "summary": "Le parti veut accélérer et généraliser la sanction de certains délits.",
+     "details": "Le programme propose d'étendre les amendes forfaitaires délictuelles pour sanctionner plus rapidement certaines infractions du quotidien. En 2024, Ensemble met l'accent sur une réponse plus ferme et plus rapide à la délinquance des mineurs. L'objectif affiché est de rendre la sanction plus effective."
+    }
+   ]
+  },
+  {
+   "title": "Justice",
+   "points": [
+    {
+     "title": "Renforcement des moyens de la justice",
+     "summary": "Le programme prévoit des recrutements de magistrats et de personnels de justice.",
+     "details": "Le programme prolonge la hausse du budget de la justice engagée lors du premier quinquennat. Il prévoit le recrutement de magistrats, de greffiers et de personnels d'appui. L'objectif est de réduire les délais de jugement et d'améliorer le fonctionnement des juridictions."
+    },
+    {
+     "title": "Exécution des peines",
+     "summary": "Le parti veut garantir l'exécution effective des peines prononcées.",
+     "details": "Le programme prévoit de poursuivre la construction de places de prison. Il entend aussi développer les alternatives à l'incarcération, comme le travail d'intérêt général. L'objectif affiché est d'assurer que les sanctions décidées par les juges soient effectivement appliquées."
+    }
+   ]
+  },
+  {
+   "title": "Immigration",
+   "points": [
+    {
+     "title": "Refonte de l'organisation de l'asile et du séjour",
+     "summary": "Les procédures d'asile et de séjour seraient réorganisées pour être plus rapides.",
+     "details": "Le programme prévoit de réformer l'organisation de l'asile et du séjour afin de raccourcir les délais d'instruction. Les personnes déboutées doivent ensuite pouvoir être éloignées plus efficacement. Ces orientations ont été reprises dans la loi immigration adoptée fin 2023."
+    },
+    {
+     "title": "Exécution des obligations de quitter le territoire",
+     "summary": "Le programme veut rendre plus effectives les reconduites à la frontière des étrangers en situation irrégulière.",
+     "details": "Le programme vise une meilleure exécution des obligations de quitter le territoire français. Il prévoit de lier la politique de visas à la coopération des pays d'origine en matière de retours. L'objectif est de rendre crédible la politique d'éloignement."
+    },
+    {
+     "title": "Conditions renforcées pour les titres de séjour longs",
+     "summary": "Les titres de séjour de longue durée seraient conditionnés à la maîtrise du français et à l'insertion.",
+     "details": "Le programme prévoit de conditionner l'obtention des titres de séjour pluriannuels à la réussite d'un examen de français. Il y ajoute un critère d'insertion professionnelle. L'objectif affiché est de favoriser l'intégration des étrangers durablement installés en France."
+    },
+    {
+     "title": "Réforme de l'espace Schengen",
+     "summary": "Le parti propose de renforcer le contrôle des frontières extérieures de l'Union européenne.",
+     "details": "Le programme prévoit une refondation de l'espace Schengen, avec un pilotage politique renforcé. Il propose aussi un mécanisme de soutien aux États membres confrontés à des afflux migratoires. Le parti soutient le renforcement de l'agence européenne de garde-frontières et la mise en œuvre du pacte européen sur la migration et l'asile."
+    }
+   ]
+  },
+  {
+   "title": "Environnement",
+   "points": [
+    {
+     "title": "Planification écologique",
+     "summary": "La transition écologique serait pilotée directement par le Premier ministre.",
+     "details": "Le programme de 2022 prévoit de confier la planification écologique au Premier ministre, avec des ministères dédiés à la transition énergétique et à la planification territoriale. L'objectif est de coordonner l'action de l'État pour atteindre la neutralité carbone en 2050. Un secrétariat général à la planification écologique a été créé à cette fin."
+    },
+    {
+     "title": "Rénovation énergétique des logements",
+     "summary": "Le programme vise un rythme élevé de rénovations énergétiques des logements chaque année.",
+     "details": "Le programme de 2022 fixe l'objectif de rénover 700 000 logements par an. Il s'appuie sur des aides comme MaPrimeRénov'. L'objectif est de réduire la consommation d'énergie et les émissions de gaz à effet de serre, ainsi que les factures des ménages."
+    },
+    {
+     "title": "Voiture électrique accessible",
+     "summary": "Le parti propose un dispositif de location de véhicules électriques à faible coût pour les ménages modestes.",
+     "details": "Le programme prévoit un leasing social permettant de louer une voiture électrique pour moins de 100 euros par mois. Cette offre vise les ménages modestes, en priorité ceux qui dépendent de leur véhicule. L'objectif est de rendre la transition écologique accessible à tous et de soutenir la production de véhicules électriques en France."
+    },
+    {
+     "title": "Plantation d'arbres et protection de la biodiversité",
+     "summary": "Le programme prévoit un vaste plan de plantation d'arbres.",
+     "details": "Le programme de 2022 annonce la plantation de 140 millions d'arbres d'ici la fin de la décennie. Il prévoit aussi le renforcement des aires protégées et de la protection de la biodiversité. L'objectif est de préserver les forêts et les écosystèmes face au changement climatique."
+    },
+    {
+     "title": "Mécanisme carbone aux frontières de l'Europe",
+     "summary": "Le parti soutient une taxation carbone des produits importés dans l'Union européenne.",
+     "details": "Le programme défend le mécanisme d'ajustement carbone aux frontières de l'Union européenne. Ce mécanisme doit éviter la concurrence déloyale de pays aux normes environnementales moins exigeantes. L'objectif est de protéger l'industrie européenne tout en réduisant les émissions."
+    }
+   ]
+  },
+  {
+   "title": "Énergie",
+   "points": [
+    {
+     "title": "Relance du nucléaire",
+     "summary": "Le programme prévoit la construction de nouveaux réacteurs nucléaires.",
+     "details": "Le programme prévoit la construction de six réacteurs EPR2 et l'étude de huit réacteurs supplémentaires. Il prévoit aussi la prolongation des réacteurs existants lorsque la sûreté le permet et le développement de petits réacteurs modulaires. L'objectif est d'assurer une production d'électricité décarbonée et la souveraineté énergétique."
+    },
+    {
+     "title": "Développement des énergies renouvelables",
+     "summary": "Le parti veut accélérer fortement le solaire et l'éolien en mer.",
+     "details": "Le programme prévoit de multiplier par dix la capacité de production d'énergie solaire. Il vise aussi le déploiement d'une cinquantaine de parcs éoliens en mer d'ici 2050. L'objectif affiché est de combiner nucléaire et renouvelables pour sortir de la dépendance aux énergies fossiles."
+    },
+    {
+     "title": "Sortie des énergies fossiles",
+     "summary": "La France doit devenir le premier grand pays à sortir de la dépendance au pétrole, au gaz et au charbon.",
+     "details": "Le programme présente la sortie des énergies fossiles comme un objectif à la fois climatique et de souveraineté. Il s'appuie sur l'électrification des usages, la sobriété énergétique et le développement de l'hydrogène décarboné. Ce dernier est financé notamment par le plan France 2030."
+    }
+   ]
+  },
+  {
+   "title": "Agriculture",
+   "points": [
+    {
+     "title": "Souveraineté alimentaire",
+     "summary": "Le programme fait de la souveraineté alimentaire une priorité.",
+     "details": "Le programme prévoit de soutenir la production agricole nationale et de réduire la dépendance aux importations. Il entend accompagner les agriculteurs dans la transition écologique. Il défend des clauses miroirs dans les accords commerciaux pour imposer aux produits importés des normes équivalentes."
+    },
+    {
+     "title": "Renouvellement des générations d'agriculteurs",
+     "summary": "Le parti veut faciliter l'installation de jeunes agriculteurs.",
+     "details": "Le programme prévoit une loi d'orientation agricole afin de répondre au départ à la retraite d'une grande partie des exploitants. Il propose d'améliorer la formation et l'accès au foncier. L'objectif est d'assurer la transmission des exploitations."
+    },
+    {
+     "title": "Juste rémunération des agriculteurs",
+     "summary": "Le programme entend garantir un meilleur revenu aux agriculteurs.",
+     "details": "Le programme s'inscrit dans la continuité des lois Égalim, qui visent à mieux répartir la valeur entre producteurs, industriels et distributeurs. L'objectif affiché est de permettre aux agriculteurs de vivre de leur travail."
+    }
+   ]
+  },
+  {
+   "title": "Institutions",
+   "points": [
+    {
+     "title": "Commission transpartisane sur les institutions",
+     "summary": "Le programme prévoit une réflexion transpartisane sur la modernisation des institutions.",
+     "details": "Le programme de 2022 propose de réunir des représentants des différentes forces politiques autour de l'évolution des institutions. La réflexion porterait notamment sur le mode de scrutin et sur la participation citoyenne. L'objectif affiché est de renforcer la vitalité démocratique."
+    },
+    {
+     "title": "Participation citoyenne",
+     "summary": "Le parti veut associer davantage les citoyens à la décision publique.",
+     "details": "Le programme prévoit de recourir à des conventions citoyennes sur des sujets de société. Il propose aussi de développer de nouvelles formes de concertation, comme le Conseil national de la refondation. L'objectif est de rapprocher les citoyens de la décision politique."
+    },
+    {
+     "title": "Simplification de l'action publique",
+     "summary": "Le programme vise à simplifier les démarches administratives et à rapprocher l'État des citoyens.",
+     "details": "Le programme prévoit de poursuivre la simplification administrative et la numérisation des démarches. Il veut aussi renforcer la présence des services publics dans les territoires, notamment par le réseau France Services. L'objectif est de rendre l'action publique plus efficace et plus accessible."
+    }
+   ]
+  },
+  {
+   "title": "Europe",
+   "points": [
+    {
+     "title": "Souveraineté européenne",
+     "summary": "Le parti défend une Europe plus forte et plus autonome sur les plans économique, technologique et militaire.",
+     "details": "Le programme promeut le renforcement de l'autonomie stratégique de l'Union européenne. Cette autonomie concerne l'énergie, l'industrie, le numérique et la défense. L'objectif affiché est que l'Europe soit capable de défendre ses intérêts face aux grandes puissances."
+    },
+    {
+     "title": "Protection commerciale et industrielle européenne",
+     "summary": "Le programme soutient des instruments européens de protection face à la concurrence déloyale.",
+     "details": "Le parti défend des outils de réciprocité commerciale et des clauses miroirs dans les accords commerciaux. Il soutient aussi une politique industrielle européenne dans les secteurs stratégiques, comme les semi-conducteurs et les batteries. L'objectif est de protéger l'emploi et le savoir-faire européens."
+    }
+   ]
+  },
+  {
+   "title": "Défense",
+   "points": [
+    {
+     "title": "Hausse du budget des armées",
+     "summary": "Le parti s'engage à poursuivre l'augmentation des moyens consacrés à la défense.",
+     "details": "Le programme prévoit la poursuite de l'effort budgétaire en faveur des armées dans le cadre d'une loi de programmation militaire. Le contexte de la guerre en Ukraine est invoqué pour justifier cet effort. L'objectif est de moderniser les équipements et d'adapter les armées aux conflits de haute intensité."
+    },
+    {
+     "title": "Renforcement de la réserve opérationnelle",
+     "summary": "Le programme prévoit d'accroître significativement les effectifs de la réserve militaire.",
+     "details": "Le programme propose de développer la réserve opérationnelle afin d'associer davantage de citoyens à la défense nationale. L'objectif est de renforcer la capacité de mobilisation des armées et le lien entre la nation et ses forces."
+    }
+   ]
+  },
+  {
+   "title": "Politique étrangère",
+   "points": [
+    {
+     "title": "Soutien à l'Ukraine",
+     "summary": "Le parti défend un soutien durable à l'Ukraine face à l'agression russe.",
+     "details": "Le programme soutient une aide humanitaire, financière et militaire à l'Ukraine, en coordination avec les partenaires européens. Il soutient également les sanctions européennes contre la Russie. L'objectif affiché est la défense du droit international et de la sécurité européenne."
+    },
+    {
+     "title": "Rôle de la France sur la scène internationale",
+     "summary": "Le programme entend renforcer l'influence diplomatique de la France.",
+     "details": "Le programme prévoit de renforcer la diplomatie française et l'aide publique au développement. Il entend aussi maintenir l'engagement de la France dans les enceintes multilatérales sur le climat, la santé et la sécurité. L'objectif est de défendre les intérêts et les valeurs de la France."
+    }
+   ]
+  },
+  {
+   "title": "Logement",
+   "points": [
+    {
+     "title": "Accès à la propriété facilité",
+     "summary": "Le parti veut faciliter l'achat de la résidence principale, notamment pour les primo-accédants.",
+     "details": "En 2024, Ensemble propose d'alléger les frais d'acquisition pour les primo-accédants. L'objectif affiché est de soutenir les classes moyennes et les jeunes ménages dans leur projet immobilier."
+    },
+    {
+     "title": "Rénovation et adaptation des logements",
+     "summary": "Le programme soutient la rénovation énergétique et l'adaptation des logements au vieillissement.",
+     "details": "Le programme prévoit de poursuivre les aides à la rénovation énergétique, comme MaPrimeRénov'. Il propose aussi un dispositif d'aide à l'adaptation des logements pour les personnes âgées ou en situation de handicap. L'objectif est d'améliorer la qualité du parc de logements et le confort des habitants."
+    }
+   ]
+  },
+  {
+   "title": "Jeunesse",
+   "points": [
+    {
+     "title": "Généralisation du Service national universel",
+     "summary": "Le programme prévoit d'étendre le Service national universel.",
+     "details": "Le programme de 2022 propose de poursuivre le déploiement du Service national universel auprès des jeunes. Ce dispositif comprend un séjour de cohésion et une mission d'intérêt général. L'objectif affiché est de renforcer la cohésion nationale et l'engagement des jeunes."
+    },
+    {
+     "title": "Protection des enfants en ligne",
+     "summary": "Le parti veut renforcer la protection des mineurs face aux risques du numérique.",
+     "details": "Le programme prévoit de mieux protéger les enfants contre l'exposition aux contenus violents ou pornographiques et contre le cyberharcèlement. Il défend un contrôle plus strict de l'âge d'accès aux plateformes. En 2024, Ensemble met en avant la protection des enfants face aux écrans."
+    }
+   ]
+  },
+  {
+   "title": "Culture",
+   "points": [
+    {
+     "title": "Extension du Pass Culture",
+     "summary": "Le Pass Culture serait étendu à des publics plus jeunes, notamment par le biais de l'école.",
+     "details": "Le programme prévoit d'étendre le Pass Culture aux collégiens et lycéens, avec une part collective utilisée dans le cadre scolaire. L'objectif est de favoriser l'accès des jeunes aux pratiques artistiques et culturelles. Il s'agit aussi de soutenir les acteurs culturels."
+    },
+    {
+     "title": "Soutien à l'audiovisuel public et aux créateurs",
+     "summary": "Le programme prévoit de garantir le financement de l'audiovisuel public et de défendre la création française.",
+     "details": "Malgré la suppression de la redevance, le programme s'engage à maintenir le financement de l'audiovisuel public. Il défend aussi l'exception culturelle et la rémunération des créateurs face aux plateformes numériques."
+    }
+   ]
+  }
+ ]
+}

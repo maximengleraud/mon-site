@@ -1,0 +1,600 @@
+{
+ "source": "La France insoumise – « L'Avenir en commun » (programme pour l'élection présidentielle de 2022) ; Nouveau Front populaire – « Contrat de législature » (programme pour les élections législatives de 2024)",
+ "themes": [
+  {
+   "title": "Institutions",
+   "points": [
+    {
+     "title": "Convoquer une Assemblée constituante pour une VIe République",
+     "summary": "Le programme prévoit de remplacer la Ve République par une nouvelle Constitution rédigée par une Assemblée constituante.",
+     "details": "L'Avenir en commun propose de convoquer une Assemblée constituante, élue à cet effet, chargée de rédiger une nouvelle Constitution. Celle-ci serait ensuite soumise à référendum. L'objectif affiché est de mettre fin à ce que le parti qualifie de « monarchie présidentielle » et de redonner le pouvoir aux citoyens et au Parlement."
+    },
+    {
+     "title": "Instaurer le référendum d'initiative citoyenne (RIC)",
+     "summary": "Les citoyens pourraient déclencher un référendum par pétition.",
+     "details": "Le programme prévoit un référendum d'initiative citoyenne permettant de proposer une loi, d'abroger une loi, de modifier la Constitution ou de révoquer un élu. Il est présent dans L'Avenir en commun et repris dans le programme du Nouveau Front populaire. L'objectif affiché est de renforcer l'intervention directe des citoyens dans la décision publique."
+    },
+    {
+     "title": "Créer un droit de révocation des élus",
+     "summary": "Les électeurs pourraient mettre fin au mandat d'un élu en cours de mandat.",
+     "details": "L'Avenir en commun propose un référendum révocatoire. Les citoyens pourraient le déclencher contre un élu à partir d'un certain seuil de signatures. Le parti présente cette mesure comme un moyen de rendre les élus responsables devant leurs électeurs pendant toute la durée de leur mandat."
+    },
+    {
+     "title": "Instaurer la proportionnelle aux élections législatives",
+     "summary": "Les députés seraient élus au scrutin proportionnel.",
+     "details": "Le programme prévoit de remplacer le scrutin majoritaire uninominal par un mode de scrutin proportionnel. La mesure figure dans L'Avenir en commun et dans le programme du Nouveau Front populaire. L'objectif affiché est une meilleure représentation de la diversité des opinions à l'Assemblée nationale."
+    },
+    {
+     "title": "Abroger l'article 49.3 de la Constitution",
+     "summary": "Le gouvernement ne pourrait plus faire adopter un texte sans vote de l'Assemblée.",
+     "details": "Le Nouveau Front populaire prévoit de supprimer la procédure de l'article 49 alinéa 3. Cette procédure permet au gouvernement d'engager sa responsabilité pour faire adopter un texte sans vote. Le parti présente cette mesure comme un rééquilibrage des pouvoirs en faveur du Parlement."
+    },
+    {
+     "title": "Accorder le droit de vote à 16 ans",
+     "summary": "L'âge du droit de vote serait abaissé à 16 ans.",
+     "details": "L'Avenir en commun propose d'ouvrir le droit de vote dès 16 ans. L'objectif affiché est d'associer plus tôt les jeunes à la vie démocratique."
+    },
+    {
+     "title": "Reconnaître le vote blanc",
+     "summary": "Les votes blancs seraient comptabilisés comme suffrages exprimés.",
+     "details": "Le programme prévoit de prendre en compte le vote blanc dans les résultats électoraux. Il s'agit de permettre aux électeurs d'exprimer un refus de l'offre électorale en le voyant officiellement pris en compte."
+    },
+    {
+     "title": "Renforcer l'éthique et la lutte contre les conflits d'intérêts",
+     "summary": "Le programme prévoit des règles plus strictes contre la corruption et le pantouflage.",
+     "details": "L'Avenir en commun propose de durcir les règles encadrant les allers-retours entre la haute fonction publique et le secteur privé (« pantouflage »). Il prévoit aussi de renforcer la lutte contre les conflits d'intérêts et le lobbying. L'objectif affiché est de garantir l'indépendance de la décision publique vis-à-vis des intérêts privés."
+    }
+   ]
+  },
+  {
+   "title": "Économie",
+   "points": [
+    {
+     "title": "Bloquer les prix des produits de première nécessité",
+     "summary": "Les prix des biens essentiels seraient bloqués pour protéger le pouvoir d'achat.",
+     "details": "L'Avenir en commun et le programme du Nouveau Front populaire prévoient un blocage des prix des produits de première nécessité. Sont visés l'alimentation, l'énergie et les carburants. L'objectif affiché est de lutter contre l'inflation subie par les ménages et contre les marges jugées excessives de certains acteurs économiques."
+    },
+    {
+     "title": "Mettre en place une planification écologique",
+     "summary": "L'État organiserait la transformation de l'économie selon des objectifs écologiques et sociaux.",
+     "details": "Le programme place la planification écologique au cœur de sa politique économique. Celle-ci serait pilotée par l'État et associerait les collectivités, les citoyens et les acteurs sociaux. Elle orienterait l'investissement public et privé vers la transition écologique, la relocalisation et la satisfaction des besoins essentiels."
+    },
+    {
+     "title": "Relocaliser la production et instaurer un protectionnisme solidaire",
+     "summary": "Le programme vise à réindustrialiser le pays et à protéger les productions nationales.",
+     "details": "L'Avenir en commun propose un protectionnisme solidaire, combinant des mesures aux frontières sociales et écologiques. Il prévoit aussi le soutien à la relocalisation des productions stratégiques. L'objectif affiché est de lutter contre le dumping social et environnemental et de reconstruire une souveraineté industrielle."
+    },
+    {
+     "title": "Créer un pôle public bancaire",
+     "summary": "Un pôle bancaire public financerait les priorités de la planification écologique.",
+     "details": "Le programme prévoit la constitution d'un pôle public bancaire. Il serait notamment chargé d'orienter le crédit vers l'investissement écologique et social. L'Avenir en commun propose aussi de séparer les activités bancaires de dépôt et d'investissement."
+    },
+    {
+     "title": "Encadrer les écarts de salaires dans les entreprises",
+     "summary": "L'écart entre le salaire le plus bas et le plus élevé d'une entreprise serait plafonné.",
+     "details": "L'Avenir en commun propose de limiter l'écart de rémunération au sein d'une même entreprise dans un rapport de 1 à 20. L'objectif affiché est de réduire les inégalités de revenus et de mieux partager la valeur produite."
+    },
+    {
+     "title": "Renforcer les droits des salariés dans les entreprises",
+     "summary": "Les salariés disposeraient de nouveaux pouvoirs sur les décisions de leur entreprise.",
+     "details": "Le programme prévoit d'étendre les droits d'intervention des salariés et de leurs représentants dans la gestion des entreprises. Il propose notamment un droit de préemption permettant aux salariés de reprendre leur entreprise sous forme coopérative en cas de vente ou de fermeture. L'objectif affiché est de démocratiser l'économie."
+    }
+   ]
+  },
+  {
+   "title": "Fiscalité",
+   "points": [
+    {
+     "title": "Rétablir un impôt sur la fortune avec un volet climatique",
+     "summary": "L'ISF serait rétabli et intégrerait une composante liée à l'impact climatique du patrimoine.",
+     "details": "L'Avenir en commun et le programme du Nouveau Front populaire prévoient le rétablissement d'un impôt de solidarité sur la fortune. Cet impôt serait renforcé par un volet climatique tenant compte de l'empreinte carbone des actifs détenus. L'objectif affiché est de faire contribuer davantage les plus grands patrimoines et de pénaliser les placements polluants."
+    },
+    {
+     "title": "Rendre l'impôt sur le revenu plus progressif avec 14 tranches",
+     "summary": "Le barème de l'impôt sur le revenu passerait à 14 tranches.",
+     "details": "Le programme prévoit un impôt sur le revenu plus progressif, organisé en 14 tranches. Cette mesure figure dans L'Avenir en commun et dans le programme du Nouveau Front populaire. L'objectif affiché est de baisser l'impôt des revenus modestes et moyens et d'augmenter la contribution des plus hauts revenus."
+    },
+    {
+     "title": "Supprimer le prélèvement forfaitaire unique (« flat tax »)",
+     "summary": "Les revenus du capital seraient imposés au barème comme les revenus du travail.",
+     "details": "Le programme prévoit de supprimer le prélèvement forfaitaire unique sur les revenus du capital, instauré en 2018. Ces revenus seraient soumis au barème progressif de l'impôt sur le revenu. L'objectif affiché est de taxer le capital au même niveau que le travail."
+    },
+    {
+     "title": "Instaurer un héritage maximum",
+     "summary": "Les plus gros héritages seraient plafonnés au-delà d'un certain montant.",
+     "details": "L'Avenir en commun propose de fixer un héritage maximum, au-delà duquel la transmission serait intégralement taxée. Le montant mentionné est de 12 millions d'euros. Le programme prévoit également de rendre les droits de succession plus progressifs. L'objectif affiché est de limiter la concentration héréditaire des patrimoines."
+    },
+    {
+     "title": "Taxer les superprofits",
+     "summary": "Une taxation spécifique viserait les profits exceptionnels des grandes entreprises.",
+     "details": "Le programme du Nouveau Front populaire prévoit l'instauration d'une taxe sur les superprofits. Elle viserait en particulier les entreprises ayant bénéficié de la hausse des prix dans certains secteurs. L'objectif affiché est de financer des mesures sociales et de lutter contre les profits jugés indus."
+    },
+    {
+     "title": "Lutter contre l'évasion et l'exil fiscal",
+     "summary": "Le programme prévoit un impôt universel et une lutte renforcée contre la fraude fiscale.",
+     "details": "L'Avenir en commun propose un impôt universel. Les Français établis à l'étranger y seraient soumis, la différence avec l'impôt payé dans leur pays de résidence étant due à la France. Le programme prévoit également des moyens supplémentaires contre la fraude et l'évasion fiscales. Il propose enfin la suppression des niches fiscales jugées injustes ou inefficaces."
+    }
+   ]
+  },
+  {
+   "title": "Travail",
+   "points": [
+    {
+     "title": "Augmenter le SMIC",
+     "summary": "Le salaire minimum serait relevé de manière significative.",
+     "details": "L'Avenir en commun proposait de porter le SMIC à 1 400 euros net par mois. Le programme du Nouveau Front populaire de 2024 propose de le porter à 1 600 euros net. L'objectif affiché est d'améliorer le pouvoir d'achat des salariés les moins rémunérés."
+    },
+    {
+     "title": "Indexer les salaires sur l'inflation",
+     "summary": "Les salaires évolueraient automatiquement avec la hausse des prix.",
+     "details": "Le programme du Nouveau Front populaire prévoit l'indexation des salaires sur l'inflation. Il propose aussi l'ouverture de conférences sociales sur les salaires par branche. L'objectif affiché est d'éviter la perte de pouvoir d'achat des salariés en période de hausse des prix."
+    },
+    {
+     "title": "Appliquer les 35 heures et aller vers les 32 heures",
+     "summary": "Le programme vise à réduire le temps de travail.",
+     "details": "L'Avenir en commun propose de rétablir les 35 heures effectives, notamment en limitant le recours aux heures supplémentaires. Il prévoit de passer aux 32 heures dans les métiers pénibles ou de nuit. Une conférence sociale serait convoquée en vue de généraliser la semaine de 32 heures. L'objectif affiché est de partager le travail et d'améliorer les conditions de vie."
+    },
+    {
+     "title": "Instaurer une sixième semaine de congés payés",
+     "summary": "Les salariés bénéficieraient d'une semaine de congés payés supplémentaire.",
+     "details": "L'Avenir en commun prévoit d'ajouter une sixième semaine de congés payés pour tous les salariés. L'objectif affiché est d'améliorer la qualité de vie et de mieux partager les gains de productivité."
+    },
+    {
+     "title": "Abroger les réformes de l'assurance chômage",
+     "summary": "Les récentes réformes réduisant les droits des chômeurs seraient annulées.",
+     "details": "Le programme du Nouveau Front populaire prévoit d'abroger les réformes de l'assurance chômage adoptées sous les gouvernements d'Emmanuel Macron. L'objectif affiché est de rétablir le niveau de protection des demandeurs d'emploi."
+    },
+    {
+     "title": "Lutter contre la précarité de l'emploi",
+     "summary": "Le programme prévoit d'encadrer les contrats précaires.",
+     "details": "L'Avenir en commun propose de limiter le recours aux contrats courts, à l'intérim et aux formes d'emploi précaires. Il prévoit aussi d'abroger les lois Travail (dont la loi El Khomri et les ordonnances de 2017). Le programme propose de requalifier les travailleurs des plateformes en salariés. L'objectif affiché est de stabiliser l'emploi et de renforcer les droits des travailleurs."
+    },
+    {
+     "title": "Garantir l'égalité salariale entre femmes et hommes",
+     "summary": "Des mesures contraignantes viseraient à supprimer les écarts de salaire.",
+     "details": "Le programme prévoit de renforcer les sanctions contre les entreprises qui ne respectent pas l'égalité salariale. Il prévoit aussi de revaloriser les métiers à prédominance féminine. L'objectif affiché est de mettre fin aux inégalités de rémunération entre les sexes."
+    }
+   ]
+  },
+  {
+   "title": "Retraites",
+   "points": [
+    {
+     "title": "Rétablir la retraite à 60 ans",
+     "summary": "L'âge légal de départ serait ramené à 60 ans.",
+     "details": "L'Avenir en commun propose de restaurer le droit à la retraite à 60 ans à taux plein avec 40 annuités de cotisation. Le programme du Nouveau Front populaire fixe l'objectif commun d'un droit au départ à 60 ans. L'objectif affiché est de permettre aux salariés de partir plus tôt en bonne santé."
+    },
+    {
+     "title": "Abroger la réforme des retraites de 2023",
+     "summary": "Le report de l'âge légal à 64 ans serait annulé.",
+     "details": "Le programme du Nouveau Front populaire prévoit l'abrogation immédiate de la réforme des retraites de 2023, qui reportait l'âge légal à 64 ans. Cette mesure est défendue par La France insoumise dans le cadre de cette coalition."
+    },
+    {
+     "title": "Porter le minimum de pension au niveau du SMIC",
+     "summary": "Aucune pension pour une carrière complète ne serait inférieure au SMIC.",
+     "details": "L'Avenir en commun propose de porter le minimum de pension, pour une carrière complète, au niveau du SMIC revalorisé. Il prévoit aussi d'augmenter le minimum vieillesse. L'objectif affiché est de lutter contre la pauvreté des retraités."
+    }
+   ]
+  },
+  {
+   "title": "Éducation",
+   "points": [
+    {
+     "title": "Rendre l'école réellement gratuite",
+     "summary": "Les frais liés à la scolarité seraient pris en charge par la puissance publique.",
+     "details": "Le programme prévoit la gratuité réelle de l'école publique. Elle couvrirait notamment la cantine, les fournitures scolaires, les transports et les activités périscolaires. Cette mesure figure dans le programme du Nouveau Front populaire et prolonge les propositions de L'Avenir en commun. L'objectif affiché est de supprimer les inégalités d'accès liées aux ressources des familles."
+    },
+    {
+     "title": "Réduire le nombre d'élèves par classe",
+     "summary": "Les effectifs par classe seraient abaissés grâce à des recrutements.",
+     "details": "Le programme prévoit de réduire le nombre d'élèves par classe. Pour cela, il s'appuie sur un plan de recrutement d'enseignants et de personnels éducatifs. L'objectif affiché est d'améliorer les conditions d'apprentissage et la réussite scolaire."
+    },
+    {
+     "title": "Revaloriser les métiers de l'éducation",
+     "summary": "Les salaires et le statut des enseignants seraient améliorés.",
+     "details": "Le programme prévoit une revalorisation des rémunérations des enseignants et des personnels de l'Éducation nationale. Il prévoit aussi des recrutements, notamment d'accompagnants d'élèves en situation de handicap (AESH). L'objectif affiché est de rendre ces métiers plus attractifs."
+    },
+    {
+     "title": "Abroger les réformes Blanquer et le « choc des savoirs »",
+     "summary": "Le programme prévoit d'annuler plusieurs réformes récentes de l'Éducation nationale.",
+     "details": "L'Avenir en commun propose de revenir sur la réforme du baccalauréat et du lycée engagée par Jean-Michel Blanquer. Le programme du Nouveau Front populaire prévoit l'abandon du « choc des savoirs », notamment des groupes de niveau. L'objectif affiché est de rétablir un cadre national commun pour tous les élèves."
+    },
+    {
+     "title": "Supprimer Parcoursup",
+     "summary": "La plateforme d'affectation dans l'enseignement supérieur serait supprimée.",
+     "details": "Le programme prévoit la suppression de Parcoursup et la garantie d'un accès à l'enseignement supérieur pour les bacheliers. L'objectif affiché est de mettre fin à la sélection jugée inégalitaire à l'entrée de l'université."
+    },
+    {
+     "title": "Étendre la scolarité obligatoire de 3 à 18 ans",
+     "summary": "L'obligation scolaire serait prolongée jusqu'à 18 ans.",
+     "details": "L'Avenir en commun propose d'étendre la scolarité obligatoire de 3 à 18 ans. L'objectif affiché est d'élever le niveau de qualification de l'ensemble d'une génération."
+    },
+    {
+     "title": "Investir dans l'enseignement supérieur et la recherche",
+     "summary": "Le programme prévoit des moyens supplémentaires pour les universités et la recherche publique.",
+     "details": "Le programme prévoit un plan d'investissement dans les universités. Il propose le recrutement d'enseignants-chercheurs et le renforcement des financements pérennes de la recherche publique. L'objectif affiché est de garantir de bonnes conditions d'étude et l'indépendance de la recherche."
+    }
+   ]
+  },
+  {
+   "title": "Jeunesse",
+   "points": [
+    {
+     "title": "Créer une garantie d'autonomie pour les jeunes",
+     "summary": "Les jeunes recevraient une allocation pour atteindre le seuil de pauvreté.",
+     "details": "L'Avenir en commun propose une garantie d'autonomie pour les jeunes, notamment étudiants et en formation. Son montant est fixé au niveau du seuil de pauvreté, soit 1 063 euros par mois au moment de la rédaction du programme. L'objectif affiché est de permettre aux jeunes d'étudier sans dépendre de leur famille ni d'un emploi précaire."
+    },
+    {
+     "title": "Permettre le vote dès 16 ans",
+     "summary": "Les jeunes pourraient voter dès 16 ans.",
+     "details": "L'Avenir en commun propose d'abaisser l'âge du droit de vote à 16 ans. Le parti présente cette mesure comme un moyen de reconnaître la citoyenneté des jeunes et de les associer aux choix politiques."
+    }
+   ]
+  },
+  {
+   "title": "Santé",
+   "points": [
+    {
+     "title": "Rembourser à 100 % les soins prescrits",
+     "summary": "La Sécurité sociale prendrait en charge intégralement les soins prescrits.",
+     "details": "L'Avenir en commun propose le remboursement à 100 % par la Sécurité sociale des soins de santé prescrits, dans le cadre du « 100 % Sécu ». Cette mesure intégrerait les complémentaires santé dans l'assurance maladie. L'objectif affiché est de supprimer le renoncement aux soins pour raisons financières."
+    },
+    {
+     "title": "Renforcer l'hôpital public et recruter des soignants",
+     "summary": "Le programme prévoit des moyens et des embauches pour l'hôpital public.",
+     "details": "Le programme prévoit un plan de recrutement et de revalorisation des professionnels de santé. Il prévoit aussi des moyens supplémentaires pour l'hôpital public et la réouverture de lits. Le programme du Nouveau Front populaire reprend cet objectif de renforcement de l'hôpital. L'objectif affiché est de répondre à la crise des services hospitaliers."
+    },
+    {
+     "title": "Lutter contre les déserts médicaux",
+     "summary": "Des mesures viseraient à garantir l'accès aux soins sur tout le territoire.",
+     "details": "Le programme prévoit de développer les centres de santé publics avec des médecins salariés. Il prévoit aussi de réguler l'installation des médecins dans les zones déjà bien dotées. Le programme du Nouveau Front populaire propose de rétablir l'obligation de permanence des soins. L'objectif affiché est de réduire les inégalités territoriales d'accès aux soins."
+    },
+    {
+     "title": "Créer un pôle public du médicament",
+     "summary": "Un pôle public assurerait la production et la recherche de médicaments essentiels.",
+     "details": "L'Avenir en commun propose de créer un pôle public du médicament. Il serait chargé de produire des médicaments essentiels et de mener des recherches. L'objectif affiché est de lutter contre les pénuries et de réduire la dépendance à l'égard des laboratoires privés et des productions étrangères."
+    },
+    {
+     "title": "Ouvrir le droit de mourir dans la dignité",
+     "summary": "Le programme prévoit de légaliser l'aide active à mourir.",
+     "details": "L'Avenir en commun propose de reconnaître le droit de mourir dans la dignité, par la légalisation de l'aide active à mourir encadrée. Il prévoit aussi le développement des soins palliatifs. L'objectif affiché est de garantir à chacun la maîtrise de sa fin de vie."
+    },
+    {
+     "title": "Garantir le droit à l'IVG",
+     "summary": "Le programme prévoit de protéger et faciliter l'accès à l'IVG.",
+     "details": "L'Avenir en commun proposait d'inscrire le droit à l'interruption volontaire de grossesse dans la Constitution, ce qui a été réalisé en 2024. Le programme prévoit également de garantir l'accès effectif à l'IVG sur l'ensemble du territoire, notamment par des moyens supplémentaires pour les centres pratiquant l'IVG."
+    }
+   ]
+  },
+  {
+   "title": "Sécurité",
+   "points": [
+    {
+     "title": "Rétablir une police de proximité",
+     "summary": "Une police de proximité serait recréée dans les quartiers.",
+     "details": "L'Avenir en commun et le programme du Nouveau Front populaire prévoient le rétablissement d'une police de proximité. L'objectif affiché est de rapprocher la police de la population et de prévenir la délinquance par une présence de terrain."
+    },
+    {
+     "title": "Remplacer l'IGPN par un organe indépendant",
+     "summary": "Le contrôle de la police serait confié à une autorité indépendante.",
+     "details": "Le programme prévoit de supprimer l'Inspection générale de la police nationale (IGPN). Celle-ci serait remplacée par un organe de contrôle indépendant du ministère de l'Intérieur. L'objectif affiché est de garantir l'impartialité des enquêtes sur les agissements des forces de l'ordre."
+    },
+    {
+     "title": "Interdire certaines armes de maintien de l'ordre",
+     "summary": "Les LBD et certaines grenades seraient interdits.",
+     "details": "Le programme prévoit d'interdire les lanceurs de balles de défense (LBD) et les grenades jugées mutilantes dans les opérations de maintien de l'ordre. Le Nouveau Front populaire reprend cette mesure. L'objectif affiché est de mettre fin aux blessures graves lors des manifestations."
+    },
+    {
+     "title": "Dissoudre les BAC et les BRAV-M",
+     "summary": "Certaines unités de police seraient dissoutes.",
+     "details": "L'Avenir en commun propose la dissolution des brigades anticriminalité (BAC). La France insoumise a également demandé la dissolution des brigades de répression de l'action violente motorisées (BRAV-M). L'objectif affiché est de refonder la doctrine du maintien de l'ordre vers la désescalade."
+    },
+    {
+     "title": "Mettre en place un récépissé lors des contrôles d'identité",
+     "summary": "Chaque contrôle d'identité donnerait lieu à la remise d'un récépissé.",
+     "details": "Le programme prévoit l'instauration d'un récépissé lors des contrôles d'identité. L'objectif affiché est de lutter contre les contrôles au faciès et d'assurer la traçabilité des contrôles."
+    },
+    {
+     "title": "Renforcer le renseignement humain et la police judiciaire",
+     "summary": "Les moyens de l'investigation et du renseignement de terrain seraient renforcés.",
+     "details": "L'Avenir en commun propose de renforcer le renseignement humain et les moyens de la police judiciaire. Sont notamment visées la lutte contre le crime organisé et la délinquance financière. L'objectif affiché est de concentrer les moyens sur l'enquête et la prévention plutôt que sur la surveillance de masse."
+    }
+   ]
+  },
+  {
+   "title": "Justice",
+   "points": [
+    {
+     "title": "Augmenter les moyens de la justice",
+     "summary": "Le programme prévoit des recrutements dans les juridictions.",
+     "details": "Le programme prévoit d'augmenter les moyens de la justice, notamment par le recrutement de magistrats et de greffiers. L'objectif affiché est de réduire les délais de jugement et d'améliorer l'accès au service public de la justice."
+    },
+    {
+     "title": "Garantir l'indépendance du parquet",
+     "summary": "Les procureurs ne dépendraient plus du pouvoir exécutif.",
+     "details": "L'Avenir en commun propose de garantir l'indépendance des magistrats du parquet vis-à-vis du gouvernement, notamment dans les procédures de nomination. L'objectif affiché est de renforcer la séparation des pouvoirs."
+    },
+    {
+     "title": "Lutter contre les violences faites aux femmes",
+     "summary": "Le programme prévoit une loi globale et des moyens accrus contre les violences sexistes et sexuelles.",
+     "details": "Le programme du Nouveau Front populaire prévoit l'adoption d'une loi-cadre contre les violences sexistes et sexuelles. Il prévoit aussi des moyens supplémentaires pour la prévention, l'accompagnement des victimes et la formation des professionnels. L'Avenir en commun comportait également des mesures de renforcement des moyens contre ces violences."
+    }
+   ]
+  },
+  {
+   "title": "Immigration",
+   "points": [
+    {
+     "title": "Abroger la loi immigration de 2024",
+     "summary": "La loi « immigration » adoptée fin 2023 serait abrogée.",
+     "details": "Le programme du Nouveau Front populaire prévoit l'abrogation de la loi pour contrôler l'immigration et améliorer l'intégration, promulguée en janvier 2024. La France insoumise s'était opposée à ce texte."
+    },
+    {
+     "title": "Régulariser les travailleurs, étudiants et parents sans papiers",
+     "summary": "Certaines catégories de personnes sans titre de séjour seraient régularisées.",
+     "details": "Le programme prévoit la régularisation des travailleurs sans papiers, des étudiants et des parents d'enfants scolarisés. L'objectif affiché est de sortir ces personnes de la précarité administrative et de lutter contre leur exploitation."
+    },
+    {
+     "title": "Créer une agence de sauvetage en mer",
+     "summary": "Une agence assurerait le sauvetage des migrants en Méditerranée.",
+     "details": "Le programme du Nouveau Front populaire prévoit la création d'une agence de sauvetage en mer. L'objectif affiché est d'empêcher les décès de migrants lors des traversées."
+    },
+    {
+     "title": "Améliorer les conditions d'accueil et le droit d'asile",
+     "summary": "Le programme prévoit de renforcer l'accueil des demandeurs d'asile.",
+     "details": "Le programme prévoit d'améliorer les conditions d'accueil des demandeurs d'asile et d'accélérer le traitement des demandes. Il prévoit aussi de faciliter l'accès aux titres de séjour. Le programme du Nouveau Front populaire mentionne la simplification des démarches administratives. L'Avenir en commun propose aussi de mettre fin à la rétention des enfants."
+    },
+    {
+     "title": "Donner le droit de vote aux étrangers aux élections locales",
+     "summary": "Les étrangers résidant légalement en France pourraient voter aux élections locales.",
+     "details": "L'Avenir en commun propose d'accorder le droit de vote aux élections locales aux étrangers résidant régulièrement en France. L'objectif affiché est de reconnaître leur participation à la vie de la commune."
+    },
+    {
+     "title": "Agir sur les causes des migrations",
+     "summary": "Le programme prévoit d'agir contre les causes des départs.",
+     "details": "L'Avenir en commun propose d'agir sur les causes des migrations forcées : guerres, accords commerciaux inégaux et dérèglement climatique. L'objectif affiché est que personne ne soit contraint de quitter son pays."
+    }
+   ]
+  },
+  {
+   "title": "Environnement",
+   "points": [
+    {
+     "title": "Inscrire la « règle verte » dans la Constitution",
+     "summary": "L'activité humaine ne devrait pas prélever plus que ce que la nature peut reconstituer.",
+     "details": "L'Avenir en commun propose d'inscrire dans la Constitution une « règle verte ». Selon ce principe, on ne prélève pas sur la nature davantage que ce qu'elle peut reconstituer et on ne produit pas plus que ce qu'elle peut supporter. Cette règle servirait de cadre à l'ensemble des politiques publiques."
+    },
+    {
+     "title": "Faire de l'eau un bien commun",
+     "summary": "L'eau serait gérée publiquement et les premiers mètres cubes seraient gratuits.",
+     "details": "Le programme prévoit de faire de l'eau un bien commun géré en régie publique. Il propose la gratuité des quantités d'eau indispensables à une vie digne. Le programme du Nouveau Front populaire prévoit en outre un moratoire sur les méga-bassines. L'objectif affiché est de protéger la ressource et d'en garantir l'accès à tous."
+    },
+    {
+     "title": "Sortir des pesticides les plus dangereux",
+     "summary": "Le glyphosate et les pesticides nocifs seraient interdits.",
+     "details": "L'Avenir en commun propose d'interdire le glyphosate et les pesticides les plus dangereux. Il prévoit aussi un accompagnement des agriculteurs dans la transition. L'objectif affiché est de protéger la santé humaine et la biodiversité."
+    },
+    {
+     "title": "Développer le ferroviaire et limiter les vols intérieurs",
+     "summary": "Le train serait privilégié par rapport à l'avion et à la route.",
+     "details": "Le programme prévoit un plan de développement du ferroviaire, pour les voyageurs comme pour le fret. L'Avenir en commun propose aussi d'interdire les vols intérieurs lorsqu'une alternative en train existe. L'objectif affiché est de réduire les émissions de gaz à effet de serre liées aux transports."
+    },
+    {
+     "title": "Protéger la biodiversité et les animaux",
+     "summary": "Le programme prévoit des mesures de protection de la biodiversité et du bien-être animal.",
+     "details": "L'Avenir en commun propose de renforcer la protection des espaces naturels et de lutter contre l'artificialisation des sols. Il prévoit aussi la sortie de l'élevage industriel (« fermes-usines ») et des mesures en faveur du bien-être animal."
+    },
+    {
+     "title": "Rénover massivement les bâtiments",
+     "summary": "Un plan de rénovation thermique des logements serait engagé.",
+     "details": "L'Avenir en commun prévoit la rénovation complète de 700 000 logements par an. Le programme du Nouveau Front populaire reprend l'objectif d'un plan de rénovation thermique de grande ampleur. L'objectif affiché est de réduire les émissions et les factures énergétiques des ménages."
+    }
+   ]
+  },
+  {
+   "title": "Énergie",
+   "points": [
+    {
+     "title": "Viser 100 % d'énergies renouvelables",
+     "summary": "Le mix énergétique serait entièrement renouvelable à terme.",
+     "details": "L'Avenir en commun propose une transition vers 100 % d'énergies renouvelables d'ici 2050. Cette transition passerait par un investissement massif dans l'éolien, le solaire, la géothermie et les énergies marines. L'objectif affiché est de lutter contre le dérèglement climatique."
+    },
+    {
+     "title": "Sortir du nucléaire",
+     "summary": "La France sortirait progressivement de l'énergie nucléaire.",
+     "details": "L'Avenir en commun prévoit la sortie progressive du nucléaire et l'abandon des projets de nouveaux réacteurs EPR. Cette position est propre à La France insoumise : le programme du Nouveau Front populaire ne tranche pas cette question."
+    },
+    {
+     "title": "Créer un pôle public de l'énergie",
+     "summary": "Les principaux acteurs de l'énergie seraient placés sous contrôle public.",
+     "details": "Le programme prévoit de renationaliser EDF et Engie. Ces deux entreprises seraient intégrées dans un pôle public de l'énergie. L'objectif affiché est de garantir la maîtrise publique de la production et de la distribution de l'énergie."
+    },
+    {
+     "title": "Sortir du marché européen de l'électricité",
+     "summary": "Les prix de l'électricité ne seraient plus fixés par le marché européen.",
+     "details": "L'Avenir en commun propose de sortir du marché européen de l'électricité. Le programme du Nouveau Front populaire demande de rompre avec les mécanismes de fixation des prix européens. L'objectif affiché est de faire baisser les prix pour les ménages et les entreprises."
+    },
+    {
+     "title": "Garantir l'accès à l'énergie et bloquer les prix",
+     "summary": "Le programme vise à protéger les ménages face aux prix de l'énergie.",
+     "details": "Le programme prévoit la gratuité des quantités d'énergie indispensables à une vie digne. Le programme du Nouveau Front populaire prévoit en outre le blocage des prix de l'énergie. L'objectif affiché est de lutter contre la précarité énergétique."
+    }
+   ]
+  },
+  {
+   "title": "Logement",
+   "points": [
+    {
+     "title": "Construire massivement des logements publics",
+     "summary": "Le programme prévoit la construction de logements publics à grande échelle.",
+     "details": "L'Avenir en commun propose de construire 200 000 logements publics par an pendant cinq ans, aux normes écologiques. Le programme du Nouveau Front populaire reprend l'objectif d'une construction massive de logements sociaux. L'objectif affiché est de répondre à la crise du logement."
+    },
+    {
+     "title": "Encadrer les loyers",
+     "summary": "L'encadrement des loyers serait étendu et généralisé.",
+     "details": "Le programme prévoit de généraliser l'encadrement des loyers, en particulier dans les zones tendues. L'Avenir en commun propose aussi d'en baisser le niveau dans les grandes villes. L'objectif affiché est de réduire la part du logement dans le budget des ménages."
+    },
+    {
+     "title": "Garantir le droit au logement et interdire les expulsions sans relogement",
+     "summary": "Aucune expulsion ne pourrait avoir lieu sans solution de relogement.",
+     "details": "Le programme prévoit d'interdire les expulsions locatives sans relogement. Il propose aussi de créer une garantie universelle des loyers. Le programme du Nouveau Front populaire prévoit l'abrogation de la loi dite « Kasbarian-Bergé » sur les squats et les impayés de loyer."
+    },
+    {
+     "title": "Réquisitionner les logements vacants",
+     "summary": "Les logements vides pourraient être réquisitionnés.",
+     "details": "Le programme prévoit d'appliquer la réquisition des logements vacants. Cette mesure viserait en particulier ceux détenus par de grands propriétaires. L'objectif affiché est de loger les personnes sans abri ou mal logées."
+    },
+    {
+     "title": "Encadrer les meublés touristiques",
+     "summary": "Les locations touristiques de courte durée seraient davantage régulées.",
+     "details": "Le programme prévoit de renforcer la régulation des meublés de tourisme de type Airbnb. L'objectif affiché est de remettre des logements sur le marché de la location à l'année dans les zones tendues."
+    }
+   ]
+  },
+  {
+   "title": "Services publics",
+   "points": [
+    {
+     "title": "Reconstruire les services publics sur tout le territoire",
+     "summary": "Le programme prévoit de rouvrir et renforcer les services publics de proximité.",
+     "details": "Le programme prévoit de garantir l'accès à des services publics de proximité sur l'ensemble du territoire. Sont notamment visés les écoles, les bureaux de poste, les gares et les maternités. L'objectif affiché est de mettre fin à l'abandon de certains territoires."
+    },
+    {
+     "title": "Renationaliser les autoroutes et les grands réseaux",
+     "summary": "Les autoroutes et certains secteurs stratégiques reviendraient dans le giron public.",
+     "details": "L'Avenir en commun propose de renationaliser les autoroutes concédées. Il prévoit aussi de revenir sur la privatisation des aéroports et de reconstituer des entreprises publiques dans les secteurs stratégiques. L'objectif affiché est que les infrastructures servent l'intérêt général plutôt que des intérêts privés."
+    },
+    {
+     "title": "Renforcer la fonction publique",
+     "summary": "Les effectifs et les rémunérations des agents publics seraient augmentés.",
+     "details": "Le programme prévoit des recrutements dans la fonction publique et une revalorisation du point d'indice. Le Nouveau Front populaire prévoit notamment de revaloriser le point d'indice des fonctionnaires. L'objectif affiché est de répondre aux besoins de la population."
+    }
+   ]
+  },
+  {
+   "title": "Agriculture",
+   "points": [
+    {
+     "title": "Garantir des prix rémunérateurs aux agriculteurs",
+     "summary": "Des prix planchers garantiraient le revenu des agriculteurs.",
+     "details": "Le programme prévoit l'instauration de prix planchers pour les productions agricoles. L'objectif affiché est d'empêcher la vente à perte et de garantir un revenu décent aux agriculteurs face à la grande distribution et à l'agro-industrie."
+    },
+    {
+     "title": "Refuser les accords de libre-échange",
+     "summary": "Le programme s'oppose aux traités de libre-échange qui concurrencent l'agriculture française.",
+     "details": "Le programme prévoit de refuser la ratification des accords de libre-échange comme le CETA ou l'accord avec le Mercosur. L'objectif affiché est de protéger les agriculteurs contre une concurrence jugée déloyale et de préserver les normes sociales et environnementales."
+    },
+    {
+     "title": "Développer une agriculture écologique et paysanne",
+     "summary": "Le programme prévoit une transition vers l'agroécologie et l'installation de nouveaux agriculteurs.",
+     "details": "L'Avenir en commun propose de soutenir l'installation de nouveaux agriculteurs et de développer l'agriculture biologique. Il prévoit aussi de favoriser les circuits courts. Le programme propose de développer l'alimentation biologique et locale dans la restauration collective. L'objectif affiché est d'atteindre l'autonomie alimentaire et de réduire l'impact environnemental de l'agriculture."
+    }
+   ]
+  },
+  {
+   "title": "Europe",
+   "points": [
+    {
+     "title": "Désobéir aux règles européennes contraires au programme",
+     "summary": "La France n'appliquerait pas certaines règles européennes jugées incompatibles avec ses engagements.",
+     "details": "L'Avenir en commun propose de désobéir aux règles des traités européens incompatibles avec la mise en œuvre du programme. Sont notamment visées les règles budgétaires et de concurrence. L'objectif affiché est de pouvoir mener une politique sociale et écologique sans contraintes jugées libérales."
+    },
+    {
+     "title": "Refuser le pacte budgétaire européen",
+     "summary": "Le programme s'oppose aux règles d'austérité budgétaire européennes.",
+     "details": "Le programme du Nouveau Front populaire prévoit de refuser le nouveau pacte de stabilité budgétaire européen. Il propose aussi de défendre une réforme de la politique monétaire et budgétaire. L'objectif affiché est de permettre l'investissement public dans la transition écologique."
+    },
+    {
+     "title": "Défendre un protectionnisme européen et la fin du dumping social",
+     "summary": "Le programme prévoit une harmonisation sociale et fiscale à la hausse.",
+     "details": "Le programme prévoit de lutter contre le dumping social et fiscal au sein de l'Union européenne, notamment par la révision de la directive sur les travailleurs détachés. L'objectif affiché est d'empêcher la mise en concurrence des travailleurs européens."
+    }
+   ]
+  },
+  {
+   "title": "Politique étrangère",
+   "points": [
+    {
+     "title": "Défendre une France non alignée",
+     "summary": "La France mènerait une diplomatie indépendante des blocs.",
+     "details": "L'Avenir en commun propose une politique étrangère de non-alignement. Elle serait fondée sur l'indépendance de la France et le respect du droit international. Le parti propose de sortir du commandement intégré de l'OTAN, puis de l'OTAN elle-même. L'objectif affiché est de faire de la France une puissance de paix."
+    },
+    {
+     "title": "Reconnaître l'État de Palestine",
+     "summary": "La France reconnaîtrait immédiatement l'État de Palestine.",
+     "details": "Le programme du Nouveau Front populaire prévoit la reconnaissance immédiate de l'État de Palestine. Il demande aussi un cessez-le-feu immédiat à Gaza et la libération des otages détenus par le Hamas. Il propose un embargo sur les livraisons d'armes à Israël et des sanctions contre le gouvernement israélien en cas de violation du droit international."
+    },
+    {
+     "title": "Soutenir l'Ukraine face à l'agression russe",
+     "summary": "Le programme prévoit de défendre la souveraineté de l'Ukraine.",
+     "details": "Le programme du Nouveau Front populaire affirme le soutien à la souveraineté et à l'intégrité territoriale de l'Ukraine. Il prévoit la livraison des armes nécessaires et des sanctions contre les oligarques russes. Il soutient aussi le retour de la paix dans le cadre du droit international."
+    },
+    {
+     "title": "Promouvoir la coopération internationale et le multilatéralisme",
+     "summary": "La France privilégierait l'ONU et la coopération entre pays.",
+     "details": "L'Avenir en commun propose de renforcer le rôle de l'Organisation des Nations unies. Il prévoit aussi de développer des coopérations altermondialistes, notamment sur le climat, la santé et les biens communs mondiaux. L'objectif affiché est de faire primer la coopération sur la compétition entre puissances."
+    }
+   ]
+  },
+  {
+   "title": "Défense",
+   "points": [
+    {
+     "title": "Maintenir la dissuasion nucléaire et une défense indépendante",
+     "summary": "La France conserverait une défense autonome, dont la dissuasion nucléaire.",
+     "details": "L'Avenir en commun prévoit de maintenir la dissuasion nucléaire tout en promouvant le désarmement multilatéral. Il prévoit aussi de garantir l'autonomie de l'industrie de défense. L'objectif affiché est de préserver l'indépendance stratégique de la France."
+    }
+   ]
+  },
+  {
+   "title": "Culture",
+   "points": [
+    {
+     "title": "Renforcer le financement public de la culture",
+     "summary": "Le programme prévoit des moyens supplémentaires pour la création et l'accès à la culture.",
+     "details": "Le programme prévoit d'augmenter le budget public consacré à la culture et de soutenir les artistes et les intermittents du spectacle. L'objectif affiché est de garantir l'accès de tous à la culture et de soutenir la création."
+    },
+    {
+     "title": "Lutter contre la concentration des médias",
+     "summary": "Des règles anti-concentration encadreraient la propriété des médias.",
+     "details": "Le programme du Nouveau Front populaire prévoit une loi contre la concentration des médias. Il propose aussi de garantir l'indépendance des rédactions et de renforcer l'audiovisuel public. L'Avenir en commun prévoit également des mesures pour l'indépendance des médias vis-à-vis des puissances financières."
+    }
+   ]
+  },
+  {
+   "title": "Numérique",
+   "points": [
+    {
+     "title": "Garantir la neutralité du net et les libertés numériques",
+     "summary": "Le programme prévoit de protéger les libertés sur internet.",
+     "details": "L'Avenir en commun propose de garantir la neutralité du net et de protéger les données personnelles. Il prévoit aussi de lutter contre la surveillance de masse. L'objectif affiché est de défendre les libertés publiques à l'ère numérique."
+    },
+    {
+     "title": "Développer les logiciels libres et la souveraineté numérique",
+     "summary": "L'administration privilégierait les logiciels libres et les infrastructures souveraines.",
+     "details": "Le programme prévoit d'utiliser des logiciels libres dans l'administration et de développer des infrastructures numériques souveraines. L'objectif affiché est de réduire la dépendance aux grandes entreprises du numérique étrangères."
+    }
+   ]
+  },
+  {
+   "title": "Outre-mer",
+   "points": [
+    {
+     "title": "Lutter contre la vie chère dans les Outre-mer",
+     "summary": "Le programme prévoit de bloquer les prix des produits de première nécessité en Outre-mer.",
+     "details": "Le programme prévoit des mesures contre la vie chère dans les territoires d'Outre-mer, notamment le blocage des prix des produits de première nécessité. L'objectif affiché est de réduire les écarts de prix avec l'Hexagone."
+    },
+    {
+     "title": "Garantir l'accès à l'eau et l'autonomie alimentaire",
+     "summary": "Le programme prévoit des investissements dans les réseaux d'eau et la production locale.",
+     "details": "L'Avenir en commun prévoit un plan d'investissement pour garantir l'accès à l'eau potable, notamment en Guadeloupe et à Mayotte. Il propose aussi de développer la production agricole locale en vue de l'autonomie alimentaire. Le programme prévoit également la reconnaissance et la réparation des conséquences du chlordécone aux Antilles."
+    },
+    {
+     "title": "Retirer la réforme électorale en Nouvelle-Calédonie",
+     "summary": "La réforme du corps électoral calédonien serait abandonnée.",
+     "details": "Le programme du Nouveau Front populaire prévoit l'abandon de la réforme constitutionnelle modifiant le corps électoral de la Nouvelle-Calédonie. Il demande aussi la reprise du dialogue. L'objectif affiché est de rechercher une solution consensuelle dans le respect du processus engagé par les accords de Matignon et de Nouméa."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,280 @@
+{
+ "source": "Programme présidentiel 2022 de Nicolas Dupont-Aignan (Debout la France) et positions officielles du parti durant la campagne présidentielle 2022",
+ "themes": [
+  {
+   "title": "Économie",
+   "points": [
+    {
+     "title": "Patriotisme économique et réindustrialisation",
+     "summary": "Le parti veut relocaliser la production industrielle en France.",
+     "details": "Debout la France défend un patriotisme économique visant à reconstruire le tissu industriel national. Le programme prévoit de soutenir la production sur le territoire et de lutter contre les délocalisations. L'objectif affiché est de retrouver une souveraineté industrielle et de recréer des emplois."
+    },
+    {
+     "title": "Protectionnisme ciblé aux frontières",
+     "summary": "Le parti propose des protections commerciales face à la concurrence jugée déloyale.",
+     "details": "Le programme défend un « protectionnisme intelligent » pour protéger les secteurs exposés à la concurrence de pays aux normes sociales et environnementales plus faibles. Il prévoit des mécanismes de protection aux frontières nationales ou européennes. Le parti présente cette mesure comme une condition de la réindustrialisation."
+    },
+    {
+     "title": "Priorité aux entreprises françaises dans la commande publique",
+     "summary": "Le parti veut orienter les marchés publics vers les entreprises locales et nationales.",
+     "details": "Debout la France propose de favoriser les entreprises françaises et les PME dans l'attribution des marchés publics. Cette orientation vaut notamment pour la restauration collective. L'objectif affiché est d'utiliser la commande publique comme levier de soutien à l'économie nationale."
+    },
+    {
+     "title": "Opposition aux traités de libre-échange",
+     "summary": "Le parti rejette les accords commerciaux de type CETA ou Mercosur.",
+     "details": "Le parti s'oppose aux accords de libre-échange négociés par l'Union européenne, qu'il juge défavorables aux producteurs français. Il cite en particulier le CETA et l'accord avec le Mercosur. Il souhaite que la France retrouve la maîtrise de sa politique commerciale."
+    }
+   ]
+  },
+  {
+   "title": "Fiscalité",
+   "points": [
+    {
+     "title": "Baisse des impôts de production",
+     "summary": "Le parti veut alléger la fiscalité pesant sur les entreprises productives.",
+     "details": "Le programme prévoit de réduire les impôts de production, présentés comme un handicap pour l'industrie française face à ses concurrents. Cette baisse doit améliorer la compétitivité des entreprises implantées en France. Elle s'inscrit dans l'objectif de réindustrialisation."
+    },
+    {
+     "title": "Baisse des taxes sur l'énergie et les carburants",
+     "summary": "Le parti propose de réduire la fiscalité sur les carburants pour soutenir le pouvoir d'achat.",
+     "details": "Face à la hausse des prix de l'énergie, Debout la France propose de diminuer les taxes sur les carburants. La mesure vise en priorité les ménages dépendants de la voiture, notamment en zone rurale et périurbaine. L'objectif affiché est la défense du pouvoir d'achat."
+    },
+    {
+     "title": "Lutte contre l'évasion et la fraude fiscales",
+     "summary": "Le parti veut renforcer la lutte contre l'évasion fiscale des grandes entreprises.",
+     "details": "Le programme prévoit de combattre l'optimisation et l'évasion fiscales, notamment celles des multinationales. Le parti estime que les recettes ainsi récupérées doivent financer d'autres mesures du programme. L'objectif affiché est une plus grande équité devant l'impôt."
+    }
+   ]
+  },
+  {
+   "title": "Immigration",
+   "points": [
+    {
+     "title": "Référendum sur l'immigration",
+     "summary": "Le parti veut soumettre la politique migratoire aux Français par référendum.",
+     "details": "Debout la France propose d'organiser un référendum afin de permettre aux citoyens de se prononcer directement sur la politique d'immigration. Ce référendum doit permettre d'adopter des mesures nécessitant éventuellement une révision constitutionnelle. Le parti présente cette démarche comme un moyen de reprendre le contrôle des flux migratoires."
+    },
+    {
+     "title": "Suppression du droit du sol",
+     "summary": "Le parti veut réformer l'accès à la nationalité française.",
+     "details": "Le programme prévoit la fin de l'acquisition automatique de la nationalité par le droit du sol. La nationalité devrait résulter d'une démarche volontaire et de critères d'assimilation. L'objectif affiché est de faire de la nationalité un engagement."
+    },
+    {
+     "title": "Restriction du regroupement familial",
+     "summary": "Le parti veut mettre fin ou restreindre fortement le regroupement familial.",
+     "details": "Debout la France considère le regroupement familial comme l'une des principales sources d'immigration. Le parti propose de le suspendre ou de le limiter fortement. Il vise une réduction importante de l'immigration légale."
+    },
+    {
+     "title": "Expulsion des étrangers délinquants et clandestins",
+     "summary": "Le parti veut systématiser l'expulsion des étrangers en situation irrégulière ou condamnés.",
+     "details": "Le programme prévoit l'expulsion des étrangers en situation irrégulière et des délinquants étrangers. Le parti propose de conditionner l'aide au développement et la délivrance de visas à la coopération des pays d'origine pour les retours. L'objectif affiché est de rendre effectives les décisions d'éloignement."
+    },
+    {
+     "title": "Suppression de l'Aide médicale d'État",
+     "summary": "Le parti veut supprimer l'AME destinée aux étrangers en situation irrégulière.",
+     "details": "Debout la France propose de supprimer l'Aide médicale d'État et de ne maintenir qu'une prise en charge des soins d'urgence. Le parti juge que l'AME constitue un facteur d'attraction de l'immigration irrégulière. Il en attend également des économies budgétaires."
+    },
+    {
+     "title": "Contrôle des frontières nationales",
+     "summary": "Le parti veut rétablir des contrôles aux frontières de la France.",
+     "details": "Le programme prévoit de rétablir des contrôles aux frontières nationales et de remettre en cause le fonctionnement actuel de l'espace Schengen. Le parti souhaite renforcer les moyens humains de surveillance des frontières. L'objectif affiché est de lutter contre l'immigration clandestine et les trafics."
+    }
+   ]
+  },
+  {
+   "title": "Sécurité",
+   "points": [
+    {
+     "title": "Renforcement des forces de l'ordre",
+     "summary": "Le parti veut augmenter les moyens et les effectifs de la police et de la gendarmerie.",
+     "details": "Debout la France propose de recruter des policiers et des gendarmes et d'améliorer leur équipement. Le parti souhaite renforcer la protection juridique des forces de l'ordre dans l'exercice de leurs missions. L'objectif affiché est de rétablir l'autorité de l'État sur tout le territoire."
+    },
+    {
+     "title": "Reconquête des quartiers sensibles",
+     "summary": "Le parti veut lutter contre les zones de non-droit et les trafics.",
+     "details": "Le programme prévoit une action ciblée contre les trafics de drogue et les zones où l'autorité de l'État est contestée. Le parti propose de mobiliser fortement les forces de sécurité dans ces quartiers. Il présente cette mesure comme une priorité de sécurité publique."
+    },
+    {
+     "title": "Lutte contre l'islamisme",
+     "summary": "Le parti veut combattre l'islamisme radical et ses réseaux.",
+     "details": "Debout la France propose de fermer les lieux de culte et de dissoudre les associations diffusant une idéologie islamiste. Le parti prévoit l'expulsion des étrangers liés à la radicalisation. L'objectif affiché est de protéger la laïcité et la sécurité nationale."
+    }
+   ]
+  },
+  {
+   "title": "Justice",
+   "points": [
+    {
+     "title": "Rétablissement des peines planchers",
+     "summary": "Le parti veut instaurer des peines minimales pour les récidivistes.",
+     "details": "Le programme prévoit le rétablissement des peines planchers, notamment en cas de récidive. Le parti estime que cette mesure renforcera le caractère dissuasif de la sanction. Elle s'inscrit dans une volonté de fermeté pénale."
+    },
+    {
+     "title": "Exécution effective des peines",
+     "summary": "Le parti veut que les peines prononcées soient réellement exécutées.",
+     "details": "Debout la France propose de limiter les aménagements et réductions automatiques de peine. Le parti défend le principe d'une exécution réelle des condamnations. L'objectif affiché est de restaurer la crédibilité de la justice."
+    },
+    {
+     "title": "Construction de places de prison",
+     "summary": "Le parti veut augmenter la capacité carcérale.",
+     "details": "Le programme prévoit la construction de nouvelles places de prison pour remédier à la surpopulation carcérale. Cette mesure doit permettre l'exécution effective des peines prononcées. Le parti la présente comme indispensable à la politique pénale qu'il défend."
+    }
+   ]
+  },
+  {
+   "title": "Institutions",
+   "points": [
+    {
+     "title": "Référendum d'initiative citoyenne",
+     "summary": "Le parti veut permettre aux citoyens de déclencher des référendums.",
+     "details": "Debout la France propose d'instaurer un référendum d'initiative citoyenne. Les citoyens pourraient ainsi provoquer un vote sur des sujets de leur choix sous réserve de réunir un nombre suffisant de signatures. L'objectif affiché est de renforcer la démocratie directe."
+    },
+    {
+     "title": "Reconnaissance du vote blanc",
+     "summary": "Le parti veut que les votes blancs soient comptabilisés dans les suffrages exprimés.",
+     "details": "Le programme prévoit de comptabiliser le vote blanc comme suffrage exprimé. Le parti estime que cette mesure permettrait de mieux exprimer le mécontentement des électeurs. Elle s'inscrit dans un objectif de revitalisation démocratique."
+    },
+    {
+     "title": "Introduction de la proportionnelle",
+     "summary": "Le parti veut une part de proportionnelle aux élections législatives.",
+     "details": "Debout la France défend l'introduction de la proportionnelle pour l'élection des députés. Le parti estime que l'Assemblée nationale doit mieux refléter la diversité des courants politiques. L'objectif affiché est d'améliorer la représentativité des institutions."
+    },
+    {
+     "title": "Primauté de la Constitution sur le droit européen",
+     "summary": "Le parti veut affirmer la supériorité du droit national sur le droit européen.",
+     "details": "Le programme prévoit d'inscrire la primauté de la Constitution française sur les normes européennes. Le parti souhaite que le Parlement français retrouve sa pleine souveraineté législative. Cette mesure est présentée comme une condition du retour de la souveraineté nationale."
+    }
+   ]
+  },
+  {
+   "title": "Europe",
+   "points": [
+    {
+     "title": "Europe des nations",
+     "summary": "Le parti veut transformer l'Union européenne en coopération entre États souverains.",
+     "details": "Debout la France ne propose pas de sortir de l'Union européenne mais de la refonder sur le modèle d'une « Europe des nations ». Le parti souhaite privilégier des coopérations par projets entre États. Il critique le fonctionnement actuel des institutions européennes, jugé trop supranational."
+    },
+    {
+     "title": "Renégociation des traités européens",
+     "summary": "Le parti veut renégocier les règles européennes jugées contraires aux intérêts français.",
+     "details": "Le programme prévoit de renégocier certains traités et règles européennes, notamment en matière de concurrence, de commerce et de marché de l'énergie. Le parti veut permettre à la France de protéger ses entreprises et ses services publics. L'objectif affiché est de retrouver des marges de manœuvre nationales."
+    }
+   ]
+  },
+  {
+   "title": "Politique étrangère",
+   "points": [
+    {
+     "title": "Sortie du commandement intégré de l'OTAN",
+     "summary": "Le parti veut que la France quitte le commandement militaire intégré de l'OTAN.",
+     "details": "Debout la France propose que la France sorte du commandement intégré de l'OTAN, comme en 1966. Le parti défend une politique étrangère indépendante, non alignée sur les États-Unis. L'objectif affiché est de restaurer la voix singulière de la France dans le monde."
+    },
+    {
+     "title": "Diplomatie d'équilibre et d'indépendance",
+     "summary": "Le parti défend une diplomatie souveraine s'inscrivant dans la tradition gaulliste.",
+     "details": "Le programme revendique l'héritage gaulliste d'une France indépendante dialoguant avec toutes les puissances. Le parti souhaite renforcer les liens avec la francophonie et l'Afrique. Il présente cette orientation comme la défense des intérêts nationaux."
+    }
+   ]
+  },
+  {
+   "title": "Défense",
+   "points": [
+    {
+     "title": "Augmentation du budget des armées",
+     "summary": "Le parti veut accroître les moyens consacrés à la défense.",
+     "details": "Debout la France propose d'augmenter le budget de la défense afin de renforcer les capacités des armées. Le parti souhaite garantir l'autonomie stratégique de la France et le maintien de la dissuasion nucléaire. Il appuie également le soutien à l'industrie de défense nationale."
+    }
+   ]
+  },
+  {
+   "title": "Énergie",
+   "points": [
+    {
+     "title": "Relance du nucléaire",
+     "summary": "Le parti veut faire du nucléaire le pilier de la politique énergétique.",
+     "details": "Le programme prévoit la construction de nouveaux réacteurs nucléaires et la prolongation du parc existant. Le parti s'oppose à la fermeture de centrales. L'objectif affiché est de garantir une électricité abondante, décarbonée et à prix maîtrisé."
+    },
+    {
+     "title": "Moratoire sur les éoliennes",
+     "summary": "Le parti veut arrêter le développement de l'éolien terrestre.",
+     "details": "Debout la France propose un moratoire sur l'implantation de nouvelles éoliennes. Le parti juge cette énergie intermittente, coûteuse et nuisible aux paysages et aux riverains. Il préfère concentrer les investissements sur le nucléaire."
+    },
+    {
+     "title": "Sortie du marché européen de l'électricité",
+     "summary": "Le parti veut que la France retrouve la maîtrise du prix de l'électricité.",
+     "details": "Le programme prévoit de sortir des mécanismes du marché européen de l'électricité, accusés de faire augmenter les prix en France. Le parti souhaite que les tarifs reflètent les coûts de production du parc nucléaire national. L'objectif affiché est de faire baisser les factures des ménages et des entreprises."
+    }
+   ]
+  },
+  {
+   "title": "Santé",
+   "points": [
+    {
+     "title": "Recrutement de personnels soignants",
+     "summary": "Le parti veut renforcer les effectifs de l'hôpital public.",
+     "details": "Debout la France propose d'engager un plan de recrutement de soignants et de revaloriser leurs conditions de travail. Le parti estime que l'hôpital public a été affaibli par les politiques de réduction des moyens. L'objectif affiché est de redonner des capacités au système de soins."
+    },
+    {
+     "title": "Réintégration des soignants suspendus",
+     "summary": "Le parti veut réintégrer les soignants suspendus pour défaut de vaccination.",
+     "details": "Le parti s'est opposé à l'obligation vaccinale des soignants et au pass sanitaire puis vaccinal. Il propose la réintégration des personnels suspendus. Il présente cette mesure comme une réponse à la pénurie de soignants et comme une défense des libertés."
+    },
+    {
+     "title": "Lutte contre les déserts médicaux et maintien des hôpitaux de proximité",
+     "summary": "Le parti veut garantir l'accès aux soins sur tout le territoire.",
+     "details": "Le programme prévoit de maintenir les hôpitaux et maternités de proximité. Le parti propose des mesures pour favoriser l'installation de médecins dans les zones sous-dotées. L'objectif affiché est l'égalité d'accès aux soins entre territoires."
+    }
+   ]
+  },
+  {
+   "title": "Éducation",
+   "points": [
+    {
+     "title": "Retour aux savoirs fondamentaux",
+     "summary": "Le parti veut recentrer l'école sur la lecture, l'écriture et le calcul.",
+     "details": "Debout la France propose de recentrer l'enseignement primaire sur les savoirs fondamentaux. Le parti souhaite revenir à des méthodes d'apprentissage qu'il juge éprouvées. L'objectif affiché est d'enrayer la baisse du niveau scolaire."
+    },
+    {
+     "title": "Restauration de l'autorité à l'école",
+     "summary": "Le parti veut renforcer la discipline et l'autorité des enseignants.",
+     "details": "Le programme prévoit de renforcer l'autorité des enseignants et de sanctionner les comportements perturbateurs. Le parti est favorable au port d'une tenue commune à l'école. Il présente ces mesures comme une condition de la transmission des savoirs."
+    },
+    {
+     "title": "Revalorisation du métier d'enseignant",
+     "summary": "Le parti veut améliorer la rémunération et la considération des enseignants.",
+     "details": "Debout la France propose de revaloriser les salaires des enseignants. Le parti souhaite rendre le métier plus attractif face aux difficultés de recrutement. L'objectif affiché est de redonner du prestige à la fonction enseignante."
+    }
+   ]
+  },
+  {
+   "title": "Retraites",
+   "points": [
+    {
+     "title": "Refus du recul de l'âge de départ",
+     "summary": "Le parti s'oppose au report de l'âge légal de départ à la retraite.",
+     "details": "Debout la France s'oppose au report de l'âge légal de départ au-delà de 62 ans. Le parti souhaite préserver le système par répartition. Il propose de financer les retraites par la relance de l'emploi et de la production."
+    },
+    {
+     "title": "Revalorisation des petites pensions",
+     "summary": "Le parti veut augmenter les pensions les plus modestes.",
+     "details": "Le programme prévoit d'améliorer le niveau des petites retraites, notamment celles des agriculteurs et des personnes ayant eu des carrières modestes. Le parti présente cette mesure comme une question de dignité. Elle s'inscrit dans ses propositions sur le pouvoir d'achat."
+    }
+   ]
+  },
+  {
+   "title": "Agriculture",
+   "points": [
+    {
+     "title": "Protection des agriculteurs face à la concurrence",
+     "summary": "Le parti veut protéger la production agricole française.",
+     "details": "Debout la France propose de protéger les agriculteurs contre les importations ne respectant pas les normes françaises. Le parti s'oppose aux accords de libre-échange agricoles. L'objectif affiché est d'assurer la souveraineté alimentaire."
+    },
+    {
+     "title": "Produits français dans la restauration collective",
+     "summary": "Le parti veut privilégier les produits locaux dans les cantines.",
+     "details": "Le programme prévoit de favoriser l'approvisionnement local et national dans la restauration collective publique. Cette mesure doit garantir des débouchés aux agriculteurs français. Elle s'inscrit dans la logique de patriotisme économique du parti."
+    }
+   ]
+  }
+ ]
+}

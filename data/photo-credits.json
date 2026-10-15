@@ -1,0 +1,330 @@
+{
+ "npa": [
+  {
+   "name": "Philippe Poutou",
+   "author": "Patrice CALATAYU from Bordeaux, France",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Philippe_Poutou_2020_(cropped).png"
+  },
+  {
+   "name": "Olivier Besancenot",
+   "author": "Pierre-Selim",
+   "license": "CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Meeting_NPA_-_Toulouse_-_2012-04-17_-_21h25_(cropped).jpg"
+  },
+  {
+   "name": "Alain Krivine",
+   "author": "European Parliament Multimedia Centre",
+   "license": "European Parliament",
+   "page": "https://commons.wikimedia.org/wiki/File:Alain_Krivine_1999.jpg"
+  }
+ ],
+ "lo": [
+  {
+   "name": "Nathalie Arthaud",
+   "author": "Kokluts",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Nathalie_Arthaud_(LO)_19-05-2024.jpg"
+  },
+  {
+   "name": "Arlette Laguiller",
+   "author": "European Parliament Multimedia Centre",
+   "license": "European Parliament",
+   "page": "https://commons.wikimedia.org/wiki/File:Arlette_Laguiller_1999.jpg"
+  }
+ ],
+ "lfi": [
+  {
+   "name": "Jean-Luc Mélenchon",
+   "author": "jlm2017.fr",
+   "license": "CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Jean_Luc_M%C3%A9lenchon_en_mai_2026-_55261894422_(cropped).jpg"
+  },
+  {
+   "name": "Mathilde Panot",
+   "author": "original : Antoine Stouls\nmodification : O.Taris",
+   "license": "CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Mathilde_Panot_2021-3.jpg"
+  },
+  {
+   "name": "Manuel Bompard",
+   "author": "SachaLintignat",
+   "license": "CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Manuel_Bompard_Manifestation_Liban_(cropped).jpg"
+  },
+  {
+   "name": "Clémence Guetté",
+   "author": "Claire Jacquin",
+   "license": "CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cl%C3%A9mence_Guett%C3%A9,_vice_pr%C3%A9sidente_de_l%27Assembl%C3%A9e_nationale_(cropped).jpg"
+  }
+ ],
+ "ps": [
+  {
+   "name": "Olivier Faure",
+   "author": "KimiRaikkonen3",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:OF_MATIGNON_-_MAXIME_CLAM_(cropped).png"
+  },
+  {
+   "name": "Boris Vallaud",
+   "author": "Noé Herraez",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Boris_Vallaud_(cropped).jpg"
+  },
+  {
+   "name": "Carole Delga",
+   "author": "Francois Carbonnel",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Delga-Toulouse-Occitanie_(cropped).jpg"
+  },
+  {
+   "name": "Anne Hidalgo",
+   "author": "Jacques Paquier",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hidalgo2020crop.jpg"
+  }
+ ],
+ "eelv": [
+  {
+   "name": "Marine Tondelier",
+   "author": "Selbymay",
+   "license": "CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Huma2023MarineTondelier_(cropped).jpg"
+  },
+  {
+   "name": "Yannick Jadot",
+   "author": "Greenbox",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:20210819_jadot.yannick_5704.jpg"
+  },
+  {
+   "name": "Sandrine Rousseau",
+   "author": "Greenbox",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Sandrine_Rousseau_20210819_(cropped).jpg"
+  },
+  {
+   "name": "Cyrielle Chatelain",
+   "author": "GLaG 38 - Guillaume LAGET",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cyrielle_Chatelain_crop.jpg"
+  }
+ ],
+ "pcf": [
+  {
+   "name": "Fabien Roussel",
+   "author": "Zouhair NAKARA",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Roussel_Fabien_1.jpg"
+  },
+  {
+   "name": "Léon Deffontaines",
+   "author": "TestDeTuring",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:L%C3%A9on_Deffontaines_2023.jpg"
+  },
+  {
+   "name": "Ian Brossat",
+   "author": "LSN3",
+   "license": "CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Le_s%C3%A9nateur_Ian_Brossat.jpg"
+  },
+  {
+   "name": "André Chassaigne",
+   "author": "Le grand Cricri",
+   "license": "CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9_Chassaigne_%C3%A0_la_foire_du_livre_2010_de_Brive_la_Gaillarde.JPG"
+  }
+ ],
+ "re": [
+  {
+   "name": "Gabriel Attal",
+   "author": "Stenbocki maja",
+   "license": "CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Gabriel_Attal_in_2026.jpg"
+  },
+  {
+   "name": "Élisabeth Borne",
+   "author": "Benoît Granier",
+   "license": "Licence Ouverte",
+   "page": "https://commons.wikimedia.org/wiki/File:La_Premi%C3%A8re_ministre_fran%C3%A7aise_%C3%89lisabeth_Borne_(cropped).jpg"
+  },
+  {
+   "name": "Gérald Darmanin",
+   "author": "UK Home Office",
+   "license": "CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:French_Justice_Minister_G%C3%A9rald_Darmanin_in_2025_(cropped_2).jpg"
+  },
+  {
+   "name": "Aurore Bergé",
+   "author": "HUGUES DE BEAUCHESNE",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:AURORE_BERG%C3%89_04_(cropped).jpg"
+  }
+ ],
+ "modem": [
+  {
+   "name": "François Bayrou",
+   "author": "Service photographique de Matignon",
+   "license": "Licence Ouverte",
+   "page": "https://commons.wikimedia.org/wiki/File:Bayrou_Matignon_(cropped).jpg"
+  },
+  {
+   "name": "Marc Fesneau",
+   "author": "European Commission Audiovisual Center",
+   "license": "CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Marc_Fesneau_2024_(cropped).jpg"
+  },
+  {
+   "name": "Jean-Noël Barrot",
+   "author": "Tomohiro Ohsumi / European Union, 2023 / EC - Audiovisual Service",
+   "license": "CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Jean-No%C3%ABl_Barrot_2023_cropped.jpg"
+  },
+  {
+   "name": "Geneviève Darrieussecq",
+   "author": "Jérémy Barande",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Genevi%C3%A8ve_Darrieussecq_-_2017.jpg"
+  }
+ ],
+ "horizons": [
+  {
+   "name": "Édouard Philippe",
+   "author": "Wasasaq8",
+   "license": "CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Edouard_Philippe_3x4_crop.jpg"
+  },
+  {
+   "name": "Christophe Béchu",
+   "author": "AminataDkt",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Christophe_B%C3%89CHU.jpg"
+  },
+  {
+   "name": "Laurent Marcangeli",
+   "author": "Christophe Licoppe / European Union, 2025 / EC - Audiovisual Service",
+   "license": "CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Laurent_Marcangeli,_French_Minister_for_Public_Action,_the_Civil_Service,_and_Simplification,_to_the_EC_-_2025.jpg"
+  },
+  {
+   "name": "Frédéric Valletoux",
+   "author": "Baidax",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:2022-10-22_17-50-50_-_Fontainebleau_-_Inauguration_de_la_place_de_l%27%C3%89tape.jpg"
+  }
+ ],
+ "lr": [
+  {
+   "name": "Bruno Retailleau",
+   "author": "Anthonymontardyfr",
+   "license": "CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_(cropped).jpg"
+  },
+  {
+   "name": "Laurent Wauquiez",
+   "author": "Un Gone",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Laurent_Wauquiez_2021.jpg"
+  },
+  {
+   "name": "Valérie Pécresse",
+   "author": "Gail Leenstra",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Val%C3%A9rie_P%C3%A9cresse_at_a_2024_Paralympic_Games_media_conference_in_2024_3_(cropped).jpg"
+  },
+  {
+   "name": "François-Xavier Bellamy",
+   "author": "European Union 2024 - Source : EP",
+   "license": "European Parliament",
+   "page": "https://commons.wikimedia.org/wiki/File:1718895492232_20240620_BELLAMY_Francois-Xavier_FR_012.jpg"
+  }
+ ],
+ "udi": [
+  {
+   "name": "Hervé Marseille",
+   "author": "Rama",
+   "license": "CC BY-SA 2.0 fr",
+   "page": "https://commons.wikimedia.org/wiki/File:Herve_Marseille-IMG_4096.jpg"
+  },
+  {
+   "name": "Jean-Christophe Lagarde",
+   "author": "Centriste2015",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Jean-Christophe_Lagarde_2015_(cropped).jpg"
+  },
+  {
+   "name": "Jean-Louis Borloo",
+   "author": "Energies pour l'Afrique",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Jean-Louis_Borloo_HD_(cropped).jpg"
+  },
+  {
+   "name": "Valérie Létard",
+   "author": "Marie-Lan Nguyen (User:Jastrow)",
+   "license": "CC BY 2.5",
+   "page": "https://commons.wikimedia.org/wiki/File:Bayrou_Bercy_2007-04-18_n13.jpg"
+  }
+ ],
+ "rn": [
+  {
+   "name": "Marine Le Pen",
+   "author": "Vox España",
+   "license": "CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_2025_(cropped).jpg"
+  },
+  {
+   "name": "Jordan Bardella",
+   "author": "European Union",
+   "license": "European Parliament",
+   "page": "https://commons.wikimedia.org/wiki/File:MEP_Jordan_Bardella.jpg"
+  },
+  {
+   "name": "Sébastien Chenu",
+   "author": "Timeolove122",
+   "license": "CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:S%C3%A9bastien_Chenu_(2).jpg"
+  },
+  {
+   "name": "Jean-Philippe Tanguy",
+   "author": "Rafaels06",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:JeanPhilippe_Tanguy.jpg"
+  }
+ ],
+ "reconquete": [
+  {
+   "name": "Éric Zemmour",
+   "author": "Anh De France",
+   "license": "CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Portrait_d%27%C3%89ric_Zemmour,_avril_2022.jpg"
+  },
+  {
+   "name": "Sarah Knafo",
+   "author": "European Union 2024 - Source : EP",
+   "license": "European Parliament",
+   "page": "https://commons.wikimedia.org/wiki/File:1719930258552_20240702_KNAFO_Sarah_FR_021.jpg"
+  },
+  {
+   "name": "Stanislas Rigault",
+   "author": "Siren-Com",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Stanislas_Rigault_12_novembre_2023.jpg"
+  },
+  {
+   "name": "Laurence Trochu",
+   "author": "European Union 2024 - Source : EP",
+   "license": "European Parliament",
+   "page": "https://commons.wikimedia.org/wiki/File:1718810508496_20240619_TROCHU_Laurence_FR_011.jpg"
+  }
+ ],
+ "dlf": [
+  {
+   "name": "Nicolas Dupont-Aignan",
+   "author": "Debout la France",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Dupont-Aignan,_homme_politique_fran%C3%A7ais.jpg"
+  }
+ ]
+}

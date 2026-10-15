@@ -1,0 +1,195 @@
+{
+ "source": "Programme d'Ensemble pour la République (coalition Renaissance, MoDem, Horizons) pour les élections législatives de juin-juillet 2024 ; positions officielles d'Édouard Philippe et du parti Horizons (déclarations publiques, textes portés par le groupe Horizons à l'Assemblée nationale)",
+ "themes": [
+  {
+   "title": "Économie",
+   "points": [
+    {
+     "title": "Maîtrise de la dépense publique et réduction de la dette",
+     "summary": "Horizons place le redressement des finances publiques au cœur de son projet.",
+     "details": "Édouard Philippe et Horizons estiment que le niveau de la dette et du déficit menace la souveraineté du pays. Le parti plaide pour une réduction de la dépense publique plutôt que pour une hausse des prélèvements. L'objectif affiché est de retrouver des marges de manœuvre budgétaires et de respecter les engagements européens."
+    },
+    {
+     "title": "Poursuite de la politique de l'offre",
+     "summary": "La coalition entend maintenir une politique favorable à l'investissement et à l'emploi.",
+     "details": "Le programme d'Ensemble défend la continuité de la politique économique menée depuis 2017, présentée comme ayant fait baisser le chômage et renforcé l'attractivité. Il met en avant la réindustrialisation et le soutien aux entreprises. L'objectif est d'atteindre le plein emploi."
+    }
+   ]
+  },
+  {
+   "title": "Fiscalité",
+   "points": [
+    {
+     "title": "Pas de hausse d'impôts",
+     "summary": "Ensemble s'engage à ne pas augmenter les impôts.",
+     "details": "Le programme législatif de 2024 exclut toute hausse générale de la fiscalité sur les ménages et les entreprises. Ce choix est présenté comme une condition de la compétitivité et du pouvoir d'achat. Horizons partage cette ligne et privilégie les économies de dépenses."
+    },
+    {
+     "title": "Suppression des frais de notaire pour les primo-accédants",
+     "summary": "Exonération des droits de mutation pour un premier achat immobilier jusqu'à 250 000 euros.",
+     "details": "Le programme d'Ensemble propose de supprimer les frais de notaire (droits de mutation) pour les primo-accédants, pour un bien d'une valeur allant jusqu'à 250 000 euros. La mesure vise à faciliter l'accession à la propriété, notamment des jeunes ménages et des classes moyennes."
+    }
+   ]
+  },
+  {
+   "title": "Pouvoir d'achat",
+   "points": [
+    {
+     "title": "Baisse de 15 % des factures d'électricité",
+     "summary": "Engagement d'une baisse de 15 % des factures d'électricité des ménages à partir de l'hiver suivant.",
+     "details": "Présentée par Gabriel Attal au nom de la coalition, cette mesure s'appuie sur l'évolution des prix de l'énergie et de la fiscalité sur l'électricité. Elle vise à alléger les dépenses contraintes des ménages après la crise énergétique."
+    },
+    {
+     "title": "Triplement de la prime de partage de la valeur",
+     "summary": "Porter le plafond de la prime dite « prime Macron » jusqu'à 10 000 euros, sans charges ni impôts.",
+     "details": "Le programme prévoit de tripler le plafond de la prime de partage de la valeur versée par les employeurs. Cette prime resterait exonérée de cotisations et d'impôt sur le revenu dans les conditions prévues. L'objectif est d'augmenter la rémunération des salariés sans alourdir le coût du travail."
+    },
+    {
+     "title": "Indexation des pensions sur l'inflation",
+     "summary": "Garantir la revalorisation des retraites en fonction de l'inflation.",
+     "details": "Le programme d'Ensemble s'engage à maintenir l'indexation des pensions de retraite sur l'évolution des prix. La mesure vise à préserver le pouvoir d'achat des retraités."
+    }
+   ]
+  },
+  {
+   "title": "Retraites",
+   "points": [
+    {
+     "title": "Maintien de la réforme de 2023",
+     "summary": "Opposition à l'abrogation du report de l'âge légal de départ à 64 ans.",
+     "details": "Ensemble et Horizons défendent la réforme des retraites de 2023 et refusent son abrogation. Ils la présentent comme nécessaire à l'équilibre financier du système par répartition."
+    },
+    {
+     "title": "Réforme structurelle et introduction d'une part de capitalisation",
+     "summary": "Édouard Philippe estime qu'une réforme plus profonde du système sera nécessaire.",
+     "details": "Édouard Philippe, ancien Premier ministre porteur du projet de système universel, juge que la réforme de 2023 ne suffira pas à garantir durablement le financement des retraites. Il s'est prononcé en faveur de l'introduction d'une part de capitalisation aux côtés de la répartition. L'objectif affiché est d'assurer la soutenabilité du système et le niveau des pensions futures."
+    }
+   ]
+  },
+  {
+   "title": "Travail",
+   "points": [
+    {
+     "title": "Objectif de plein emploi",
+     "summary": "La coalition fait du plein emploi sa priorité économique et sociale.",
+     "details": "Le programme s'appuie sur la poursuite des réformes du marché du travail et sur l'action de France Travail pour l'accompagnement des demandeurs d'emploi. Horizons insiste sur la valorisation du travail comme fondement du financement du modèle social."
+    }
+   ]
+  },
+  {
+   "title": "Sécurité",
+   "points": [
+    {
+     "title": "Comparution immédiate pour les mineurs de plus de 16 ans",
+     "summary": "Permettre de juger rapidement les mineurs de 16 ans et plus.",
+     "details": "Le programme d'Ensemble reprend la proposition de Gabriel Attal d'ouvrir la comparution immédiate aux mineurs de plus de 16 ans. Il envisage aussi d'atténuer l'excuse de minorité dans certains cas. L'objectif affiché est d'apporter une réponse pénale plus rapide aux actes de délinquance des mineurs."
+    },
+    {
+     "title": "Renforcement des polices municipales",
+     "summary": "Horizons soutient l'extension des prérogatives des polices municipales.",
+     "details": "Le parti, fortement implanté chez les élus locaux, défend un rôle accru des maires et des polices municipales dans la sécurité du quotidien. Il plaide pour élargir leurs compétences, en complément des forces nationales."
+    }
+   ]
+  },
+  {
+   "title": "Immigration",
+   "points": [
+    {
+     "title": "Dénonciation de l'accord franco-algérien de 1968",
+     "summary": "Édouard Philippe propose de mettre fin au régime dérogatoire dont bénéficient les ressortissants algériens.",
+     "details": "Édouard Philippe a publiquement proposé de dénoncer l'accord franco-algérien de 1968, qui prévoit des règles spécifiques de séjour et d'immigration. Il souhaite que le droit commun s'applique. L'objectif affiché est de reprendre la maîtrise de la politique migratoire."
+    },
+    {
+     "title": "Conditionner les visas à la coopération sur les retours",
+     "summary": "Lier la délivrance des visas à la délivrance des laissez-passer consulaires par les pays d'origine.",
+     "details": "Édouard Philippe propose d'utiliser la politique des visas comme levier envers les pays qui refusent de reprendre leurs ressortissants en situation irrégulière. La mesure vise à améliorer l'exécution des obligations de quitter le territoire."
+    },
+    {
+     "title": "Fixation de quotas par le Parlement",
+     "summary": "Permettre au Parlement de débattre et de fixer des objectifs chiffrés d'immigration.",
+     "details": "Édouard Philippe s'est prononcé en faveur d'une immigration choisie, avec des objectifs définis démocratiquement. Il considère que la politique migratoire doit relever de choix assumés par le Parlement."
+    },
+    {
+     "title": "Application du Pacte européen asile et migration",
+     "summary": "Ensemble défend la mise en œuvre du pacte adopté par l'Union européenne en 2024.",
+     "details": "Le programme mise sur le renforcement du contrôle des frontières extérieures de l'Union et sur le filtrage des arrivées. Il s'inscrit dans la continuité de la loi immigration de 2024."
+    }
+   ]
+  },
+  {
+   "title": "Santé",
+   "points": [
+    {
+     "title": "Amélioration de l'accès aux soins dans les territoires",
+     "summary": "Horizons a porté la loi Valletoux de 2023 visant à lutter contre les déserts médicaux.",
+     "details": "Le député Horizons Frédéric Valletoux est à l'origine de la loi de 2023 sur l'accès aux soins par l'engagement territorial des professionnels. Elle renforce l'organisation territoriale de la santé, la participation à la permanence des soins et encadre le recours à l'intérim médical en début de carrière. L'objectif est de réduire les inégalités d'accès aux soins."
+    }
+   ]
+  },
+  {
+   "title": "Éducation",
+   "points": [
+    {
+     "title": "Poursuite du « choc des savoirs »",
+     "summary": "Ensemble défend les réformes visant à relever le niveau des élèves.",
+     "details": "Le programme s'inscrit dans la continuité des mesures lancées par Gabriel Attal à l'Éducation nationale, comme les groupes de besoins en français et en mathématiques au collège. L'objectif affiché est de renforcer les savoirs fondamentaux et l'exigence scolaire."
+    },
+    {
+     "title": "Autonomie des établissements",
+     "summary": "Horizons plaide pour davantage de responsabilités confiées aux chefs d'établissement.",
+     "details": "Édouard Philippe défend une plus grande autonomie des établissements scolaires dans leur organisation et leur pédagogie. Il considère qu'une gestion plus proche du terrain améliore la réussite des élèves."
+    }
+   ]
+  },
+  {
+   "title": "Énergie",
+   "points": [
+    {
+     "title": "Relance du nucléaire",
+     "summary": "Soutien au programme de construction de nouveaux réacteurs.",
+     "details": "Ensemble et Horizons défendent la relance de la filière nucléaire, dont la construction de réacteurs EPR2, combinée au développement des énergies renouvelables. L'objectif affiché est d'assurer la souveraineté énergétique, une électricité décarbonée et des prix maîtrisés."
+    }
+   ]
+  },
+  {
+   "title": "Environnement",
+   "points": [
+    {
+     "title": "Planification écologique",
+     "summary": "Poursuite de la transition écologique sans décroissance.",
+     "details": "Le programme d'Ensemble s'inscrit dans la continuité de la planification écologique engagée par le gouvernement. Il vise à atteindre la neutralité carbone en conciliant réduction des émissions, compétitivité économique et acceptabilité sociale."
+    }
+   ]
+  },
+  {
+   "title": "Institutions",
+   "points": [
+    {
+     "title": "Décentralisation et rôle accru des élus locaux",
+     "summary": "Horizons défend une nouvelle étape de décentralisation.",
+     "details": "Édouard Philippe, maire du Havre, plaide pour donner plus de libertés et de responsabilités aux collectivités territoriales. Horizons s'est prononcé en faveur d'une clarification des compétences, notamment par la création d'un conseiller territorial siégeant au département et à la région. L'objectif est une action publique plus efficace et plus proche des citoyens."
+    }
+   ]
+  },
+  {
+   "title": "Défense",
+   "points": [
+    {
+     "title": "Augmentation de l'effort de défense",
+     "summary": "Horizons soutient une hausse durable des moyens consacrés aux armées.",
+     "details": "Dans le contexte de la guerre en Ukraine, Édouard Philippe et Horizons défendent le renforcement des capacités militaires françaises au-delà de la loi de programmation militaire en cours. Ils appellent à une montée en puissance de l'industrie de défense."
+    }
+   ]
+  },
+  {
+   "title": "Europe et politique étrangère",
+   "points": [
+    {
+     "title": "Soutien à l'Ukraine et Europe de la défense",
+     "summary": "Engagement en faveur de l'Ukraine et d'une Europe plus souveraine.",
+     "details": "Ensemble et Horizons défendent la poursuite du soutien à l'Ukraine face à l'agression russe. Ils promeuvent le renforcement de l'autonomie stratégique européenne, notamment en matière de défense et d'industrie. L'objectif est une Union européenne capable de peser dans un contexte géopolitique dégradé."
+    }
+   ]
+  }
+ ]
+}
