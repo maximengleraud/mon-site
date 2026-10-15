@@ -1,0 +1,703 @@
+# PROJET COMPLET — PLATEFORME POLITIQUE PARTICIPATIVE FRANÇAISE
+
+## 1. Présentation générale du projet
+
+Je souhaite créer une plateforme web politique participative consacrée aux partis politiques français.
+
+L'objectif est de permettre aux utilisateurs de rejoindre un parti politique, de consulter son programme, de proposer des améliorations, de voter sur les propositions des autres membres et de participer à une boîte à idées propre à leur parti.
+
+La plateforme doit combiner trois dimensions :
+- **Politique :** participer à la construction collective de propositions sans modifier le programme officiel du parti.
+- **Communautaire :** échanger des idées et voter avec les autres membres de son parti.
+- **Ludique :** gagner des points, progresser dans un classement et envoyer des idées aux autres partis.
+
+La plateforme doit proposer deux modes d'utilisation :
+
+1. **Mode Compétition :** participer normalement, gagner des points et apparaître dans les classements sous pseudonyme.
+2. **Mode Tranquillité :** choisir un parti et participer sans gagner de points et sans apparaître dans les classements publics.
+
+Le site doit être moderne, immersif, intuitif, responsive et réellement fonctionnel. Il ne doit pas être une simple maquette : les comptes, les votes, les propositions, les points et les classements doivent fonctionner avec une base de données persistante.
+
+Avant de commencer le développement, examiner le projet existant, conserver les fonctionnalités déjà opérationnelles et éviter de reconstruire inutilement ce qui fonctionne déjà.
+
+---
+
+## 2. Inscription, compte et choix du mode
+
+Lors de sa première inscription, l'utilisateur doit pouvoir :
+- Créer un compte.
+- Choisir un pseudonyme public.
+- Sélectionner son mode d'utilisation.
+- Choisir son parti politique.
+- Consulter les règles de confidentialité avant de commencer.
+
+Deux modes sont disponibles.
+
+### A. Mode Compétition
+
+Ce mode est destiné aux utilisateurs qui souhaitent participer au classement.
+
+Fonctionnalités :
+- Participation aux votes de leur parti.
+- Proposition de notes sous les points du programme.
+- Participation à la boîte à idées.
+- Attribution de points selon les règles de la plateforme.
+- Apparition dans le classement général et le classement de leur parti sous pseudonyme.
+- Possibilité d'envoyer des idées aux autres partis contre des points.
+- Possibilité de changer de parti selon les règles définies plus loin.
+
+Le classement ne doit jamais afficher le nom réel, l'adresse électronique ou d'autres informations personnelles.
+
+### B. Mode Tranquillité
+
+Ce mode s'adresse aux personnes qui souhaitent participer sans compétition et protéger davantage leur anonymat.
+
+L'utilisateur peut choisir librement son parti politique, accéder à son programme et participer aux fonctionnalités politiques autorisées, mais il ne gagne aucun point.
+
+Règles du mode Tranquillité :
+- Aucun point n'est attribué, même lorsqu'une proposition est adoptée.
+- Aucun point quotidien n'est attribué pour les notes ou les idées.
+- L'utilisateur n'apparaît jamais dans le classement général ni dans le classement de son parti.
+- Son pseudonyme n'apparaît pas dans les classements, les listes publiques de contributeurs ou les historiques publics de changements de parti.
+- Il peut consulter le programme de son parti, proposer des notes, participer aux votes et utiliser la boîte à idées.
+- Il ne peut pas envoyer d'idée à un autre parti en utilisant les points, puisqu'il n'en possède pas.
+- Ses contributions publiques ne doivent pas révéler son identité réelle.
+- Il peut passer en mode Compétition depuis les paramètres de son compte, après confirmation.
+
+Lorsqu'un utilisateur passe du mode Tranquillité au mode Compétition, son solde de points commence à zéro. Aucun point rétroactif n'est accordé pour ses anciennes contributions.
+
+Le passage du mode Compétition au mode Tranquillité doit retirer immédiatement son pseudonyme des classements et des historiques publics. Son solde de points est conservé en interne uniquement si nécessaire à la gestion du compte, mais il ne peut plus gagner ni utiliser de points tant qu'il reste en mode Tranquillité.
+
+### Important : véritable protection de l'anonymat
+
+Ne pas confondre pseudonyme et anonymat absolu.
+
+Les autres utilisateurs ne doivent pas pouvoir relier publiquement un compte à une identité réelle. Les informations nécessaires à la sécurité du compte restent accessibles uniquement aux systèmes et personnes habilités.
+
+Ne jamais publier les adresses électroniques, noms réels, adresses IP ou données personnelles.
+
+Les votes publics doivent être présentés sous forme de résultats agrégés, sans révéler les choix individuels.
+
+Les contributions d'un utilisateur en mode Tranquillité doivent être affichées sous une identité générique telle que « Membre anonyme » lorsqu'elles sont visibles par les autres membres.
+
+Prévoir des règles de confidentialité claires et une option permettant de supprimer son compte. Expliquer avant inscription quelles données sont conservées et dans quel but.
+
+---
+
+## 3. Les partis politiques français
+
+La plateforme doit intégrer les partis politiques français suivants.
+
+Les catégories servent à organiser visuellement les partis. Elles ne doivent pas être présentées comme des vérités définitives sur leurs positions politiques.
+
+### Extrême gauche — rouge très foncé
+- NPA — Nouveau Parti anticapitaliste.
+- LO — Lutte ouvrière.
+
+### Gauche radicale — rouge foncé
+- LFI — La France insoumise.
+
+### Gauche — rouge clair
+- PS — Parti socialiste.
+- Les Écologistes (EELV).
+- PCF — Parti communiste français.
+
+### Centre et bloc central — blanc ou gris très clair
+- Renaissance (RE).
+- MoDem — Mouvement démocrate.
+- Horizons.
+
+### Droite et centre droit — bleu
+- LR — Les Républicains.
+- UDI — Union des démocrates et indépendants.
+
+### Extrême droite — bleu foncé
+- RN — Rassemblement national.
+- Reconquête.
+- DLF — Debout La France.
+
+### Interface de sélection des partis
+
+Créer une page présentant les partis sous forme de cartes visuelles.
+
+Chaque carte contient :
+- Le sigle.
+- Le nom complet.
+- La catégorie politique.
+- Une courte description neutre.
+- La couleur associée.
+- Un bouton pour sélectionner le parti.
+
+La couleur de l'interface s'adapte automatiquement au parti sélectionné.
+
+Créer un dégradé cohérent entre les couleurs des différentes catégories, en conservant une bonne lisibilité du texte. Les couleurs sont une identité visuelle de la plateforme et ne doivent pas être considérées comme une norme universelle.
+
+La liste des partis doit être administrable afin de pouvoir ajouter, désactiver ou modifier un parti sans reconstruire l'application.
+
+Les programmes officiels ne doivent pas être inventés par l'application. Prévoir un espace d'administration permettant de saisir ou de vérifier le programme correspondant à chaque parti à partir de sources fiables.
+
+Chaque parti doit avoir un espace politique indépendant avec :
+- Son programme officiel.
+- Ses notes complémentaires.
+- Ses propositions en cours de vote.
+- Sa boîte à idées.
+- Son classement interne.
+- Ses paramètres de fonctionnement.
+- Ses règles de confidentialité.
+
+Les utilisateurs d'un parti ne doivent pas pouvoir consulter les idées privées, les propositions en cours de vote ou les données internes des autres partis, à l'exception des idées explicitement envoyées entre partis.
+
+---
+
+## 4. Tableau de bord principal
+
+Après connexion, afficher un tableau de bord adapté au parti et au mode de l'utilisateur.
+
+Le tableau de bord doit comporter les sections suivantes :
+
+1. **Programme :** consulter le programme officiel et les notes adoptées.
+2. **Votes :** découvrir les propositions en cours et participer aux votes.
+3. **Boîte à idées :** découvrir les idées des membres de son parti.
+4. **Classement :** consulter les scores et les classements, uniquement en mode Compétition.
+5. **Changements de parti :** consulter les changements publics récents, sous réserve des paramètres de visibilité.
+6. **Idées reçues :** consulter les idées envoyées par d'autres partis.
+7. **Mon profil :** gérer son compte, son mode, sa confidentialité et son parti.
+8. **Changer de parti :** accéder à la procédure de changement.
+
+Le solde de points doit être clairement visible en mode Compétition.
+
+En mode Tranquillité, ne pas afficher de solde de points comme s'il était actif. Afficher éventuellement la mention « Mode Tranquillité — participation sans classement ».
+
+---
+
+## 5. Programme politique officiel : une base intouchable
+
+Chaque parti dispose d'un programme officiel structuré en grands thèmes et en points précis.
+
+Exemples de thèmes :
+- Économie.
+- Fiscalité.
+- Éducation.
+- Santé.
+- Sécurité.
+- Immigration.
+- Environnement.
+- Énergie.
+- Institutions.
+- Politique étrangère.
+- Travail.
+- Logement.
+
+Le contenu réel doit être renseigné et vérifié avant publication.
+
+**Le programme officiel est intouchable par les membres.**
+
+Les utilisateurs ne peuvent jamais :
+- Modifier directement un point officiel.
+- Supprimer un point officiel.
+- Remplacer un point officiel.
+- Réécrire le programme officiel par un vote interne.
+
+Ils peuvent uniquement proposer des notes complémentaires placées sous les points existants.
+
+L'interface doit différencier visuellement :
+- Le texte officiel, verrouillé.
+- Les notes adoptées par les membres.
+- Les propositions en cours de vote.
+- Les propositions rejetées ou archivées.
+
+Chaque point officiel peut contenir au maximum trois notes adoptées.
+
+---
+
+## 6. Proposer une note sous un point du programme
+
+Un utilisateur peut cliquer sur un point du programme puis sélectionner « Proposer une note ».
+
+Il peut rédiger un texte expliquant sa proposition et consulter un aperçu avant de la soumettre.
+
+Chaque proposition doit comporter :
+- Le point de programme concerné.
+- Le texte proposé.
+- La date de soumission.
+- Le statut.
+- La phase de vote.
+- Le nombre de votes favorables et défavorables.
+- Le temps restant.
+- L'indication d'un éventuel remplacement de note.
+
+Les propositions doivent respecter les règles de modération et ne pas pouvoir être publiées directement dans le programme officiel.
+
+### Première phase de vote
+
+1. La proposition entre dans une phase de vote de 48 heures.
+2. Un échantillon représentant 25 % des membres actifs du parti est sélectionné automatiquement.
+3. Les membres sélectionnés peuvent voter pour ou contre.
+4. À la fin de la phase, le système calcule le résultat.
+5. Si plus de 50 % des suffrages exprimés sont favorables, la proposition passe à la deuxième phase.
+6. Sinon, elle est rejetée.
+
+### Deuxième phase de vote
+
+1. La deuxième phase dure 48 heures.
+2. Un échantillon représentant 50 % des membres actifs du parti est sélectionné automatiquement.
+3. Les membres sélectionnés votent pour ou contre.
+4. Si plus de 50 % des suffrages exprimés sont favorables, la proposition est adoptée.
+5. Sinon, elle est rejetée.
+
+Les échantillons doivent être constitués automatiquement et équitablement. L'auteur d'une proposition ne peut pas sélectionner lui-même les votants.
+
+Les membres sélectionnés doivent être éligibles au vote, appartenir au parti concerné et être actifs selon les règles de la plateforme.
+
+Définir clairement la notion de membre actif, les arrondis des échantillons, les abstentions, les égalités et le nombre minimal de votants.
+
+Les utilisateurs en mode Tranquillité peuvent voter et proposer des notes selon les mêmes règles politiques, mais ils ne gagnent aucun point.
+
+### Résultats visibles
+
+Afficher une progression visuelle, le temps restant, le nombre de participants et le résultat final.
+
+Les résultats doivent être calculés côté serveur. Aucun utilisateur ne doit pouvoir modifier son vote après la clôture, voter plusieurs fois dans une même phase ou falsifier les résultats.
+
+---
+
+## 7. Remplacer une note lorsque la limite est atteinte
+
+Lorsqu'un point contient déjà trois notes adoptées, les utilisateurs peuvent proposer une nouvelle note en sélectionnant l'une des trois notes existantes qu'ils souhaitent remplacer.
+
+La nouvelle proposition suit exactement le même système de vote en deux phases.
+
+Afficher une mention obligatoire :
+
+« Cette proposition vise à remplacer la note suivante : “Texte intégral de la note concernée”. »
+
+Si la nouvelle proposition est adoptée :
+- La nouvelle note prend la place de l'ancienne.
+- L'ancienne note est archivée.
+- L'historique de la modification est conservé.
+- Le programme officiel reste inchangé.
+
+Si la proposition est rejetée, l'ancienne note reste en place.
+
+Une note existante ne doit jamais être supprimée ou remplacée sans validation complète du processus de vote.
+
+Si plusieurs propositions ciblent la même note, empêcher les remplacements simultanés conflictuels.
+
+---
+
+## 8. Boîte à idées façon Tinder
+
+Chaque parti possède une boîte à idées indépendante du programme officiel.
+
+Cette fonctionnalité permet de soumettre des idées qui ne correspondent pas nécessairement à un point existant du programme.
+
+### Fonctionnement
+
+Les idées sont présentées sous forme de cartes interactives.
+
+L'utilisateur peut :
+- Faire glisser une carte vers la droite pour aimer l'idée.
+- Faire glisser une carte vers la gauche pour ne pas aimer l'idée.
+- Utiliser des boutons équivalents sur ordinateur.
+- Ouvrir une idée pour lire son contenu complet.
+
+Les cartes doivent afficher le titre, le texte, la date de publication et les statistiques pertinentes, sans révéler l'identité réelle de l'auteur.
+
+Un utilisateur ne peut voter qu'une seule fois par idée. Il peut modifier son appréciation si les règles de la plateforme le permettent, mais le système ne doit jamais compter plusieurs votes pour le même compte.
+
+Les idées sont classées à partir des appréciations positives et négatives. Afficher un score lisible et une méthode de classement transparente.
+
+Prévoir des mécanismes de signalement, de modération et de détection des abus.
+
+### Lien avec le programme
+
+Une idée populaire n'est pas automatiquement intégrée au programme.
+
+Pour devenir une note officielle sous un point du programme, elle doit être soumise à la procédure de vote en deux phases.
+
+La boîte à idées est propre à chaque parti. Un utilisateur ne peut pas consulter la boîte à idées privée d'un autre parti.
+
+Les utilisateurs en mode Tranquillité peuvent participer sans gagner de points.
+
+---
+
+## 9. Système de points
+
+Le système de points est réservé au mode Compétition.
+
+Aucun point n'est accordé en mode Tranquillité, quelle que soit l'activité de l'utilisateur.
+
+### A. Note adoptée
+
+Lorsqu'une note proposée par un utilisateur est définitivement adoptée :
+- Il gagne 200 points.
+- Il gagne ensuite 50 points par jour tant que sa note reste adoptée et qu'il remplit les conditions du mode Compétition.
+
+Les récompenses quotidiennes doivent être attribuées automatiquement, une seule fois par jour pour chaque note éligible.
+
+Lorsqu'une note est remplacée, les récompenses futures liées à cette note cessent.
+
+Si l'auteur change de parti ou passe en mode Tranquillité, les récompenses futures cessent de lui être attribuées.
+
+Les points déjà acquis suivent les règles du changement de parti et du changement de mode décrites dans les sections correspondantes.
+
+### B. Classement de la boîte à idées
+
+Chaque jour, les idées éligibles sont classées selon les règles de popularité de la plateforme.
+
+Récompenses :
+- 1re place : 50 points.
+- 2e place : 49 points.
+- 3e place : 48 points.
+- Et ainsi de suite, en diminuant d'un point par rang.
+
+Définir une limite minimale de récompense à zéro : aucun utilisateur ne peut recevoir un nombre négatif de points.
+
+Les récompenses sont attribuées une seule fois par période de classement, et uniquement aux utilisateurs éligibles en mode Compétition.
+
+Si une idée change de rang, les récompenses déjà versées ne doivent pas être attribuées une deuxième fois pour la même période.
+
+Prévoir des règles de départage transparentes en cas d'égalité.
+
+### C. Historique des points
+
+Chaque utilisateur en mode Compétition doit pouvoir consulter :
+- Son solde actuel.
+- Les points gagnés.
+- Les points dépensés.
+- La raison de chaque opération.
+- La date de chaque opération.
+
+Le solde ne doit jamais être modifiable directement depuis le navigateur.
+
+Toutes les opérations doivent être enregistrées côté serveur dans un historique sécurisé.
+
+---
+
+## 10. Classement général et classement par parti
+
+Créer une page « Leaderboard » ou « Classement ».
+
+Elle comporte deux vues :
+- Classement général de la plateforme.
+- Classement des membres du parti actuel.
+
+Chaque entrée affiche :
+- Le rang.
+- Le pseudonyme.
+- Le parti.
+- Le nombre total de points.
+- La progression éventuelle.
+
+Seuls les utilisateurs en mode Compétition peuvent apparaître dans ces classements.
+
+Les utilisateurs en mode Tranquillité ne doivent jamais apparaître, même avec un solde nul.
+
+Le classement doit être mis à jour automatiquement après chaque opération de points.
+
+Ne jamais afficher les identités réelles des membres.
+
+Ajouter un onglet « Changements de parti » dans la page du classement, avec les règles de visibilité et de durée définies plus loin.
+
+---
+
+## 11. Changer de parti politique
+
+Les utilisateurs doivent pouvoir changer de parti depuis leur profil.
+
+Le changement est possible à tout moment, mais il a des conséquences sur les points et les contributions.
+
+### Confirmation obligatoire
+
+Avant de confirmer, afficher le message suivant :
+
+« Vous allez changer de parti politique. Votre solde de points sera remis à zéro et vos contributions resteront associées à votre ancien parti. Vous ne pourrez plus modifier vos anciennes contributions depuis votre nouveau parti. Souhaitez-vous continuer ? »
+
+Le changement ne prend effet qu'après confirmation explicite.
+
+### Conséquences
+
+Lorsqu'un utilisateur en mode Compétition change de parti :
+- Son solde de points est remis à zéro.
+- Il quitte son ancien parti.
+- Il rejoint le nouveau parti.
+- Son classement est recalculé.
+- Il peut participer aux activités de son nouveau parti.
+- Il recommence à accumuler des points à partir de zéro.
+- Les points ne sont jamais transférés entre partis.
+
+Les anciennes contributions restent dans l'historique de leur parti d'origine.
+
+Les notes déjà adoptées restent en place et le programme ne change pas simplement parce que leur auteur quitte le parti.
+
+Les récompenses quotidiennes futures de l'ancien membre cessent de lui être attribuées.
+
+Le changement de parti ne doit pas permettre de récupérer des points en quittant un parti puis en y revenant.
+
+Pour les utilisateurs en mode Tranquillité, le changement de parti n'entraîne aucune opération de points, puisqu'ils n'en gagnent pas.
+
+Les utilisateurs doivent être retirés immédiatement des droits d'accès à leur ancien parti, tout en conservant un accès à leurs données personnelles dans les limites prévues par la plateforme.
+
+---
+
+## 12. Historique public des changements de parti
+
+Dans l'onglet « Changements de parti », afficher les changements récents des utilisateurs ayant autorisé leur publication.
+
+Les changements apparaissent pendant 14 jours à compter de leur date.
+
+Chaque entrée peut contenir :
+- Le pseudonyme public.
+- L'ancien parti.
+- Le nouveau parti.
+- Le temps écoulé depuis le changement.
+
+Exemples :
+- « Pseudo123 — Ancien LFI depuis 1 semaine — Nouveau parti : PS »
+- « Joueur456 — Ancien RN depuis 3 jours — Nouveau parti : LR »
+- « Joueur789 — Ancien Renaissance depuis 12 jours — Nouveau parti : Horizons »
+
+Adapter automatiquement l'affichage du temps écoulé.
+
+Trier les changements du plus récent au plus ancien.
+
+Permettre de filtrer les changements par ancien parti et par nouveau parti.
+
+### Confidentialité des changements
+
+L'affichage public doit être facultatif.
+
+Un utilisateur peut désactiver cette visibilité depuis son profil. Ses changements ne doivent alors pas apparaître dans cet onglet.
+
+Les utilisateurs en mode Tranquillité sont exclus de cet historique public, quel que soit leur choix de visibilité.
+
+Le système ne doit pas révéler publiquement le lien entre un compte en mode Tranquillité et ses anciens ou nouveaux partis.
+
+Les changements doivent disparaître automatiquement de l'interface publique après 14 jours. Les données conservées pour la sécurité ou les obligations légales doivent rester protégées et ne pas être rendues publiques.
+
+---
+
+## 13. Envoyer une idée à un parti adverse
+
+Les utilisateurs en mode Compétition peuvent envoyer une idée à un autre parti politique.
+
+Le coût est de 1 000 points par envoi.
+
+Le processus :
+1. L'utilisateur choisit un parti destinataire.
+2. Il rédige ou sélectionne une idée.
+3. Le système vérifie qu'il possède au moins 1 000 points.
+4. Une confirmation affiche le coût et le parti destinataire.
+5. Après confirmation, 1 000 points sont déduits.
+6. L'idée est soumise aux contrôles de modération.
+7. Une fois autorisée, elle apparaît dans le parti destinataire pendant cinq jours.
+
+### Affichage dans le parti destinataire
+
+L'idée apparaît dans une fenêtre contextuelle clairement identifiable comme une idée extérieure.
+
+Exemple :
+
+« Une idée provenant d'un autre parti »
+
+Afficher le contenu, le parti d'origine si cette information est autorisée et le temps restant avant expiration.
+
+La fenêtre doit disparaître automatiquement après cinq jours.
+
+Elle ne doit jamais modifier directement le programme officiel ni les notes adoptées du parti destinataire.
+
+Le destinataire peut consulter l'idée et décider de proposer une idée similaire dans son propre parti.
+
+Prévoir une protection contre le spam, les contenus abusifs et les envois répétitifs.
+
+Le système de modération doit empêcher l'affichage de contenus interdits avant leur diffusion. Les points ne doivent pas être débités deux fois lors d'une même opération.
+
+Les utilisateurs en mode Tranquillité ne peuvent pas envoyer d'idées payantes puisqu'ils ne possèdent pas de points utilisables.
+
+---
+
+## 14. Gestion de la confidentialité et de la sécurité
+
+La plateforme traite des opinions et appartenances politiques, qui sont des données particulièrement sensibles.
+
+Mettre en place des protections strictes :
+- Accès aux données limité selon les rôles.
+- Séparation stricte des données entre partis.
+- Protection des votes individuels.
+- Affichage public sous pseudonyme ou sous identité générique.
+- Paramètres de visibilité compréhensibles.
+- Aucun affichage public des informations de contact.
+- Possibilité de supprimer son compte.
+- Procédure de signalement et de modération.
+- Protection contre les comptes automatisés et les manipulations de points.
+- Authentification sécurisée.
+- Contrôles d'autorisation côté serveur sur chaque opération sensible.
+
+Le mode Tranquillité doit être clairement expliqué comme un mode de participation sans classement et avec une visibilité publique réduite. Ne pas promettre un anonymat absolu si certaines données doivent être traitées pour la sécurité du compte ou pour respecter les obligations applicables.
+
+Le site doit respecter les règles de protection des données applicables en France et dans l'Union européenne.
+
+---
+
+## 15. Administration de la plateforme
+
+Créer un espace d'administration sécurisé et distinct de l'interface utilisateur.
+
+L'administration doit permettre de :
+- Ajouter ou désactiver un parti.
+- Modifier les couleurs et les catégories politiques.
+- Renseigner et mettre à jour les programmes officiels.
+- Modérer les propositions et les idées signalées.
+- Consulter les statistiques globales agrégées.
+- Configurer les règles de vote.
+- Gérer les durées des votes et les récompenses.
+- Consulter les journaux de sécurité.
+- Traiter les signalements.
+- Gérer les comptes dans le respect des règles de confidentialité.
+
+Les administrateurs ne doivent pas pouvoir modifier discrètement les résultats des votes ou le solde des points sans laisser de trace.
+
+Toute intervention exceptionnelle doit être enregistrée dans un journal d'audit.
+
+---
+
+## 16. Design et expérience utilisateur
+
+Créer une interface visuellement agréable, moderne, fluide et professionnelle.
+
+Le site doit avoir une identité politique personnalisée, sans devenir visuellement agressif.
+
+Principes de design :
+- Navigation simple.
+- Cartes de partis distinctes.
+- Couleurs adaptées à chaque parti.
+- Typographie très lisible.
+- Contraste suffisant.
+- Animations discrètes.
+- Transitions fluides.
+- Indicateurs de progression des votes.
+- Cartes interactives pour la boîte à idées.
+- Classements faciles à lire.
+- Fenêtres de confirmation pour les actions irréversibles.
+- Interface adaptée à tous les écrans.
+
+Créer une page d'accueil expliquant le concept, les deux modes d'utilisation et les règles essentielles.
+
+Le mode Tranquillité doit être présenté comme une véritable option de participation, et non comme un mode dégradé. L'utilisateur doit pouvoir utiliser les fonctionnalités politiques principales sans subir de pression liée au classement.
+
+Sur ordinateur, prévoir une navigation latérale ou supérieure. Sur mobile, privilégier un menu compact et une navigation simple.
+
+---
+
+## 17. Architecture technique et règles de fonctionnement
+
+Construire une application complète avec une base de données persistante.
+
+Prévoir des entités distinctes pour :
+- Les utilisateurs.
+- Les modes de compte.
+- Les partis.
+- Les programmes officiels.
+- Les points de programme.
+- Les notes complémentaires.
+- Les propositions de notes.
+- Les phases de vote.
+- Les votes.
+- Les idées de la boîte à idées.
+- Les appréciations.
+- Les soldes de points.
+- L'historique des opérations.
+- Les classements.
+- Les changements de parti.
+- Les paramètres de visibilité.
+- Les idées envoyées entre partis.
+- Les signalements et les journaux d'audit.
+
+Utiliser les mécanismes de sécurité adaptés à la technologie déjà présente dans le projet.
+
+Les votes, les points, les changements de parti, les autorisations d'accès et les récompenses doivent être traités côté serveur.
+
+Prévoir des tâches automatiques pour :
+- La clôture des votes.
+- Le passage à la deuxième phase.
+- L'adoption ou le rejet des propositions.
+- Les récompenses quotidiennes.
+- La mise à jour des classements.
+- L'expiration des fenêtres contextuelles après cinq jours.
+- La disparition des changements de parti après 14 jours.
+
+Aucune récompense ne doit être attribuée deux fois à cause d'un rechargement de page, d'une erreur réseau ou d'une tâche exécutée plusieurs fois.
+
+---
+
+## 18. Ordre de développement
+
+Développer les fonctionnalités dans l'ordre suivant :
+
+**Étape 1 — Fondations**
+- Authentification.
+- Choix du parti.
+- Mode Compétition et mode Tranquillité.
+- Profils et paramètres de confidentialité.
+- Gestion des autorisations par parti.
+
+**Étape 2 — Programme et votes**
+- Programmes officiels.
+- Notes complémentaires.
+- Votes en deux phases.
+- Remplacement des notes.
+- Historique des propositions.
+
+**Étape 3 — Boîte à idées**
+- Cartes interactives.
+- Votes positifs et négatifs.
+- Classement des idées.
+- Modération.
+
+**Étape 4 — Gamification**
+- Points.
+- Récompenses automatiques.
+- Classements général et par parti.
+- Historique des points.
+
+**Étape 5 — Changements de parti**
+- Changement de parti avec confirmation.
+- Remise à zéro des points.
+- Historique public facultatif sur 14 jours.
+- Gestion des contributions conservées.
+
+**Étape 6 — Échanges entre partis**
+- Envoi d'idées pour 1 000 points.
+- Modération.
+- Fenêtres contextuelles pendant cinq jours.
+
+**Étape 7 — Finalisation**
+- Interface responsive.
+- Tests de sécurité.
+- Tests des droits d'accès.
+- Tests des votes et des récompenses.
+- Vérification de la confidentialité du mode Tranquillité.
+- Optimisation des performances.
+
+Ne pas passer à l'étape suivante tant que les fonctionnalités essentielles de l'étape en cours ne sont pas opérationnelles.
+
+## 19. Critères de réussite
+
+Le projet sera considéré comme fonctionnel lorsque :
+- Un utilisateur peut créer son compte et choisir un parti.
+- Il peut sélectionner le mode Compétition ou Tranquillité.
+- Le mode Tranquillité permet de participer sans gagner de points ni apparaître dans les classements.
+- Les programmes officiels sont verrouillés.
+- Les notes suivent correctement les deux phases de vote.
+- Les notes adoptées respectent la limite de trois par point.
+- Les remplacements de notes suivent le même processus de vote.
+- La boîte à idées fonctionne indépendamment pour chaque parti.
+- Les points sont attribués et dépensés correctement.
+- Le changement de parti remet les points à zéro en mode Compétition.
+- Les contributions historiques restent associées à leur parti d'origine.
+- Les changements publics n'apparaissent que si l'utilisateur les autorise et disparaissent après 14 jours.
+- Les idées envoyées à un parti adverse sont modérées et expirent après cinq jours.
+- Les accès aux données privées et aux votes des autres partis sont bloqués.
+- Les données sont persistantes et les fonctionnalités fonctionnent réellement sur ordinateur et mobile.
+
+**Priorité absolue :** construire une plateforme fiable, sécurisée et cohérente. Ne pas se limiter à créer une belle interface : chaque bouton, vote, changement de parti, récompense et paramètre de confidentialité doit avoir un fonctionnement réel côté serveur. Fait très attention à la RGPD
